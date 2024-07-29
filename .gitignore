@@ -13,3 +13,5 @@ output/
 *.pth
 *.pt
 **/data/example/**
+**/log/**
+**/logs/**

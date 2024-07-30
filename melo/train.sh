@@ -10,6 +10,9 @@ torchrun --nproc_per_node=$GPUS \
         --master_port=$PORT \
     train.py --c $CONFIG --model $MODEL_NAME 
 
+echo model name is..
+echo $MODEL_NAME
+
 for PID in $(ps -aux | grep $CONFIG | grep python | awk '{print $2}')
 do
     echo $PID

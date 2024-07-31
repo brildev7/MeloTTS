@@ -7,8 +7,8 @@ from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 import torch.distributed as dist
 from torch.nn.parallel import DistributedDataParallel as DDP
-from torch.cuda.amp import autocast #, GradScaler
-from torch.amp.grad_scaler import GradScaler
+from torch.cuda.amp import autocast, GradScaler
+# from torch.amp.grad_scaler import GradScaler
 # from torch.amp import autocast
 from tqdm import tqdm
 import logging

@@ -11,13 +11,13 @@ torchrun --nproc_per_node=$GPUS \
     train.py --c $CONFIG --model $MODEL_NAME --pretrain_G /ssd_data/code/aibox_tts/melo/models/kr/G.pth \
     --pretrain_D /ssd_data/code/aibox_tts/melo/models/kr/D.pth --pretrain_dur /ssd_data/code/aibox_tts/melo/models/kr/DUR.pth
 
-echo model name is..
-echo $MODEL_NAME
+# echo model name is..
+# echo $MODEL_NAME
 
-for PID in $(ps -aux | grep $CONFIG | grep python | awk '{print $2}')
-do
-    echo $PID
-    kill -9 $PID
-done
-sleep 30
-done
+# for PID in $(ps -aux | grep $CONFIG | grep python | awk '{print $2}')
+# do
+#     echo $PID
+#     kill -9 $PID
+# done
+# sleep 30
+# done

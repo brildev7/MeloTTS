@@ -8,10 +8,8 @@ while : # auto-resume: the code sometimes crash due to bug of gloo on some gpus
 do
 torchrun --nproc_per_node=$GPUS \
         --master_port=$PORT \
-    train.py --c $CONFIG --model $MODEL_NAME
-
-# echo model name is..
-# echo $MODEL_NAME
+    train.py --c $CONFIG --model $MODEL_NAME --pretrain_G /ssd_data/code/aibox_tts/melo/models/kr/G.pth \
+    --pretrain_D /ssd_data/code/aibox_tts/melo/models/kr/D.pth --pretrain_dur /ssd_data/code/aibox_tts/melo/models/kr/DUR.pth
 
 # for PID in $(ps -aux | grep $CONFIG | grep python | awk '{print $2}')
 # do
@@ -19,4 +17,4 @@ torchrun --nproc_per_node=$GPUS \
 #     kill -9 $PID
 # done
 # sleep 30
-# done
+done

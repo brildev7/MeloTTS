@@ -21,8 +21,8 @@
     "skip_optimizer": true
   },
   "data": {
-    "training_files": "data/kss/train.list",
-    "validation_files": "data/kss/val.list",
+    "training_files": "data/f-h3-d-005/train.list",
+    "validation_files": "data/f-h3-d-005/val.list",
     "max_wav_value": 32768.0,
     "sampling_rate": 44100,
     "filter_length": 2048,
@@ -35,7 +35,7 @@
     "n_speakers": 1,
     "cleaned_text": true,
     "spk2id": {
-      "KR-KSS": 0
+      "AIHUB-F-H3-D-005": 0
     }
   },
   "model": {

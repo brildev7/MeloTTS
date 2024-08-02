@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "F-H302-P06-D-005",
+    "import": {
+      "author": "한국어읽기연구회",
+      "book_title": "외국인을 위한 한국어 읽기 5",
+      "country": "한국",
+      "id": "F0014",
+      "publish_year": 2013,
+      "times_bg": "중세",
+      "title": "거짓말 잘하는 사위",
+      "translator": ""
+    },
+    "reciter": {
+      "age": 20,
+      "gender": "MALE",
+      "id": 5
+    },
+    "script": {
+      "chars_count": 1474,
+      "id": "F-H302",
+      "normalized": [
+        "장인어른이 좋아하시는 거짓말을 한번 했습니다, 하하하.",
+        "이런 곳에 샘이 있었구나 하고 할아버지가 반가워서 말했습니다.",
+        "할머니는 할아버지가 무사히 돌아와서 기뻤습니다.",
+        "아주 젊어졌어요, 젊었을 때 당신 얼굴이에요!",
+        "신기하군요, 그 샘물은 젊어지는 샘물이 틀림없어요!",
+        "정말 저도 젊어질까요, 그럼 내일 같이 샘물에 가요.",
+        "할머니가 몇 번 샘물을 마시자 신기하게도 젊은 색시로 변했습니다.",
+        "젊어진 할머니도 찬성했고, 젊어진 부부가 아기를 안고 산에서 내려왔습니다.",
+        "그날부터 욕심쟁이 홀아비는 젊어진 부부의 자식이 되었습니다.",
+        "착한 부부는 아기가 된 욕심쟁이를 잘 키웠습니다.",
+        "혹부리 영감이 노래를 부르기 시작했고, 혹부리 영감의 노랫소리가 어두운 산속에 울려 퍼졌습니다.",
+        "노래를 부르고 있으니까 혹부리 영감은 마음이 편해졌고, 흥이 나서 큰 소리로 노래를 불렀습니다.",
+        "원님, 제가 무 농사를 지었는데, 아주 큰 무가 나왔습니다.",
+        "여러 해 동안 농사를 지었지만, 이렇게 큰 무는 처음 봅니다.",
+        "무 하나를 바치고 송아지 한 마리를 얻었으니 농부가 횡재한 것이었습니다.",
+        "농부의 이야기가 마을에 퍼져 나갔고, 마을 사람들은 농부를 칭찬하면서도 부러워했습니다.",
+        "원님, 이 송아지를 보십시오, 저는 오랫동안 소를 키웠습니다만, 이렇게 좋은 송아지는 처음입니다.",
+        "송아지가 잘 자란 것도 다 원님 덕분입니다, 이 송아지를 원님께 바치겠습니다.",
+        "학주는 신이 나서 친구들한테 그 이야기를 들려줍니다.",
+        "종우가 맥이 빠져서 가리키는 바가지를 보고, 아이들은 마음이 푹 놓여 까르르 웃어 댑니다.",
+        "학주는 명우한테 깜짝 놀랄 소식을 전해 준다고 생각하니 기분이 들떠서 발이 땅에 닿지 않습니다.",
+        "지금 아빠의 손을 놓아 버리면 풍선이 되어 하늘로 두둥실 떠오를 것 같아서 학주는 잡은 손에 힘을 꾹 주었습니다.",
+        "학주는 내일 아침이 몹시 기다려집니다.",
+        "어느새 병태가 와서 통쾌하다는 듯이 하하하 웃어 댑니다.",
+        "병태의 말이 끝나기도 전에 동근이는 너무 웃어서 배가 아프다고 엄살입니다.",
+        "바윗덩어리처럼 마음을 무겁게 짓누르던 불안이 그 순간 가벼워졌습니다.",
+        "운동장 한가운데서 신나게 축구를 하는 병태와 동근이의 모습이었습니다.",
+        "얼굴이 새빨개진 선생님을 보며 아이들은 마음 놓고 웃음 폭탄을 터뜨렸습니다.",
+        "아이들은 와하하 웃으며 손뼉까지 쳤습니다.",
+        "뜻밖의 숙제에 아이들은 신이 나서 와아 함성을 지릅니다.",
+        "강은이와 승아는 쓴웃음을 짓다 말고 푸하하 웃어 버립니다.",
+        "민경이가 솔깃해서 하는 말에, 강은이와 승아는 새끼손가락을 걸고 힘차게 흔들었습니다.",
+        "떡볶이집에 모여서 오뎅 국물과 매운 떡볶이를 먹으면서, 세 친구는 신이 나서 떠듭니다.",
+        "민경이가 엄지손가락을 치켜세우면서 하는 말에, 승아는 물을 마시다 말고 푸하하하 웃다가 온 사방에 분수처럼 물을 내뿜었습니다.",
+        "세 친구는 배를 쥐고 동시에 깔깔깔 웃었습니다.",
+        "정주는 펄쩍펄쩍 뛰어다니며 약을 올리고, 아이들은 우스운 개그맨을 보는 것처럼 깔깔 웃었습니다.",
+        "강은이가 민경이의 말에 찬성을 하며 손뼉을 짝짝 쳤습니다.",
+        "반에서 수학을 가장 잘하는 하정주는 자랑스러운 표정을 지었습니다.",
+        "그 말에 반 아이들 모두가 배를 쥐고 까르르 웃었습니다.",
+        "여기저기에서 요란한 웃음보가 뻥 터지고 말았습니다.",
+        "차마 하정주의 욕설과 주먹이 무서워 참았던 아이들은 마음 놓고 웃기 시작했습니다.",
+        "등 뒤에서 엄마가 감탄하는 소리가 들렸습니다.",
+        "아이들이 다가와 새 옷을 만지고 감탄하는 바람에 은솔이는 기분이 날아갈 것만 같았습니다.",
+        "은솔이는 가방을 덥석 안아 들고 좋아했습니다.",
+        "은솔이는 기분이 좋아서 가방에 달린 고릴라 인형한테 뽀뽀를 해 주었습니다.",
+        "어찌나 재미있던지, 혁이네 엄마가 놀이터에 찾아온 것도 모를 정도였지요.",
+        "조은이는 고마워서 아빠 볼에 뽀뽀까지 했지요.",
+        "얼른 혁이한테 기쁜 소식을 전해 주고 싶어서 다른 때보다 학교에 빨리 갔어요.",
+        "조은이는 혁이를 보자마자 반가워서 저절로 목소리가 커졌어요.",
+        "영은이는 좋아서 폴짝폴짝 뛰었어요."
+      ],
+      "origin": [
+        "장인어른이 좋아하시는 거짓말을 한번 했습니다, 하하하.",
+        "\"이런 곳에 샘이 있었구나\" 하고 할아버지가 반가워서 말했습니다.",
+        "할머니는 할아버지가 무사히 돌아와서 기뻤습니다.",
+        "아주 젊어졌어요, 젊었을 때 당신 얼굴이에요!",
+        "신기하군요, 그 샘물은 젊어지는 샘물이 틀림없어요!",
+        "정말 저도 젊어질까요, 그럼 내일 같이 샘물에 가요.",
+        "할머니가 몇 번 샘물을 마시자 신기하게도 젊은 색시로 변했습니다.",
+        "젊어진 할머니도 찬성했고, 젊어진 부부가 아기를 안고 산에서 내려왔습니다.",
+        "그날부터 욕심쟁이 홀아비는 젊어진 부부의 자식이 되었습니다.",
+        "착한 부부는 아기가 된 욕심쟁이를 잘 키웠습니다.",
+        "혹부리 영감이 노래를 부르기 시작했고, 혹부리 영감의 노랫소리가 어두운 산속에 울려 퍼졌습니다.",
+        "노래를 부르고 있으니까 혹부리 영감은 마음이 편해졌고, 흥이 나서 큰 소리로 노래를 불렀습니다.",
+        "원님, 제가 무 농사를 지었는데, 아주 큰 무가 나왔습니다.",
+        "여러 해 동안 농사를 지었지만, 이렇게 큰 무는 처음 봅니다.",
+        "무 하나를 바치고 송아지 한 마리를 얻었으니 농부가 횡재한 것이었습니다.",
+        "농부의 이야기가 마을에 퍼져 나갔고, 마을 사람들은 농부를 칭찬하면서도 부러워했습니다.",
+        "원님, 이 송아지를 보십시오, 저는 오랫동안 소를 키웠습니다만, 이렇게 좋은 송아지는 처음입니다.",
+        "송아지가 잘 자란 것도 다 원님 덕분입니다, 이 송아지를 원님께 바치겠습니다.",
+        "학주는 신이 나서 친구들한테 그 이야기를 들려줍니다.",
+        "종우가 맥이 빠져서 가리키는 바가지를 보고, 아이들은 마음이 푹 놓여 까르르 웃어 댑니다.",
+        "학주는 명우한테 깜짝 놀랄 소식을 전해 준다고 생각하니 기분이 들떠서 발이 땅에 닿지 않습니다.",
+        "지금 아빠의 손을 놓아 버리면 풍선이 되어 하늘로 두둥실 떠오를 것 같아서 학주는 잡은 손에 힘을 꾹 주었습니다.",
+        "학주는 내일 아침이 몹시 기다려집니다.",
+        "어느새 병태가 와서 통쾌하다는 듯이 “하하하” 웃어 댑니다.",
+        "병태의 말이 끝나기도 전에 동근이는 너무 웃어서 배가 아프다고 엄살입니다.",
+        "바윗덩어리처럼 마음을 무겁게 짓누르던 불안이 그 순간 가벼워졌습니다.",
+        "운동장 한가운데서 신나게 축구를 하는 병태와 동근이의 모습이었습니다.",
+        "얼굴이 새빨개진 선생님을 보며 아이들은 마음 놓고 웃음 폭탄을 터뜨렸습니다.",
+        "아이들은 ‘와하하’ 웃으며 손뼉까지 쳤습니다.",
+        "뜻밖의 숙제에 아이들은 신이 나서 “와아” 함성을 지릅니다.",
+        "강은이와 승아는 쓴웃음을 짓다 말고 푸하하 웃어 버립니다.",
+        "민경이가 솔깃해서 하는 말에, 강은이와 승아는 새끼손가락을 걸고 힘차게 흔들었습니다.",
+        "떡볶이집에 모여서 오뎅 국물과 매운 떡볶이를 먹으면서, 세 친구는 신이 나서 떠듭니다.",
+        "민경이가 엄지손가락을 치켜세우면서 하는 말에, 승아는 물을 마시다 말고 “푸하하하” 웃다가 온 사방에 분수처럼 물을 내뿜었습니다.",
+        "세 친구는 배를 쥐고 동시에 깔깔깔 웃었습니다.",
+        "정주는 펄쩍펄쩍 뛰어다니며 약을 올리고, 아이들은 우스운 개그맨을 보는 것처럼 깔깔 웃었습니다.",
+        "강은이가 민경이의 말에 찬성을 하며 손뼉을 짝짝 쳤습니다.",
+        "반에서 수학을 가장 잘하는 하정주는 자랑스러운 표정을 지었습니다.",
+        "그 말에 반 아이들 모두가 배를 쥐고 까르르 웃었습니다.",
+        "여기저기에서 요란한 웃음보가 ‘뻥’ 터지고 말았습니다.",
+        "차마 하정주의 욕설과 주먹이 무서워 참았던 아이들은 마음 놓고 웃기 시작했습니다.",
+        "등 뒤에서 엄마가 감탄하는 소리가 들렸습니다.",
+        "아이들이 다가와 새 옷을 만지고 감탄하는 바람에 은솔이는 기분이 날아갈 것만 같았습니다.",
+        "은솔이는 가방을 덥석 안아 들고 좋아했습니다.",
+        "은솔이는 기분이 좋아서 가방에 달린 고릴라 인형한테 뽀뽀를 해 주었습니다.",
+        "어찌나 재미있던지, 혁이네 엄마가 놀이터에 찾아온 것도 모를 정도였지요.",
+        "조은이는 고마워서 아빠 볼에 뽀뽀까지 했지요.",
+        "얼른 혁이한테 기쁜 소식을 전해 주고 싶어서 다른 때보다 학교에 빨리 갔어요.",
+        "조은이는 혁이를 보자마자 반가워서 저절로 목소리가 커졌어요.",
+        "영은이는 좋아서 폴짝폴짝 뛰었어요."
+      ],
+      "part_no": 6,
+      "tokens_count": 451
+    },
+    "sentences": [
+      {
+        "id": "F-H3-D-005-0251",
+        "origin_text": "장인어른이 좋아하시는 거짓말을 한 번 했습니다, 하하하.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.280029296875,
+          "file_duration": 4.830029296875,
+          "filename": "F-H3-D-005-0251.wav",
+          "ptr": "장인어른이 좋아하시는 거짓말을 한 번 했습니다  /  하하하.",
+          "tr": "장인어른이 좋아하시는 거짓말을 한 번 했습니다, 하하하."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0252",
+        "origin_text": "\"이런 곳에 샘이 있었구나\" 하고 할아버지가 반가워서 말했습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.0399169921875,
+          "file_duration": 5.5399169921875,
+          "filename": "F-H3-D-005-0252.wav",
+          "ptr": "이런 곳에 샘이 있었구나  /  하고  /  할아버지가 반가워서 말했습니다.",
+          "tr": "이런 곳에 샘이 있었구나 하고 할아버지가 반가워서 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0253",
+        "origin_text": "할머니는 할아버지가 무사히 돌아와서 기뻤습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.760009765625,
+          "file_duration": 4.260009765625,
+          "filename": "F-H3-D-005-0253.wav",
+          "ptr": "할머니는  /  할아버지가 무사히 돌아와서  /  기뻤습니다.",
+          "tr": "할머니는 할아버지가 무사히 돌아와서 기뻤습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0254",
+        "origin_text": "아주 젊어졌어요, 젊었을 때 당신 얼굴이에요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.8599853515625,
+          "file_duration": 4.3599853515625,
+          "filename": "F-H3-D-005-0254.wav",
+          "ptr": "아주 젊어졌어요  /  젊었을 때 당신 얼굴이에요!",
+          "tr": "아주 젊어졌어요, 젊었을 때 당신 얼굴이에요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0255",
+        "origin_text": "신기하군요, 그 샘물은 젊어지는 샘물이 틀림없어요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.760009765625,
+          "file_duration": 5.349980468750001,
+          "filename": "F-H3-D-005-0255.wav",
+          "ptr": "신기하군요  /  그 샘물은  /  젊어지는 샘물이 틀림없어요!",
+          "tr": "신기하군요, 그 샘물은 젊어지는 샘물이 틀림없어요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0256",
+        "origin_text": "정말 저도 젊어질까요, 그럼 내일 같이 샘물에 가요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.1800537109375,
+          "file_duration": 5.6800537109375,
+          "filename": "F-H3-D-005-0256.wav",
+          "ptr": "정말 저도 젊어질까요  /  그럼  /  내일 같이 샘물에 가요.",
+          "tr": "정말 저도 젊어질까요, 그럼 내일 같이 샘물에 가요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0257",
+        "origin_text": "할머니가 몇 번 샘물을 마시자 신기하게도 젊은 색시로 변했습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.5999755859375,
+          "file_duration": 6.0999755859375,
+          "filename": "F-H3-D-005-0257.wav",
+          "ptr": "할머니가 몇 번 샘물을 마시자  /  신기하게도  /  젊은 색시로 변했습니다.",
+          "tr": "할머니가 몇 번 샘물을 마시자 신기하게도 젊은 색시로 변했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0258",
+        "origin_text": "젊어진 할머니도 찬성했고, 젊어진 부부가 아기를 안고 산에서 내려왔습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.219970703125,
+          "file_duration": 6.719970703125,
+          "filename": "F-H3-D-005-0258.wav",
+          "ptr": "젊어진 할머니도 찬성했고  /  젊어진 부부가  /  아기를 안고 산에서 내려왔습니다.",
+          "tr": "젊어진 할머니도 찬성했고, 젊어진 부부가 아기를 안고 산에서 내려왔습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0259",
+        "origin_text": "그날부터 욕심쟁이 홀아비는 젊어진 부부의 자식이 되었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.239990234375,
+          "file_duration": 5.739990234375,
+          "filename": "F-H3-D-005-0259.wav",
+          "ptr": "그날부터  /  욕심쟁이 홀아비는  /  젊어진 부부의  /  자식이 되었습니다.",
+          "tr": "그날부터 욕심쟁이 홀아비는 젊어진 부부의 자식이 되었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0260",
+        "origin_text": "착한 부부는 아기가 된 욕심쟁이를 잘 키웠습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.1400146484375,
+          "file_duration": 4.6400146484375,
+          "filename": "F-H3-D-005-0260.wav",
+          "ptr": "착한 부부는  /  아기가 된 욕심쟁이를  /  잘 키웠습니다.",
+          "tr": "착한 부부는 아기가 된 욕심쟁이를 잘 키웠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0261",
+        "origin_text": "혹부리 영감이 노래를 부르기 시작했고, 혹부리 영감의 노랫소리가 어두운 산속에 울려 퍼졌습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.6400146484375,
+          "file_duration": 8.1400146484375,
+          "filename": "F-H3-D-005-0261.wav",
+          "ptr": "혹부리 영감이 노래를 부르기 시작했고  /  혹부리 영감의 노랫소리가  /  어두운 산속에  /  울려 퍼졌습니다.",
+          "tr": "혹부리 영감이 노래를 부르기 시작했고, 혹부리 영감의 노랫소리가 어두운 산속에 울려 퍼졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0262",
+        "origin_text": "노래를 부르고 있으니까 혹부리 영감은 마음이 편해졌고, 흥이 나서 큰 소리로 노래를 불렀습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7,
+          "file_duration": 7.5,
+          "filename": "F-H3-D-005-0262.wav",
+          "ptr": "노래를 부르고 있으니까  /  혹부리 영감은 마음이 편해졌고  /  흥이 나서  /  큰 소리로 노래를 불렀습니다.",
+          "tr": "노래를 부르고 있으니까 혹부리 영감은 마음이 편해졌고, 흥이 나서 큰 소리로 노래를 불렀습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0263",
+        "origin_text": "원님, 제가 무 농사를 지었는데, 아주 큰 무가 나왔습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.0599365234375,
+          "file_duration": 5.5599365234375,
+          "filename": "F-H3-D-005-0263.wav",
+          "ptr": "원님  /  제가 무 농사를 지었는데  /  아주 큰 무가 나왔습니다.",
+          "tr": "원님, 제가 무 농사를 지었는데, 아주 큰 무가 나왔습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0264",
+        "origin_text": "여러 해 동안 농사를 지었지만, 이렇게 큰 무는 처음 봅니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.3800048828125,
+          "file_duration": 4.8800048828125,
+          "filename": "F-H3-D-005-0264.wav",
+          "ptr": "여러 해 동안 농사를 지었지만  /  이렇게 큰 무는 처음 봅니다.",
+          "tr": "여러 해 동안 농사를 지었지만, 이렇게 큰 무는 처음 봅니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0265",
+        "origin_text": "무 하나를 바치고 송아지 한 마리를 얻었으니 농부가 횡재한 것이었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.4400634765625,
+          "file_duration": 6.040063476562494,
+          "filename": "F-H3-D-005-0265.wav",
+          "ptr": "무 하나를 바치고 송아지 한 마리를 얻었으니  /  농부가 횡재한 것이었습니다.",
+          "tr": "무 하나를 바치고 송아지 한 마리를 얻었으니 농부가 횡재한 것이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0266",
+        "origin_text": "농부의 이야기가 마을에 퍼져 나갔고, 마을 사람들은 농부를 칭찬하면서도 부러워했습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.0399169921875,
+          "file_duration": 7.5399169921875,
+          "filename": "F-H3-D-005-0266.wav",
+          "ptr": "농부의 이야기가 마을에 퍼져 나갔고  /  마을 사람들은  /  농부를 칭찬하면서도  /  부러워했습니다.",
+          "tr": "농부의 이야기가 마을에 퍼져 나갔고, 마을 사람들은 농부를 칭찬하면서도 부러워했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0267",
+        "origin_text": "원님, 이 송아지를 보십시오, 저는 오랫동안 소를 키웠습니다만, 이렇게 좋은 송아지는 처음입니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.2598876953125,
+          "file_duration": 8.8299560546875,
+          "filename": "F-H3-D-005-0267.wav",
+          "ptr": "원님  /  이 송아지를 보십시오  /  저는 오랫동안 소를 키웠습니다만  /  이렇게 좋은 송아지는 처음입니다.",
+          "tr": "원님, 이 송아지를 보십시오, 저는 오랫동안 소를 키웠습니다만, 이렇게 좋은 송아지는 처음입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0268",
+        "origin_text": "송아지가 잘 자란 것도 다 원님 덕분입니다, 이 송아지를 원님께 바치겠습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.659912109375,
+          "file_duration": 7.159912109375,
+          "filename": "F-H3-D-005-0268.wav",
+          "ptr": "송아지가 잘 자란 것도  /  다 원님 덕분입니다  /  이 송아지를  /  원님께 바치겠습니다.",
+          "tr": "송아지가 잘 자란 것도 다 원님 덕분입니다, 이 송아지를 원님께 바치겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0269",
+        "origin_text": "학주는 신이 나서 친구들한테 그 이야기를 들려줍니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.3399658203125,
+          "file_duration": 4.8399658203125,
+          "filename": "F-H3-D-005-0269.wav",
+          "ptr": "학주는 신이 나서  /  친구들한테  /  그 이야기를 들려줍니다.",
+          "tr": "학주는 신이 나서 친구들한테 그 이야기를 들려줍니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0270",
+        "origin_text": "종우가 맥이 빠져서 가리키는 바가지를 보고, 아이들은 마음이 푹 놓여 까르르 웃어 댑니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.320068359375,
+          "file_duration": 7.820068359375,
+          "filename": "F-H3-D-005-0270.wav",
+          "ptr": "종우가 맥이 빠져서 가리키는 바가지를 보고  /  아이들은 마음이 푹 놓여  /  까르르 웃어 댑니다.",
+          "tr": "종우가 맥이 빠져서 가리키는 바가지를 보고, 아이들은 마음이 푹 놓여 까르르 웃어 댑니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0271",
+        "origin_text": "학주는 명우한테 깜짝 놀랄 소식을 전해 준다고 생각하니 기분이 들떠서 발이 땅에 닿지 않습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.0999755859375,
+          "file_duration": 8.5999755859375,
+          "filename": "F-H3-D-005-0271.wav",
+          "ptr": "학주는  /  명우한테 깜짝 놀랄 소식을 전해 준다고 생각하니  /  기분이 들떠서  /  발이 땅에 닿지 않습니다.",
+          "tr": "학주는 명우한테 깜짝 놀랄 소식을 전해 준다고 생각하니 기분이 들떠서 발이 땅에 닿지 않습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0272",
+        "origin_text": "지금 아빠의 손을 놓아 버리면 풍선이 되어 하늘로 두둥실 떠오를 것 같아서 학주는 잡은 손에 힘을 꾹 주었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 10,
+          "file_duration": 10.5,
+          "filename": "F-H3-D-005-0272.wav",
+          "ptr": "지금 아빠의 손을 놓아 버리면  /  풍선이 되어  /  하늘로 두둥실 떠오를 것 같아서  /  학주는  /  잡은 손에 힘을  /  꾹 주었습니다.",
+          "tr": "지금 아빠의 손을 놓아 버리면 풍선이 되어 하늘로 두둥실 떠오를 것 같아서 학주는 잡은 손에 힘을 꾹 주었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0273",
+        "origin_text": "학주는 내일 아침이 몹시 기다려집니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.4000244140625,
+          "file_duration": 3.9000244140625,
+          "filename": "F-H3-D-005-0273.wav",
+          "ptr": "학주는  /  내일 아침이  /  몹시 기다려집니다.",
+          "tr": "학주는 내일 아침이 몹시 기다려집니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0274",
+        "origin_text": "어느새 병태가 와서 통쾌하다는 듯이 “하하하” 웃어 댑니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.5399169921875,
+          "file_duration": 5.08998535156249,
+          "filename": "F-H3-D-005-0274.wav",
+          "ptr": "어느새 병태가 와서  /  통쾌하다는 듯이  /  하하하 웃어 댑니다.",
+          "tr": "어느새 병태가 와서 통쾌하다는 듯이 하하하 웃어 댑니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0275",
+        "origin_text": "병태의 말이 끝나기도 전에 동근이는 너무 웃어서 배가 아프다고 엄살입니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.0999755859375,
+          "file_duration": 6.5999755859375,
+          "filename": "F-H3-D-005-0275.wav",
+          "ptr": "병태의 말이 끝나기도 전에  /  동근이는  /  너무 웃어서  /  배가 아프다고 엄살입니다.",
+          "tr": "병태의 말이 끝나기도 전에 동근이는 너무 웃어서 배가 아프다고 엄살입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0276",
+        "origin_text": "바윗덩어리처럼 마음을 무겁게 짓누르던 불안이 그 순간 가벼워졌습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.9200439453125,
+          "file_duration": 6.4200439453125,
+          "filename": "F-H3-D-005-0276.wav",
+          "ptr": "바윗덩어리처럼 마음을 무겁게 짓누르던 불안이  /  그 순간  /  가벼워졌습니다.",
+          "tr": "바윗덩어리처럼 마음을 무겁게 짓누르던 불안이 그 순간 가벼워졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0277",
+        "origin_text": "운동장 한가운데서 신나게 축구를 하는 병태와 동근이의 모습이었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.0999755859375,
+          "file_duration": 5.5999755859375,
+          "filename": "F-H3-D-005-0277.wav",
+          "ptr": "운동장 한가운데서  /  신나게 축구를 하는 병태와 동근이의 모습이었습니다.",
+          "tr": "운동장 한가운데서 신나게 축구를 하는 병태와 동근이의 모습이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0278",
+        "origin_text": "얼굴이 새빨개진 선생님을 보며 아이들은 마음 놓고 웃음 폭탄을 터뜨렸습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.5,
+          "file_duration": 7,
+          "filename": "F-H3-D-005-0278.wav",
+          "ptr": "얼굴이 새빨개진 선생님을 보며  /  아이들은  /  마음 놓고  /  웃음 폭탄을 터뜨렸습니다.",
+          "tr": "얼굴이 새빨개진 선생님을 보며 아이들은 마음 놓고 웃음 폭탄을 터뜨렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0279",
+        "origin_text": "아이들은 ‘와하하’ 웃으며 손뼉까지 쳤습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.6800537109375,
+          "file_duration": 4.1800537109375,
+          "filename": "F-H3-D-005-0279.wav",
+          "ptr": "아이들은  /  와하하 웃으며  /  손뼉까지 쳤습니다.",
+          "tr": "아이들은 와하하 웃으며 손뼉까지 쳤습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0280",
+        "origin_text": "뜻밖의 숙제에 아이들은 신이 나서 “와아” 함성을 지릅니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.219970703125,
+          "file_duration": 5.719970703125,
+          "filename": "F-H3-D-005-0280.wav",
+          "ptr": "뜻밖의 숙제에  /  아이들은 신이 나서  /  와아  /  함성을 지릅니다.",
+          "tr": "뜻밖의 숙제에 아이들은 신이 나서 와아 함성을 지릅니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0281",
+        "origin_text": "강은이와 승아는 쓴웃음을 짓다 말고 푸하하 웃어 버립니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.9400634765625,
+          "file_duration": 5.4400634765625,
+          "filename": "F-H3-D-005-0281.wav",
+          "ptr": "강은이와 승아는  /  쓴웃음을 짓다 말고  /  푸하하  /  웃어 버립니다.",
+          "tr": "강은이와 승아는 쓴웃음을 짓다 말고 푸하하 웃어 버립니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0282",
+        "origin_text": "민경이가 솔깃해서 하는 말에, 강은이와 승아는 새끼손가락을 걸고 힘차게 흔들었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.93994140625,
+          "file_duration": 7.43994140625,
+          "filename": "F-H3-D-005-0282.wav",
+          "ptr": "민경이가 솔깃해서 하는 말에  /  강은이와 승아는  /  새끼손가락을 걸고  /  힘차게 흔들었습니다.",
+          "tr": "민경이가 솔깃해서 하는 말에, 강은이와 승아는 새끼손가락을 걸고 힘차게 흔들었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0283",
+        "origin_text": "떡볶이집에 모여서 오뎅 국물과 매운 떡볶이를 먹으면서, 세 친구는 신이 나서 떠듭니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.3599853515625,
+          "file_duration": 7.8599853515625,
+          "filename": "F-H3-D-005-0283.wav",
+          "ptr": "떡볶이집에 모여서  /  오뎅 국물과 매운 떡볶이를 먹으면서  /  세 친구는  /  신이 나서 떠듭니다.",
+          "tr": "떡볶이집에 모여서 오뎅 국물과 매운 떡볶이를 먹으면서, 세 친구는 신이 나서 떠듭니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0284",
+        "origin_text": "민경이가 엄지손가락을 치켜세우면서 하는 말에, 승아는 물을 마시다 말고 “푸하하하” 웃다가 온 사방에 분수처럼 물을 내뿜었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 11.1199951171875,
+          "file_duration": 11.6199951171875,
+          "filename": "F-H3-D-005-0284.wav",
+          "ptr": "민경이가  /  엄지손가락을 치켜세우면서 하는 말에  /  승아는 물을 마시다 말고 푸하하하 웃다가  /  온 사방에  /  분수처럼 물을 내뿜었습니다.",
+          "tr": "민경이가 엄지손가락을 치켜세우면서 하는 말에, 승아는 물을 마시다 말고 푸하하하 웃다가 온 사방에 분수처럼 물을 내뿜었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0285",
+        "origin_text": "세 친구는 배를 쥐고 동시에 깔깔깔 웃었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.4599609375,
+          "file_duration": 5.050029296874982,
+          "filename": "F-H3-D-005-0285.wav",
+          "ptr": "세 친구는  /  배를 쥐고  /  동시에 깔깔깔 웃었습니다.",
+          "tr": "세 친구는 배를 쥐고 동시에 깔깔깔 웃었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0286",
+        "origin_text": "정주는 펄쩍펄쩍 뛰어다니며 약을 올리고, 아이들은 우스운 개그맨을 보는 것처럼 깔깔 웃었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.1199951171875,
+          "file_duration": 8.6199951171875,
+          "filename": "F-H3-D-005-0286.wav",
+          "ptr": "정주는  /  펄쩍펄쩍 뛰어다니며 약을 올리고  /  아이들은  /  우스운 개그맨을 보는 것처럼  /  깔깔 웃었습니다.",
+          "tr": "정주는 펄쩍펄쩍 뛰어다니며 약을 올리고, 아이들은 우스운 개그맨을 보는 것처럼 깔깔 웃었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0287",
+        "origin_text": "강은이가 민경이의 말에 찬성을 하며 손뼉을 짝짝 쳤습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.7401123046875,
+          "file_duration": 5.2401123046875,
+          "filename": "F-H3-D-005-0287.wav",
+          "ptr": "강은이가  /  민경이의 말에 찬성을 하며  /  손뼉을 짝짝 쳤습니다.",
+          "tr": "강은이가 민경이의 말에 찬성을 하며 손뼉을 짝짝 쳤습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0288",
+        "origin_text": "반에서 수학을 가장 잘하는 하정주는 자랑스러운 표정을 지었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.820068359375,
+          "file_duration": 5.320068359375,
+          "filename": "F-H3-D-005-0288.wav",
+          "ptr": "반에서 수학을 가장 잘하는 하정주는  /  자랑스러운 표정을 지었습니다.",
+          "tr": "반에서 수학을 가장 잘하는 하정주는 자랑스러운 표정을 지었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0289",
+        "origin_text": "그 말에 반 아이들 모두가 배를 쥐고 까르르 웃었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.760009765625,
+          "file_duration": 5.260009765625,
+          "filename": "F-H3-D-005-0289.wav",
+          "ptr": "그 말에  /  반 아이들 모두가  /  배를 쥐고 까르르 웃었습니다.",
+          "tr": "그 말에 반 아이들 모두가 배를 쥐고 까르르 웃었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0290",
+        "origin_text": "여기저기에서 요란한 웃음보가 ‘뻥’ 터지고 말았습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.3599853515625,
+          "file_duration": 4.8599853515625,
+          "filename": "F-H3-D-005-0290.wav",
+          "ptr": "여기저기에서  /  요란한 웃음보가  /  뻥 터지고 말았습니다.",
+          "tr": "여기저기에서 요란한 웃음보가 뻥 터지고 말았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0291",
+        "origin_text": "차마 하정주의 욕설과 주먹이 무서워 참았던 아이들은 마음 놓고 웃기 시작했습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.0599365234375,
+          "file_duration": 7.5599365234375,
+          "filename": "F-H3-D-005-0291.wav",
+          "ptr": "차마  /  하정주의 욕설과 주먹이 무서워 참았던 아이들은  /  마음 놓고  /  웃기 시작했습니다.",
+          "tr": "차마 하정주의 욕설과 주먹이 무서워 참았던 아이들은 마음 놓고 웃기 시작했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0292",
+        "origin_text": "등 뒤에서 엄마가 감탄하는 소리가 들렸습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.52001953125,
+          "file_duration": 4.02001953125,
+          "filename": "F-H3-D-005-0292.wav",
+          "ptr": "등 뒤에서  /  엄마가 감탄하는 소리가 들렸습니다.",
+          "tr": "등 뒤에서 엄마가 감탄하는 소리가 들렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0293",
+        "origin_text": "아이들이 다가와 새 옷을 만지고 감탄하는 바람에 은솔이는 기분이 날아갈 것만 같았습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.080078125,
+          "file_duration": 7.580078125,
+          "filename": "F-H3-D-005-0293.wav",
+          "ptr": "아이들이 다가와  /  새 옷을 만지고 감탄하는 바람에  /  은솔이는  /  기분이 날아갈 것만 같았습니다.",
+          "tr": "아이들이 다가와 새 옷을 만지고 감탄하는 바람에 은솔이는 기분이 날아갈 것만 같았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0294",
+        "origin_text": "은솔이는 가방을 덥석 안아 들고 좋아했습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.739990234375,
+          "file_duration": 4.239990234375,
+          "filename": "F-H3-D-005-0294.wav",
+          "ptr": "은솔이는  /  가방을 덥석 안아 들고  /  좋아했습니다.",
+          "tr": "은솔이는 가방을 덥석 안아 들고 좋아했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0295",
+        "origin_text": "은솔이는 기분이 좋아서 가방에 달린 고릴라 인형한테 뽀뽀를 해 주었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.9000244140625,
+          "file_duration": 6.4000244140625,
+          "filename": "F-H3-D-005-0295.wav",
+          "ptr": "은솔이는 기분이 좋아서  /  가방에 달린 고릴라 인형한테  /  뽀뽀를 해 주었습니다.",
+          "tr": "은솔이는 기분이 좋아서 가방에 달린 고릴라 인형한테 뽀뽀를 해 주었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0296",
+        "origin_text": "어찌나 재미있던지, 혁이네 엄마가 놀이터에 찾아온 것도 모를 정도였지요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.580078125,
+          "file_duration": 6.080078125,
+          "filename": "F-H3-D-005-0296.wav",
+          "ptr": "어찌나 재미있던지  /  혁이네 엄마가 놀이터에 찾아온 것도  /  모를 정도였지요.",
+          "tr": "어찌나 재미있던지, 혁이네 엄마가 놀이터에 찾아온 것도 모를 정도였지요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0297",
+        "origin_text": "조은이는 고마워서 아빠 볼에 뽀뽀까지 했지요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.1600341796875,
+          "file_duration": 4.6600341796875,
+          "filename": "F-H3-D-005-0297.wav",
+          "ptr": "조은이는  /  고마워서  /  아빠 볼에 뽀뽀까지 했지요.",
+          "tr": "조은이는 고마워서 아빠 볼에 뽀뽀까지 했지요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0298",
+        "origin_text": "얼른 혁이한테 기쁜 소식을 전해 주고 싶어서 다른 때보다 학교에 빨리 갔어요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.1400146484375,
+          "file_duration": 6.6400146484375,
+          "filename": "F-H3-D-005-0298.wav",
+          "ptr": "얼른  /  혁이한테 기쁜 소식을 전해 주고 싶어서  /  다른 때보다  /  학교에 빨리 갔어요.",
+          "tr": "얼른 혁이한테 기쁜 소식을 전해 주고 싶어서 다른 때보다 학교에 빨리 갔어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0299",
+        "origin_text": "조은이는 혁이를 보자마자 반가워서 저절로 목소리가 커졌어요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.260009765625,
+          "file_duration": 5.760009765625,
+          "filename": "F-H3-D-005-0299.wav",
+          "ptr": "조은이는  /  혁이를 보자마자  /  반가워서  /  저절로 목소리가 커졌어요.",
+          "tr": "조은이는 혁이를 보자마자 반가워서 저절로 목소리가 커졌어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-H3-D-005-0300",
+        "origin_text": "영은이는 좋아서 폴짝폴짝 뛰었어요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 3,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.5499267578125,
+          "file_duration": 4.099960937499986,
+          "filename": "F-H3-D-005-0300.wav",
+          "ptr": "영은이는  /  좋아서 폴짝폴짝 뛰었어요.",
+          "tr": "영은이는 좋아서 폴짝폴짝 뛰었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "D",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오4"
+    },
+    "voice": {
+      "duration": 453.7099546485261,
+      "filename": "/data2/gst-voice/splitted/F/005/F-H302-P06-D-005.wav",
+      "recorded_at": "2022-09-23 03:04:46",
+      "sample_rate": 44100
+    }
+  }
+]

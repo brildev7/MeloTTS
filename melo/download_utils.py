@@ -25,9 +25,12 @@ DOWNLOAD_CONFIG_URLS = {
 }
 
 PRETRAINED_MODELS = {
-    'G.pth': 'https://myshell-public-repo-host.s3.amazonaws.com/openvoice/basespeakers/pretrained/G.pth',
-    'D.pth': 'https://myshell-public-repo-host.s3.amazonaws.com/openvoice/basespeakers/pretrained/D.pth',
-    'DUR.pth': 'https://myshell-public-repo-host.s3.amazonaws.com/openvoice/basespeakers/pretrained/DUR.pth',
+    # 'G.pth': 'https://myshell-public-repo-host.s3.amazonaws.com/openvoice/basespeakers/pretrained/G.pth',
+    # 'D.pth': 'https://myshell-public-repo-host.s3.amazonaws.com/openvoice/basespeakers/pretrained/D.pth',
+    # 'DUR.pth': 'https://myshell-public-repo-host.s3.amazonaws.com/openvoice/basespeakers/pretrained/DUR.pth',
+    'G.pth': '/ssd_data/code/aibox_tts/melo/models/kr/G.pth',
+    'D.pth': '/ssd_data/code/aibox_tts/melo/models/kr/D.pth',
+    'DUR.pth': '/ssd_data/code/aibox_tts/melo/models/kr/DUR.pth',
 }
 
 LANG_TO_HF_REPO_ID = {

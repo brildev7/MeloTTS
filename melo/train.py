@@ -169,9 +169,16 @@ def run():
     net_d = DDP(net_d, device_ids=[rank], find_unused_parameters=True)
     
     pretrain_G, pretrain_D, pretrain_dur = load_pretrain_model()
+    print("pretrained G: {}".format(pretrain_G))
+    print("pretrained D: {}".format(pretrain_D))
+    print("pretrained dur: {}".format(pretrain_dur))
+    
     hps.pretrain_G = hps.pretrain_G or pretrain_G
     hps.pretrain_D = hps.pretrain_D or pretrain_D
     hps.pretrain_dur = hps.pretrain_dur or pretrain_dur
+    print("hyperparams pretrained G: {}".format(hps.pretrain_G))
+    print("hyperparams pretrained D: {}".format(hps.pretrain_D))
+    print("hyperparams pretrained dur: {}".format(hps.pretrain_dur))
 
     if hps.pretrain_G:
         utils.load_checkpoint(

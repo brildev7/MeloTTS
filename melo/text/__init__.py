@@ -12,7 +12,13 @@ def cleaned_text_to_sequence(cleaned_text, tones, language, symbol_to_id=None):
       List of integers corresponding to the symbols in the text
     """
     symbol_to_id_map = symbol_to_id if symbol_to_id else _symbol_to_id
-    phones = [symbol_to_id_map[symbol] for symbol in cleaned_text]
+    try:
+      
+      phones = [symbol_to_id_map[symbol] for symbol in cleaned_text]
+    except KeyError as e:
+      print("key error, {}".format(e))
+      print(f"cleaned_text: {cleaned_text}")
+      
     tone_start = language_tone_start_map[language]
     tones = [i + tone_start for i in tones]
     lang_id = language_id_map[language]

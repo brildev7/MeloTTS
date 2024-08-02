@@ -20,4 +20,4 @@ torchrun --nproc_per_node=$GPUS \
 #     kill -9 $PID
 # done
 # sleep 30
-# done
+done

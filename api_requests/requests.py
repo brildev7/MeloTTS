@@ -28,7 +28,8 @@ from fastapi.encoders import jsonable_encoder
 #      "next_request_ids": ["<string>"]
 # }
 
-DEFAULT_MODEL_ID = "AM_TTS_MODEL_001"
+DEFAULT_MODEL_ID = "6c8d49f3-50b4-4025-bf5b-16e813a2686d" # melo tts pretrained korean model
+DEFAULT_VOICE_ID = "b540ea02-6c7a-478e-9e60-5d766118f84a" # melo tts default korean voice
 DEFAULT_LANG_CD = "kr"
 DEFAULT_STABILITY = 0.5
 DEFAULT_SIMILARITY_BOOST = 0.5
@@ -44,6 +45,7 @@ DEFAULT_TTS_PARAMS = {
 class TTSRequest(BaseModel):
     """텍스트 음성 변환 요청 클래스"""
     text: str = Field(description="음성 변환 대상 텍스트")
+    voice_id: str = Field(description="사용 음성 ID", default=DEFAULT_VOICE_ID)
     model_id: str = Field(description="사용 모델 ID", default=DEFAULT_MODEL_ID)
     language_code: str = Field(description="사용 언어 코드", default=DEFAULT_LANG_CD)
     voice_settings: dict = Field(description="음성 변환 파라미터", default=DEFAULT_TTS_PARAMS)

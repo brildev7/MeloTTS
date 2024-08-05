@@ -1,0 +1,507 @@
+[
+  {
+    "id": "F-A204-P12-B-021",
+    "import": {
+      "author": "한국어읽기연구회",
+      "book_title": "외국인을 위한 한국어 읽기 40",
+      "country": "한국",
+      "id": "F0091",
+      "publish_year": 2013,
+      "times_bg": "현대",
+      "title": "영수증",
+      "translator": ""
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 281,
+      "id": "F-A204",
+      "normalized": [
+        "돌석이 난, 난 싫어 하면서 울면서 화를 냈습니다.",
+        "돌석이 노마를 조르자 아저씨가 돌석이 혼나고 싶어 하고 야단쳤습니다.",
+        "얼굴이 아주 빨갛고 무섭게 보였습니다.",
+        "아저씨는 빨갛게 된 눈을 크게 뜨고 우동집 주인이 찾을 텐데 왜 가지 않았니 하며 노마를 꾸짖었습니다.",
+        "그런데 당신이 노마의 우산을 가지고 나갔잖아요.",
+        "당신이 잘못했는데 왜 노마를 꾸짖어요?",
+        "당신이 노마를 못 가게 한 거예요.",
+        "노마는 어이가 없어 오씨의 얼굴을 뚫어지게 쳐다보았습니다.",
+        "노마는 속으로 정말 속상하고 화가 난다 생각하는 중에 눈물이 나려고 했습니다.",
+        "노마는 잠깐 영수증을 들여다보고는 영수증을 찢었습니다.",
+        "차장은 관심 없다는 듯이 내가 네 엄마를 어떻게 아니 하고 퉁명스럽게 대답했습니다."
+      ],
+      "origin": [
+        "돌석이 “난, 난 싫어” 하면서 울면서 화를 냈습니다.",
+        "돌석이 노마를 조르자 아저씨가 “돌석이 혼나고 싶어” 하고 야단쳤습니다.",
+        "얼굴이 아주 빨갛고 무섭게 보였습니다.",
+        "아저씨는 빨갛게 된 눈을 크게 뜨고 \"우동집 주인이 찾을 텐데 왜 가지 않았니” 하며 노마를 꾸짖었습니다. ",
+        "그런데 당신이 노마의 우산을 가지고 나갔잖아요.",
+        "당신이 잘못했는데 왜 노마를 꾸짖어요?",
+        "당신이 노마를 못 가게 한 거예요.",
+        "노마는 어이가 없어 오씨의 얼굴을 뚫어지게 쳐다보았습니다.",
+        "노마는 속으로 '정말 속상하고 화가 난다' 생각하는 중에 눈물이 나려고 했습니다.",
+        "노마는 잠깐 영수증을 들여다보고는 영수증을 찢었습니다.",
+        "차장은 관심 없다는 듯이 \"내가 네 엄마를 어떻게 아니\" 하고 퉁명스럽게 대답했습니다."
+      ],
+      "part_no": 12,
+      "tokens_count": 91
+    },
+    "sentences": [
+      {
+        "id": "F-A2-B-021-0551",
+        "origin_text": "돌석이 “난, 난 싫어” 하면서 울면서 화를 냈습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5,
+          "file_duration": 5.5,
+          "filename": "F-A2-B-021-0551.wav",
+          "ptr": "돌석이 난  /  난 싫어 하면서  /  울면서 화를 냈습니다.",
+          "tr": "돌석이 난, 난 싫어 하면서 울면서 화를 냈습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0552",
+        "origin_text": "돌석이 노마를 조르자 아저씨가 “돌석이 혼나고 싶어” 하고 야단쳤습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.1600341796875,
+          "file_duration": 7.6600341796875,
+          "filename": "F-A2-B-021-0552.wav",
+          "ptr": "돌석이  /  노마를 조르자  /  아저씨가  /  돌석이 혼나고 싶어 하고  /  야단쳤습니다.",
+          "tr": "돌석이 노마를 조르자 아저씨가 돌석이 혼나고 싶어 하고 야단쳤습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0553",
+        "origin_text": "얼굴이 아주 빨갛고 무섭게 보였습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.239990234375,
+          "file_duration": 3.739990234375,
+          "filename": "F-A2-B-021-0553.wav",
+          "ptr": "얼굴이 아주 빨갛고  /  무섭게 보였습니다.",
+          "tr": "얼굴이 아주 빨갛고 무섭게 보였습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0554",
+        "origin_text": "아저씨는 빨갛게 된 눈을 크게 뜨고 \"우동집 주인이 찾을 텐데 왜 가지 않았니” 하며 노마를 꾸짖었습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 10.3199462890625,
+          "file_duration": 10.8199462890625,
+          "filename": "F-A2-B-021-0554.wav",
+          "ptr": "아저씨는  /  빨갛게 된 눈을 크게 뜨고  /  우동집 주인이 찾을 텐데  /  왜 가지 않았니  /  하며  /  노마를 꾸짖었습니다.",
+          "tr": "아저씨는 빨갛게 된 눈을 크게 뜨고 우동집 주인이 찾을 텐데 왜 가지 않았니 하며 노마를 꾸짖었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0555",
+        "origin_text": "그런데 당신이 노마의 우산을 가지고 나갔잖아요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.199951171875,
+          "file_duration": 4.699951171875,
+          "filename": "F-A2-B-021-0555.wav",
+          "ptr": "그런데  /  당신이 노마의 우산을 가지고 나갔잖아요.",
+          "tr": "그런데 당신이 노마의 우산을 가지고 나갔잖아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0556",
+        "origin_text": "당신이 잘못했는데 왜 노마를 꾸짖어요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.98004150390625,
+          "file_duration": 3.48004150390625,
+          "filename": "F-A2-B-021-0556.wav",
+          "ptr": "당신이 잘못했는데  /  왜 노마를 꾸짖어요?",
+          "tr": "당신이 잘못했는데 왜 노마를 꾸짖어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0557",
+        "origin_text": "당신이 노마를 못 가게 한 거예요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.55999755859375,
+          "file_duration": 3.05999755859375,
+          "filename": "F-A2-B-021-0557.wav",
+          "ptr": "당신이 노마를 못 가게 한 거예요.",
+          "tr": "당신이 노마를 못 가게 한 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0558",
+        "origin_text": "노마는 어이가 없어 오씨의 얼굴을 뚫어지게 쳐다보았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.79998779296875,
+          "file_duration": 5.29998779296875,
+          "filename": "F-A2-B-021-0558.wav",
+          "ptr": "노마는  /  어이가 없어  /  오씨의 얼굴을 뚫어지게 쳐다보았습니다.",
+          "tr": "노마는 어이가 없어 오씨의 얼굴을 뚫어지게 쳐다보았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0559",
+        "origin_text": "노마는 속으로 `정말 속상하고 화가 난다` 생각하는 중에 눈물이 나려고 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.17999267578125,
+          "file_duration": 6.67999267578125,
+          "filename": "F-A2-B-021-0559.wav",
+          "ptr": "노마는  /  속으로 정말 속상하고 화가 난다 생각하는 중에  /  눈물이 나려고 했습니다.",
+          "tr": "노마는 속으로 정말 속상하고 화가 난다 생각하는 중에 눈물이 나려고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0560",
+        "origin_text": "노마는 잠깐 영수증을 들여다보고는 영수증을 찢었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.24005126953125,
+          "file_duration": 5.799999999999997,
+          "filename": "F-A2-B-021-0560.wav",
+          "ptr": "노마는  /  잠깐 영수증을 들여다보고는  /  영수증을 찢었습니다.",
+          "tr": "노마는 잠깐 영수증을 들여다보고는 영수증을 찢었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0561",
+        "origin_text": "차장은 관심 없다는 듯이 \"내가 네 엄마를 어떻게 아니\" 하고 퉁명스럽게 대답했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.6600341796875,
+          "file_duration": 8.490053710937502,
+          "filename": "F-A2-B-021-0561.wav",
+          "ptr": "차장은  /  관심 없다는 듯이  /  내가 네 엄마를 어떻게 아니 하고  /  퉁명스럽게 대답했습니다.",
+          "tr": "차장은 관심 없다는 듯이 내가 네 엄마를 어떻게 아니 하고 퉁명스럽게 대답했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 91.72997732426303,
+      "filename": "/data2/gst-voice/splitted/F/021/F-A204-P12-B-021.wav",
+      "recorded_at": "2022-09-23 05:55:08",
+      "sample_rate": 44100
+    }
+  }
+]

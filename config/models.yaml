@@ -1,0 +1,4 @@
+models:
+  - model:
+        id: 6c8d49f3-50b4-4025-bf5b-16e813a2686d
+        desc: m_tts_ko_pretrained_model

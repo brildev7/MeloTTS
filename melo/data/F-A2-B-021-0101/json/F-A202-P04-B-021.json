@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "F-A202-P04-B-021",
+    "import": {
+      "author": "한국어읽기연구회",
+      "book_title": "외국인을 위한 한국어 읽기 18",
+      "country": "한국",
+      "id": "F0053",
+      "publish_year": 2013,
+      "times_bg": "중세",
+      "title": "견우와 직녀의 눈물",
+      "translator": ""
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 1034,
+      "id": "F-A202",
+      "normalized": [
+        "임금이 견우와 직녀를 꾸짖었습니다.",
+        "일을 하면서도 힘이 나지 않아 총각이 혼자 불평했습니다.",
+        "우렁이색시가 간절히 말했지만 총각은 우렁이색시의 말을 듣지 않았습니다.",
+        "우렁이색시는 총각의 부탁을 거절하기가 어려웠습니다.",
+        "우렁이색시는 원님에게 잡혀 갔습니다.",
+        "설씨는 아버지가 걱정되었습니다.",
+        "삼 년 동안 먼 곳에 가서 일하기는 어려웠습니다.",
+        "그래서 삼 년이 지난 뒤에도 나라에서는 가실을 보내 주지 않았습니다.",
+        "가실은 육 년이 지나도록 돌아오지 않았습니다.",
+        "옷은 나뭇가지에 걸려 여기저기 찢어졌고 얼굴과 몸에도 상처가 생겼습니다.",
+        "금덩어리를 든 형은 갑자기 욕심이 생겼습니다.",
+        "한참 걸어서 집 근처에 왔을 때 동생은 갑자기 욕심이 생겼습니다.",
+        "동생은 속으로 형과 똑같은 생각을 했습니다.",
+        "형은 동생의 금덩이가 더 클 수도 있다는 생각에 얼굴을 찌푸리며 집으로 들어갔습니다.",
+        "아내는 얼굴을 찌푸리며 말했습니다.",
+        "동생의 아내는 이야기를 듣고 나더니 한숨을 쉬었습니다.",
+        "아내의 말에 동생은 바보가 될 것 같았습니다.",
+        "동생은 무척 속이 상해 한숨을 쉬며 방으로 들어갔습니다.",
+        "그날 밤 동생은 잠을 잘 수가 없었습니다.",
+        "사람들은 동생이 벌을 받아 코가 길어졌다고 했습니다.",
+        "그런데 가끔 징석과 징옥이 싸울 때가 있었습니다.",
+        "사람들은 징옥의 일이 더 위험하다고 했습니다.",
+        "사람들은 징석이 숨어 있다가 활만 쏜다고 했습니다.",
+        "징석과 징옥은 이길 생각뿐이었습니다.",
+        "징석이 화를 내며 말했습니다.",
+        "그러자 징석이 화를 내며 말했습니다.",
+        "형제가 또 싸우려고 했습니다.",
+        "자기가 최고로 힘이 세다고 생각했습니다.",
+        "진 사람은 실망해서 화를 냈습니다.",
+        "어머니는 오누이의 힘 내기를 싫어했습니다.",
+        "누가 이겨도 항상 싸움으로 끝났기 때문이었습니다.",
+        "형은 동생의 눈을 안 보이게 만들었습니다.",
+        "그리고 동생의 돈을 가지고 달아났습니다.",
+        "동생은 눈도 잃고 돈도 잃고 형도 잃었습니다.",
+        "사람들 중에는 나무를 뽑지 말자는 사람도 있었습니다.",
+        "김 부자는 놀라서 아무 말도 못 했습니다.",
+        "동생은 지네를 뜨거운 기름 속에 넣었습니다.",
+        "그날부터 조신은 온통 원님의 딸 생각뿐이었습니다.",
+        "원님의 딸을 만날 수 있다면 죽어도 좋을 것 같았습니다.",
+        "하지만 조신은 원님의 딸을 만날 수 없었습니다.",
+        "그녀에게 가까이 다가갈 수도 없었습니다.",
+        "하지만 집은 그 사이에 아주 많이 낡아 있었습니다.",
+        "아침부터 밤까지 쉬지 않고 일했으나 두 사람이 먹을 것은 충분하지 않았습니다.",
+        "조신은 더 많은 돈을 벌어야 했습니다.",
+        "하지만 먹을 것은 항상 부족했습니다.",
+        "아이들은 서로 더 많이 먹으려고 싸우곤 했습니다.",
+        "하지만 배고픈 아이들은 싸움을 계속했습니다.",
+        "보희는 놀라고 두려웠습니다.",
+        "보희는 너무 놀라서 소리를 질르며 잠에서 깨어났습니다.",
+        "김유신이 여동생을 죽이려 한다는 소문이 퍼졌습니다."
+      ],
+      "origin": [
+        "임금이 견우와 직녀를 꾸짖었습니다.",
+        "일을 하면서도 힘이 나지 않아 총각이 혼자 불평했습니다.",
+        "우렁이색시가 간절히 말했지만 총각은 우렁이색시의 말을 듣지 않았습니다. ",
+        "우렁이색시는 총각의 부탁을 거절하기가 어려웠습니다.",
+        "우렁이색시는 원님에게 잡혀 갔습니다. ",
+        "설씨는 아버지가 걱정되었습니다.",
+        "삼 년 동안 먼 곳에 가서 일하기는 어려웠습니다.",
+        "그래서 삼 년이 지난 뒤에도 나라에서는 가실을 보내 주지 않았습니다.",
+        "가실은 육 년이 지나도록 돌아오지 않았습니다. ",
+        "옷은 나뭇가지에 걸려 여기저기 찢어졌고 얼굴과 몸에도 상처가 생겼습니다. ",
+        "금덩어리를 든 형은 갑자기 욕심이 생겼습니다. ",
+        "한참 걸어서 집 근처에 왔을 때 동생은 갑자기 욕심이 생겼습니다.",
+        "동생은 속으로 형과 똑같은 생각을 했습니다.",
+        "형은 동생의 금덩이가 더 클 수도 있다는 생각에 얼굴을 찌푸리며 집으로 들어갔습니다. ",
+        "아내는 얼굴을 찌푸리며 말했습니다. ",
+        "동생의 아내는 이야기를 듣고 나더니 한숨을 쉬었습니다.",
+        "아내의 말에 동생은 바보가 될 것 같았습니다.",
+        "동생은 무척 속이 상해 한숨을 쉬며 방으로 들어갔습니다.",
+        "그날 밤 동생은 잠을 잘 수가 없었습니다. ",
+        "사람들은 동생이 벌을 받아 코가 길어졌다고 했습니다. ",
+        "그런데 가끔 징석과 징옥이 싸울 때가 있었습니다.",
+        "사람들은 징옥의 일이 더 위험하다고 했습니다.",
+        "사람들은 징석이 숨어 있다가 활만 쏜다고 했습니다. ",
+        "징석과 징옥은 이길 생각뿐이었습니다.",
+        "징석이 화를 내며 말했습니다.",
+        "그러자 징석이 화를 내며 말했습니다.",
+        "형제가 또 싸우려고 했습니다.",
+        "자기가 최고로 힘이 세다고 생각했습니다.",
+        "진 사람은 실망해서 화를 냈습니다.",
+        "어머니는 오누이의 힘 내기를 싫어했습니다.",
+        "누가 이겨도 항상 싸움으로 끝났기 때문이었습니다.",
+        "형은 동생의 눈을 안 보이게 만들었습니다.",
+        "그리고 동생의 돈을 가지고 달아났습니다.",
+        "동생은 눈도 잃고 돈도 잃고 형도 잃었습니다.",
+        "사람들 중에는 나무를 뽑지 말자는 사람도 있었습니다.",
+        "김 부자는 놀라서 아무 말도 못 했습니다.",
+        "동생은 지네를 뜨거운 기름 속에 넣었습니다.",
+        "그날부터 조신은 온통 원님의 딸 생각뿐이었습니다.",
+        "원님의 딸을 만날 수 있다면 죽어도 좋을 것 같았습니다.",
+        "하지만 조신은 원님의 딸을 만날 수 없었습니다.",
+        "그녀에게 가까이 다가갈 수도 없었습니다.",
+        "하지만 집은 그 사이에 아주 많이 낡아 있었습니다.",
+        "아침부터 밤까지 쉬지 않고 일했으나 두 사람이 먹을 것은 충분하지 않았습니다.",
+        "조신은 더 많은 돈을 벌어야 했습니다.",
+        "하지만 먹을 것은 항상 부족했습니다.",
+        "아이들은 서로 더 많이 먹으려고 싸우곤 했습니다.",
+        "하지만 배고픈 아이들은 싸움을 계속했습니다.",
+        "보희는 놀라고 두려웠습니다.",
+        "보희는 너무 놀라서 소리를 질르며 잠에서 깨어났습니다.",
+        "김유신이 여동생을 죽이려 한다는 소문이 퍼졌습니다."
+      ],
+      "part_no": 4,
+      "tokens_count": 320
+    },
+    "sentences": [
+      {
+        "id": "F-A2-B-021-0151",
+        "origin_text": "임금이 견우와 직녀를 꾸짖었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.490000009536743,
+          "file_duration": 3.9400000095367433,
+          "filename": "F-A2-B-021-0151.wav",
+          "ptr": "임금이  /  견우와 직녀를 꾸짖었습니다.",
+          "tr": "임금이 견우와 직녀를 꾸짖었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0152",
+        "origin_text": "일을 하면서도 힘이 나지 않아 총각이 혼자 불평했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.200000762939453,
+          "file_duration": 5.700000762939453,
+          "filename": "F-A2-B-021-0152.wav",
+          "ptr": "일을 하면서도  /  힘이 나지 않아  /  총각이  /  혼자 불평했습니다.",
+          "tr": "일을 하면서도 힘이 나지 않아 총각이 혼자 불평했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0153",
+        "origin_text": "우렁이색시가 간절히 말했지만 총각은 우렁이색시의 말을 듣지 않았습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.340000152587891,
+          "file_duration": 6.840000152587891,
+          "filename": "F-A2-B-021-0153.wav",
+          "ptr": "우렁이 색시가  /  간절히 말했지만  /  총각은  /  우렁이 색시의 말을 듣지 않았습니다.",
+          "tr": "우렁이 색시가 간절히 말했지만 총각은 우렁이 색시의 말을 듣지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0154",
+        "origin_text": "우렁이색시는 총각의 부탁을 거절하기가 어려웠습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.379999160766602,
+          "file_duration": 4.879999160766602,
+          "filename": "F-A2-B-021-0154.wav",
+          "ptr": "우렁이 색시는  /  총각의 부탁을 거절하기가  /  어려웠습니다.",
+          "tr": "우렁이 색시는 총각의 부탁을 거절하기가 어려웠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0155",
+        "origin_text": "우렁이색시는 원님에게 잡혀 갔습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.520000457763672,
+          "file_duration": 3.020000457763672,
+          "filename": "F-A2-B-021-0155.wav",
+          "ptr": "우렁이 색시는  /  원님에게 잡혀 갔습니다.",
+          "tr": "우렁이 색시는 원님에게 잡혀 갔습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0156",
+        "origin_text": "설씨는 아버지가 걱정되었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.7600021362304688,
+          "file_duration": 3.2600021362304688,
+          "filename": "F-A2-B-021-0156.wav",
+          "ptr": "설씨는  /  아버지가 걱정되었습니다.",
+          "tr": "설씨는 아버지가 걱정되었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0157",
+        "origin_text": "삼 년 동안 먼 곳에 가서 일하기는 어려웠습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.4199981689453125,
+          "file_duration": 3.9199981689453125,
+          "filename": "F-A2-B-021-0157.wav",
+          "ptr": "삼 년 동안  /  먼 곳에 가서 일하기는  /  어려웠습니다.",
+          "tr": "삼 년 동안 먼 곳에 가서 일하기는 어려웠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0158",
+        "origin_text": "그래서 삼 년이 지난 뒤에도 나라에서는 가실을 보내 주지 않았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.100002288818359,
+          "file_duration": 6.600002288818359,
+          "filename": "F-A2-B-021-0158.wav",
+          "ptr": "그래서  /  삼 년이 지난 뒤에도  /  나라에서는  /  가실을 보내 주지 않았습니다.",
+          "tr": "그래서 삼 년이 지난 뒤에도 나라에서는 가실을 보내 주지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0159",
+        "origin_text": "가실은 육 년이 지나도록 돌아오지 않았습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.859996795654297,
+          "file_duration": 4.359996795654297,
+          "filename": "F-A2-B-021-0159.wav",
+          "ptr": "가실은  /  육 년이 지나도록  /  돌아오지 않았습니다.",
+          "tr": "가실은 육 년이 지나도록 돌아오지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0160",
+        "origin_text": "옷은 나뭇가지에 걸려 여기저기 찢어졌고 얼굴과 몸에도 상처가 생겼습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.220001220703125,
+          "file_duration": 7.720001220703125,
+          "filename": "F-A2-B-021-0160.wav",
+          "ptr": "옷은  /  나뭇가지에 걸려  /  여기저기 찢어졌고  /  얼굴과 몸에도  /  상처가 생겼습니다.",
+          "tr": "옷은 나뭇가지에 걸려 여기저기 찢어졌고 얼굴과 몸에도 상처가 생겼습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0161",
+        "origin_text": "금덩어리를 든 형은 갑자기 욕심이 생겼습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.3600006103515625,
+          "file_duration": 4.8600006103515625,
+          "filename": "F-A2-B-021-0161.wav",
+          "ptr": "금덩어리를 든 형은  /  갑자기  /  욕심이 생겼습니다.",
+          "tr": "금덩어리를 든 형은 갑자기 욕심이 생겼습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0162",
+        "origin_text": "한참 걸어서 집 근처에 왔을 때 동생은 갑자기 욕심이 생겼습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.279998779296875,
+          "file_duration": 6.779998779296875,
+          "filename": "F-A2-B-021-0162.wav",
+          "ptr": "한참 걸어서  /  집 근처에 왔을 때  /  동생은  /  갑자기 욕심이 생겼습니다.",
+          "tr": "한참 걸어서 집 근처에 왔을 때 동생은 갑자기 욕심이 생겼습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0163",
+        "origin_text": "동생은 속으로 형과 똑같은 생각을 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.040000915527344,
+          "file_duration": 4.540000915527344,
+          "filename": "F-A2-B-021-0163.wav",
+          "ptr": "동생은  /  속으로  /  형과 똑같은 생각을 했습니다.",
+          "tr": "동생은 속으로 형과 똑같은 생각을 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0164",
+        "origin_text": "형은 동생의 금덩이가 더 클 수도 있다는 생각에 얼굴을 찌푸리며 집으로 들어갔습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.900001525878906,
+          "file_duration": 8.400001525878906,
+          "filename": "F-A2-B-021-0164.wav",
+          "ptr": "형은  /  동생의 금덩이가  /  더 클 수도 있다는 생각에  /  얼굴을 찌푸리며  /  집으로 들어갔습니다.",
+          "tr": "형은 동생의 금덩이가 더 클 수도 있다는 생각에 얼굴을 찌푸리며 집으로 들어갔습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0165",
+        "origin_text": "아내는 얼굴을 찌푸리며 말했습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.1199951171875,
+          "file_duration": 3.6199951171875,
+          "filename": "F-A2-B-021-0165.wav",
+          "ptr": "아내는  /  얼굴을 찌푸리며 말했습니다.",
+          "tr": "아내는 얼굴을 찌푸리며 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0166",
+        "origin_text": "동생의 아내는 이야기를 듣고 나더니 한숨을 쉬었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.900001525878906,
+          "file_duration": 5.400001525878906,
+          "filename": "F-A2-B-021-0166.wav",
+          "ptr": "동생의 아내는  /  이야기를 듣고 나더니  /  한숨을 쉬었습니다.",
+          "tr": "동생의 아내는 이야기를 듣고 나더니 한숨을 쉬었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0167",
+        "origin_text": "아내의 말에 동생은 바보가 될 것 같았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.3199996948242188,
+          "file_duration": 3.8199996948242188,
+          "filename": "F-A2-B-021-0167.wav",
+          "ptr": "아내의 말에 동생은  /  바보가 될 것 같았습니다.",
+          "tr": "아내의 말에 동생은 바보가 될 것 같았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0168",
+        "origin_text": "동생은 무척 속이 상해 한숨을 쉬며 방으로 들어갔습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.600006103515625,
+          "file_duration": 6.100006103515625,
+          "filename": "F-A2-B-021-0168.wav",
+          "ptr": "동생은  /  무척 속이 상해  /  한숨을 쉬며  /  방으로 들어갔습니다.",
+          "tr": "동생은 무척 속이 상해 한숨을 쉬며 방으로 들어갔습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0169",
+        "origin_text": "그날 밤 동생은 잠을 잘 수가 없었습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.920013427734375,
+          "file_duration": 4.420013427734375,
+          "filename": "F-A2-B-021-0169.wav",
+          "ptr": "그날 밤  /  동생은  /  잠을 잘 수가 없었습니다.",
+          "tr": "그날 밤 동생은 잠을 잘 수가 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0170",
+        "origin_text": "사람들은 동생이 벌을 받아 코가 길어졌다고 했습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.220001220703125,
+          "file_duration": 4.720001220703125,
+          "filename": "F-A2-B-021-0170.wav",
+          "ptr": "사람들은  /  동생이 벌을 받아  /  코가 길어졌다고 했습니다.",
+          "tr": "사람들은 동생이 벌을 받아 코가 길어졌다고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0171",
+        "origin_text": "그런데 가끔 징석과 징옥이 싸울 때가 있었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.980010986328125,
+          "file_duration": 5.480010986328125,
+          "filename": "F-A2-B-021-0171.wav",
+          "ptr": "그런데  /  가끔 징석과 징옥이  /  싸울 때가 있었습니다.",
+          "tr": "그런데 가끔 징석과 징옥이 싸울 때가 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0172",
+        "origin_text": "사람들은 징옥의 일이 더 위험하다고 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.6999969482421875,
+          "file_duration": 4.1999969482421875,
+          "filename": "F-A2-B-021-0172.wav",
+          "ptr": "사람들은  /  징옥의 일이  /  더 위험하다고 했습니다.",
+          "tr": "사람들은 징옥의 일이 더 위험하다고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0173",
+        "origin_text": "사람들은 징석이 숨어 있다가 활만 쏜다고 했습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.040008544921875,
+          "file_duration": 5.540008544921875,
+          "filename": "F-A2-B-021-0173.wav",
+          "ptr": "사람들은  /  징석이  /  숨어 있다가  /  활만 쏜다고 했습니다.",
+          "tr": "사람들은 징석이 숨어 있다가 활만 쏜다고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0174",
+        "origin_text": "징석과 징옥은 이길 생각뿐이었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.2599945068359375,
+          "file_duration": 3.7599945068359375,
+          "filename": "F-A2-B-021-0174.wav",
+          "ptr": "징석과 징옥은  /  이길 생각뿐이었습니다.",
+          "tr": "징석과 징옥은 이길 생각뿐이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0175",
+        "origin_text": "징석이 화를 내며 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.5200042724609375,
+          "file_duration": 3.0200042724609375,
+          "filename": "F-A2-B-021-0175.wav",
+          "ptr": "징석이  /  화를 내며 말했습니다.",
+          "tr": "징석이 화를 내며 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0176",
+        "origin_text": "그러자 징석이 화를 내며 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.1399993896484375,
+          "file_duration": 3.6399993896484375,
+          "filename": "F-A2-B-021-0176.wav",
+          "ptr": "그러자  /  징석이 화를 내며 말했습니다.",
+          "tr": "그러자 징석이 화를 내며 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0177",
+        "origin_text": "형제가 또 싸우려고 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.17999267578125,
+          "file_duration": 2.67999267578125,
+          "filename": "F-A2-B-021-0177.wav",
+          "ptr": "형제가  /  또 싸우려고 했습니다.",
+          "tr": "형제가 또 싸우려고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0178",
+        "origin_text": "자기가 최고로 힘이 세다고 생각했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.8800048828125,
+          "file_duration": 3.3800048828125,
+          "filename": "F-A2-B-021-0178.wav",
+          "ptr": "자기가 최고로  /  힘이 세다고 생각했습니다.",
+          "tr": "자기가 최고로 힘이 세다고 생각했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0179",
+        "origin_text": "진 사람은 실망해서 화를 냈습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.6199951171875,
+          "file_duration": 4.1199951171875,
+          "filename": "F-A2-B-021-0179.wav",
+          "ptr": "진 사람은  /  실망해서  /  화를 냈습니다.",
+          "tr": "진 사람은 실망해서 화를 냈습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0180",
+        "origin_text": "어머니는 오누이의 힘 내기를 싫어했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.540008544921875,
+          "file_duration": 4.040008544921875,
+          "filename": "F-A2-B-021-0180.wav",
+          "ptr": "어머니는  /  오누이의 힘 내기를  /  싫어했습니다.",
+          "tr": "어머니는 오누이의 힘 내기를 싫어했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0181",
+        "origin_text": "누가 이겨도 항상 싸움으로 끝났기 때문이었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.8800048828125,
+          "file_duration": 4.3800048828125,
+          "filename": "F-A2-B-021-0181.wav",
+          "ptr": "누가 이겨도  /  항상  /  싸움으로 끝났기 때문이었습니다.",
+          "tr": "누가 이겨도 항상 싸움으로 끝났기 때문이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0182",
+        "origin_text": "형은 동생의 눈을 안 보이게 만들었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.720001220703125,
+          "file_duration": 4.220001220703125,
+          "filename": "F-A2-B-021-0182.wav",
+          "ptr": "형은  /  동생의 눈을  /  안 보이게 만들었습니다.",
+          "tr": "형은 동생의 눈을 안 보이게 만들었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0183",
+        "origin_text": "그리고 동생의 돈을 가지고 달아났습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.55999755859375,
+          "file_duration": 4.05999755859375,
+          "filename": "F-A2-B-021-0183.wav",
+          "ptr": "그리고  /  동생의 돈을 가지고  /  달아났습니다.",
+          "tr": "그리고 동생의 돈을 가지고 달아났습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0184",
+        "origin_text": "동생은 눈도 잃고 돈도 잃고 형도 잃었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.05999755859375,
+          "file_duration": 5.55999755859375,
+          "filename": "F-A2-B-021-0184.wav",
+          "ptr": "동생은  /  눈도 잃고  /  돈도 잃고  /  형도 잃었습니다.",
+          "tr": "동생은 눈도 잃고 돈도 잃고 형도 잃었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0185",
+        "origin_text": "사람들 중에는 나무를 뽑지 말자는 사람도 있었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.9600067138671875,
+          "file_duration": 4.4600067138671875,
+          "filename": "F-A2-B-021-0185.wav",
+          "ptr": "사람들 중에는  /  나무를 뽑지 말자는 사람도 있었습니다.",
+          "tr": "사람들 중에는 나무를 뽑지 말자는 사람도 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0186",
+        "origin_text": "김 부자는 놀라서 아무 말도 못 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.1400146484375,
+          "file_duration": 3.6400146484375,
+          "filename": "F-A2-B-021-0186.wav",
+          "ptr": "김 부자는  /  놀라서 아무 말도 못 했습니다.",
+          "tr": "김 부자는 놀라서 아무 말도 못 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0187",
+        "origin_text": "동생은 지네를 뜨거운 기름 속에 넣었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.540008544921875,
+          "file_duration": 4.040008544921875,
+          "filename": "F-A2-B-021-0187.wav",
+          "ptr": "동생은  /  지네를 뜨거운 기름 속에 넣었습니다.",
+          "tr": "동생은 지네를 뜨거운 기름 속에 넣었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0188",
+        "origin_text": "그날부터 조신은 온통 원님의 딸 생각뿐이었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.819976806640625,
+          "file_duration": 5.319976806640625,
+          "filename": "F-A2-B-021-0188.wav",
+          "ptr": "그날부터 조신은  /  온통  /  원님의 딸 생각뿐이었습니다.",
+          "tr": "그날부터 조신은 온통 원님의 딸 생각뿐이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0189",
+        "origin_text": "원님의 딸을 만날 수 있다면 죽어도 좋을 것 같았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.779998779296875,
+          "file_duration": 4.279998779296875,
+          "filename": "F-A2-B-021-0189.wav",
+          "ptr": "원님의 딸을 만날 수 있다면  /  죽어도 좋을 것 같았습니다.",
+          "tr": "원님의 딸을 만날 수 있다면 죽어도 좋을 것 같았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0190",
+        "origin_text": "하지만 조신은 원님의 딸을 만날 수 없었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.67999267578125,
+          "file_duration": 5.17999267578125,
+          "filename": "F-A2-B-021-0190.wav",
+          "ptr": "하지만  /  조신은  /  원님의 딸을 만날 수 없었습니다.",
+          "tr": "하지만 조신은 원님의 딸을 만날 수 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0191",
+        "origin_text": "그녀에게 가까이 다가갈 수도 없었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.5,
+          "file_duration": 3,
+          "filename": "F-A2-B-021-0191.wav",
+          "ptr": "그녀에게 가까이 다가갈 수도 없었습니다.",
+          "tr": "그녀에게 가까이 다가갈 수도 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0192",
+        "origin_text": "하지만 집은 그 사이에 아주 많이 낡아 있었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.100006103515625,
+          "file_duration": 5.600006103515625,
+          "filename": "F-A2-B-021-0192.wav",
+          "ptr": "하지만  /  집은 그 사이에  /  아주 많이 낡아 있었습니다.",
+          "tr": "하지만 집은 그 사이에 아주 많이 낡아 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0193",
+        "origin_text": "아침부터 밤까지 쉬지 않고 일했으나 두 사람이 먹을 것은 충분하지 않았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.05999755859375,
+          "file_duration": 7.55999755859375,
+          "filename": "F-A2-B-021-0193.wav",
+          "ptr": "아침부터 밤까지  /  쉬지 않고 일했으나  /  두 사람이 먹을 것은  /  충분하지 않았습니다.",
+          "tr": "아침부터 밤까지 쉬지 않고 일했으나 두 사람이 먹을 것은 충분하지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0194",
+        "origin_text": "조신은 더 많은 돈을 벌어야 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.100006103515625,
+          "file_duration": 3.600006103515625,
+          "filename": "F-A2-B-021-0194.wav",
+          "ptr": "조신은  /  더 많은 돈을 벌어야 했습니다.",
+          "tr": "조신은 더 많은 돈을 벌어야 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0195",
+        "origin_text": "하지만 먹을 것은 항상 부족했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.480010986328125,
+          "file_duration": 3.980010986328125,
+          "filename": "F-A2-B-021-0195.wav",
+          "ptr": "하지만  /  먹을 것은  /  항상 부족했습니다.",
+          "tr": "하지만 먹을 것은 항상 부족했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0196",
+        "origin_text": "아이들은 서로 더 많이 먹으려고 싸우곤 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.17999267578125,
+          "file_duration": 4.67999267578125,
+          "filename": "F-A2-B-021-0196.wav",
+          "ptr": "아이들은  /  서로 더 많이 먹으려고  /  싸우곤 했습니다.",
+          "tr": "아이들은 서로 더 많이 먹으려고 싸우곤 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0197",
+        "origin_text": "하지만 배고픈 아이들은 싸움을 계속했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.739990234375,
+          "file_duration": 5.239990234375,
+          "filename": "F-A2-B-021-0197.wav",
+          "ptr": "하지만  /  배고픈 아이들은  /  싸움을 계속했습니다.",
+          "tr": "하지만 배고픈 아이들은 싸움을 계속했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0198",
+        "origin_text": "보희는 놀라고 두려웠습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.639984130859375,
+          "file_duration": 3.139984130859375,
+          "filename": "F-A2-B-021-0198.wav",
+          "ptr": "보희는  /  놀라고 두려웠습니다.",
+          "tr": "보희는 놀라고 두려웠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0199",
+        "origin_text": "보희는 너무 놀라서 소리를 질르며 잠에서 깨어났습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.540008544921875,
+          "file_duration": 6.040008544921875,
+          "filename": "F-A2-B-021-0199.wav",
+          "ptr": "보희는  /  너무 놀라서  /  소리를 질르며  /  잠에서 깨어났습니다.",
+          "tr": "보희는 너무 놀라서 소리를 질르며 잠에서 깨어났습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0200",
+        "origin_text": "김유신이 여동생을 죽이려 한다는 소문이 퍼졌습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.019989013671875,
+          "file_duration": 4.519989013671875,
+          "filename": "F-A2-B-021-0200.wav",
+          "ptr": "김유신이  /  여동생을 죽이려 한다는 소문이 퍼졌습니다.",
+          "tr": "김유신이 여동생을 죽이려 한다는 소문이 퍼졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 365.49,
+      "filename": "/data2/gst-voice/splitted/F/021/F-A202-P04-B-021.wav",
+      "recorded_at": "2022-09-23 05:54:48",
+      "sample_rate": 44100
+    }
+  }
+]

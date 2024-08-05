@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "F-A204-P11-B-021",
+    "import": {
+      "author": "한국어읽기연구회",
+      "book_title": "외국인을 위한 한국어 읽기 33",
+      "country": "한국",
+      "id": "F0084",
+      "publish_year": 2013,
+      "times_bg": "근대",
+      "title": "홍길동전",
+      "translator": ""
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 1383,
+      "id": "F-A204",
+      "normalized": [
+        "부인이 초낭에게 그런 일은 사람이 할 일이 아니다라고 단호하게 거절했습니다.",
+        "중들은 백성을 속여 곡식을 빼앗았습니다.",
+        "중들은 그 재물을 절에 쌓아 놓고 잘 먹고 살았습니다.",
+        "도둑들이 북쪽으로 갔으니 빨리 쫓아가서 잡으십시오.",
+        "관군은 도둑을 잡을 수가 없었습니다.",
+        "임금은 길현을 경상도 수령으로 임명하고, 길동을 잡으라고 명령했습니다.",
+        "관리들은 더 높은 벼슬을 받을 생각만 했습니다.",
+        "전우치는 하늘 위에서 큰소리로 임금은 하느님의 명령을 들어라라고 말했습니다.",
+        "전우치에 관한 소문은 온 나라에 퍼졌고 임금도 전우치에게 속은 것을 알았습니다.",
+        "임금은 당장 전우치를 잡아 오라고 했습니다.",
+        "그 소리에 병사들이 놀라 묶인 것을 보니 그것은 전우치가 아니고 큰 나무토막이었습니다.",
+        "신하들은 끓는 기름에 병을 넣자고 했습니다.",
+        "병사들이 병을 깨뜨리자 병 조각들이 모두 움직이며 말했습니다.",
+        "저에게 벌주실 생각만 하지 마시고 백성들이나 잘 돌보십시오.",
+        "전우치가 나타나면 그때 죽이십시오.",
+        "빨리 조씨를 벌주고 다른 사람은 풀어 주십시오.",
+        "백성들을 돌보지 않고 놀기만 좋아하는 관리들을 찾아가 벌주었습니다.",
+        "남자는 돈이 든 상자를 들고 나오려고 했는데 문이 잠겨 열리지 않았습니다.",
+        "돈과 보물이 개구리와 뱀으로 변해 있었습니다.",
+        "전우치는 도둑을 꾸짖으며 너희의 죄는 매우 크다라고 말했습니다.",
+        "그때 왕연희라는 신하가 임금에게 서쪽 지방에 임금님을 해치려는 무리들이 나타났습니다라고 말했습니다.",
+        "그는 전우치가 임금의 칭찬을 받자 화가 났습니다.",
+        "저는 결코 임금님을 해치려고 한 적이 없습니다.",
+        "묵손은 장원에게 금방울이 마을을 해칠 괴물이라고 했습니다.",
+        "다음 날 아침이 되자 장원은 무엇을 먹어도 뜨거워서 삼킬 수가 없었습니다.",
+        "아이가 없는 변씨는 해룡을 보고 기쁜 척했지만 속으로는 해룡을 미워했습니다.",
+        "장삼은 변씨를 꾸짖었지만 변씨는 행동을 고치지 않았습니다.",
+        "금방울이 괴물의 배 속에서 괴물을 세차게 공격하고 있었습니다.",
+        "그런데 왜 금강산에까지 가서 못생긴 여자를 데리고 오셨습니까?",
+        "여자의 말에 속아 나라의 큰일을 함부로 결정하면 안 됩니다.",
+        "곧 적이 쳐들어올 텐데, 그렇게 되면 나라가 큰 위험에 처하게 될 것입니다.",
+        "청나라 장군은 화가 나서 박씨의 말에 반대한 신하를 불러들였습니다.",
+        "불을 내서 피화당에 있는 사람들을 모조리 죽이려는 것이었습니다.",
+        "이생의 아버지가 무섭게 화를 내며 네가 몰래 여자를 만나는 게 분명하다 하고 말했습니다.",
+        "또 적들은 남의 집에 들어가서 재물을 빼앗고 가축을 함부로 잡아먹었습니다.",
+        "저는 당신의 아내가 되었고 그래서 짐승 같은 놈들을 따라가지 않았어요.",
+        "물건도 못 만들고 장사도 못하면, 도둑질은 어때요?",
+        "허생은 벌떡 일어나서 밖으로 나가 버렸습니다.",
+        "왜 나를 이토록 불행하게 만들려고 합니까?",
+        "어렵다는 말밖에는 아는 게 없으십니까?",
+        "원하는 것을 이루기 위해 필요한 일들을 할 수 없다면 원하는 것을 어떻게 이룰 수 있습니까?",
+        "정승께서는 정녕 나라를 위하는 신하가 맞습니까?",
+        "호랑이는 화를 내며 의원은 정말 믿을 수 없는 놈이다 하고 말했습니다.",
+        "그런데 빠져나와 보니까 호랑이가 북곽 선생을 노려보고 있었습니다.",
+        "호랑이는 북곽 선생을 꾸짖으며 쯧쯧, 선비는 참 더러운 것이구나 하고 말했습니다.",
+        "호랑이가 허 참, 평소에는 나를 욕하다가 내가 무서우니까 좋은 말을 하는구나 하고 말했습니다.",
+        "당신 인간들은 죄인의 코를 자르거나 발을 자르기도 하는 심한 벌을 줍니다.",
+        "인간들은 호랑이가 소나 말을 잡아먹는다고 미워하지만 정작 자기들은 소나 말의 도움을 받고도 열심히 그 고기를 먹습니다.",
+        "인간들은 우리가 먹을 노루와 사슴까지도 함부로 잡습니다.",
+        "어떤 때는 새벽 한두 시까지 못 잘 때도 있는데 그러면 자꾸 화가 나고 울고 싶어집니다."
+      ],
+      "origin": [
+        "부인이 초낭에게 “그런 일은 사람이 할 일이 아니다\"라고 단호하게 거절했습니다.",
+        "중들은 백성을 속여 곡식을 빼앗았습니다.",
+        "중들은 그 재물을 절에 쌓아 놓고 잘 먹고 살았습니다.",
+        "도둑들이 북쪽으로 갔으니 빨리 쫓아가서 잡으십시오.",
+        "관군은 도둑을 잡을 수가 없었습니다.",
+        "임금은 길현을 경상도 수령으로 임명하고, 길동을 잡으라고 명령했습니다.",
+        "관리들은 더 높은 벼슬을 받을 생각만 했습니다.",
+        "전우치는 하늘 위에서 큰소리로 \"임금은 하느님의 명령을 들어라\"라고 말했습니다.",
+        "전우치에 관한 소문은 온 나라에 퍼졌고 임금도 전우치에게 속은 것을 알았습니다.",
+        "임금은 당장 전우치를 잡아 오라고 했습니다.",
+        "그 소리에 병사들이 놀라 묶인 것을 보니 그것은 전우치가 아니고 큰 나무토막이었습니다.",
+        "신하들은 끓는 기름에 병을 넣자고 했습니다.",
+        "병사들이 병을 깨뜨리자 병 조각들이 모두 움직이며 말했습니다.",
+        "저에게 벌주실 생각만 하지 마시고 백성들이나 잘 돌보십시오.",
+        "전우치가 나타나면 그때 죽이십시오.",
+        "빨리 조씨를 벌주고 다른 사람은 풀어 주십시오.",
+        "백성들을 돌보지 않고 놀기만 좋아하는 관리들을 찾아가 벌주었습니다.",
+        "남자는 돈이 든 상자를 들고 나오려고 했는데 문이 잠겨 열리지 않았습니다.",
+        "돈과 보물이 개구리와 뱀으로 변해 있었습니다.",
+        "전우치는 도둑을 꾸짖으며 “너희의 죄는 매우 크다\"라고 말했습니다. ",
+        "그때 왕연희라는 신하가 임금에게 “서쪽 지방에 임금님을 해치려는 무리들이 나타났습니다\"라고 말했습니다.",
+        "그는 전우치가 임금의 칭찬을 받자 화가 났습니다. ",
+        "저는 결코 임금님을 해치려고 한 적이 없습니다.",
+        "묵손은 장원에게 금방울이 마을을 해칠 괴물이라고 했습니다. ",
+        "다음 날 아침이 되자 장원은 무엇을 먹어도 뜨거워서 삼킬 수가 없었습니다.",
+        "아이가 없는 변씨는 해룡을 보고 기쁜 척했지만 속으로는 해룡을 미워했습니다.",
+        "장삼은 변씨를 꾸짖었지만 변씨는 행동을 고치지 않았습니다.",
+        "금방울이 괴물의 배 속에서 괴물을 세차게 공격하고 있었습니다.",
+        "그런데 왜 금강산에까지 가서 못생긴 여자를 데리고 오셨습니까? ",
+        "여자의 말에 속아 나라의 큰일을 함부로 결정하면 안 됩니다.",
+        "곧 적이 쳐들어올 텐데, 그렇게 되면 나라가 큰 위험에 처하게 될 것입니다.",
+        "청나라 장군은 화가 나서 박씨의 말에 반대한 신하를 불러들였습니다.",
+        "불을 내서 피화당에 있는 사람들을 모조리 죽이려는 것이었습니다.",
+        "이생의 아버지가 무섭게 화를 내며 “네가 몰래 여자를 만나는 게 분명하다\" 하고 말했습니다.",
+        "또 적들은 남의 집에 들어가서 재물을 빼앗고 가축을 함부로 잡아먹었습니다.",
+        "저는 당신의 아내가 되었고 그래서 짐승 같은 놈들을 따라가지 않았어요.",
+        "물건도 못 만들고 장사도 못하면, 도둑질은 어때요?",
+        "허생은 벌떡 일어나서 밖으로 나가 버렸습니다.",
+        "왜 나를 이토록 불행하게 만들려고 합니까?",
+        "어렵다는 말밖에는 아는 게 없으십니까?",
+        "원하는 것을 이루기 위해 필요한 일들을 할 수 없다면 원하는 것을 어떻게 이룰 수 있습니까?",
+        "정승께서는 정녕 나라를 위하는 신하가 맞습니까?",
+        "호랑이는 화를 내며 \"의원은 정말 믿을 수 없는 놈이다\" 하고 말했습니다. ",
+        "그런데 빠져나와 보니까 호랑이가 북곽 선생을 노려보고 있었습니다.",
+        "호랑이는 북곽 선생을 꾸짖으며 “쯧쯧, 선비는 참 더러운 것이구나” 하고 말했습니다.",
+        "호랑이가 \"허 참, 평소에는 나를 욕하다가 내가 무서우니까 좋은 말을 하는구나\" 하고 말했습니다.",
+        "당신 인간들은 죄인의 코를 자르거나 발을 자르기도 하는 심한 벌을 줍니다.",
+        "인간들은 호랑이가 소나 말을 잡아먹는다고 미워하지만 정작 자기들은 소나 말의 도움을 받고도 열심히 그 고기를 먹습니다.",
+        "인간들은 우리가 먹을 노루와 사슴까지도 함부로 잡습니다.",
+        "어떤 때는 새벽 한두 시까지 못 잘 때도 있는데 그러면 자꾸 화가 나고 울고 싶어집니다."
+      ],
+      "part_no": 11,
+      "tokens_count": 438
+    },
+    "sentences": [
+      {
+        "id": "F-A2-B-021-0501",
+        "origin_text": "부인이 초낭에게 “그런 일은 사람이 할 일이 아니다\"라고 단호하게 거절했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.20001220703125,
+          "file_duration": 6.70001220703125,
+          "filename": "F-A2-B-021-0501.wav",
+          "ptr": "부인이  /  초낭에게 그런 일은  /  사람이 할 일이 아니다라고  /  단호하게 거절했습니다.",
+          "tr": "부인이 초낭에게 그런 일은 사람이 할 일이 아니다라고 단호하게 거절했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0502",
+        "origin_text": "중들은 백성을 속여 곡식을 빼앗았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.740020751953125,
+          "file_duration": 4.240020751953125,
+          "filename": "F-A2-B-021-0502.wav",
+          "ptr": "중들은  /  백성을 속여 곡식을 빼앗았습니다.",
+          "tr": "중들은 백성을 속여 곡식을 빼앗았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0503",
+        "origin_text": "중들은 그 재물을 절에 쌓아 놓고 잘 먹고 살았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.360015869140625,
+          "file_duration": 5.860015869140625,
+          "filename": "F-A2-B-021-0503.wav",
+          "ptr": "중들은  /  그 재물을 절에 쌓아 놓고  /  잘 먹고 살았습니다.",
+          "tr": "중들은 그 재물을 절에 쌓아 놓고 잘 먹고 살았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0504",
+        "origin_text": "도둑들이 북쪽으로 갔으니 빨리 쫓아가서 잡으십시오.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.379974365234375,
+          "file_duration": 4.879974365234375,
+          "filename": "F-A2-B-021-0504.wav",
+          "ptr": "도둑들이  /  북쪽으로 갔으니  /  빨리 쫓아가서 잡으십시오.",
+          "tr": "도둑들이 북쪽으로 갔으니 빨리 쫓아가서 잡으십시오."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0505",
+        "origin_text": "관군은 도둑을 잡을 수가 없었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.41998291015625,
+          "file_duration": 3.91998291015625,
+          "filename": "F-A2-B-021-0505.wav",
+          "ptr": "관군은  /  도둑을 잡을 수가 없었습니다.",
+          "tr": "관군은 도둑을 잡을 수가 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0506",
+        "origin_text": "임금은 길현을 경상도 수령으로 임명하고, 길동을 잡으라고 명령했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.660003662109375,
+          "file_duration": 7.160003662109375,
+          "filename": "F-A2-B-021-0506.wav",
+          "ptr": "임금은  /  길현을  /  경상도 수령으로 임명하고  /  길동을 잡으라고 명령했습니다.",
+          "tr": "임금은 길현을 경상도 수령으로 임명하고, 길동을 잡으라고 명령했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0507",
+        "origin_text": "관리들은 더 높은 벼슬을 받을 생각만 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.899993896484375,
+          "file_duration": 4.399993896484375,
+          "filename": "F-A2-B-021-0507.wav",
+          "ptr": "관리들은  /  더 높은 벼슬을 받을 생각만 했습니다.",
+          "tr": "관리들은 더 높은 벼슬을 받을 생각만 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0508",
+        "origin_text": "전우치는 하늘 위에서 큰소리로 \"임금은 하느님의 명령을 들어라\"라고 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.8599853515625,
+          "file_duration": 9.3599853515625,
+          "filename": "F-A2-B-021-0508.wav",
+          "ptr": "전우치는  /  하늘 위에서  /  큰소리로  /  임금은  /  하느님의 명령을 들어라라고 말했습니다.",
+          "tr": "전우치는 하늘 위에서 큰소리로 임금은 하느님의 명령을 들어라라고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0509",
+        "origin_text": "전우치에 관한 소문은 온 나라에 퍼졌고 임금도 전우치에게 속은 것을 알았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.17999267578125,
+          "file_duration": 7.67999267578125,
+          "filename": "F-A2-B-021-0509.wav",
+          "ptr": "전우치에 관한 소문은  /  온 나라에 퍼졌고  /  임금도  /  전우치에게 속은 것을 알았습니다.",
+          "tr": "전우치에 관한 소문은 온 나라에 퍼졌고 임금도 전우치에게 속은 것을 알았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0510",
+        "origin_text": "임금은 당장 전우치를 잡아 오라고 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.560028076171875,
+          "file_duration": 4.060028076171875,
+          "filename": "F-A2-B-021-0510.wav",
+          "ptr": "임금은  /  당장 전우치를 잡아 오라고 했습니다.",
+          "tr": "임금은 당장 전우치를 잡아 오라고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0511",
+        "origin_text": "그 소리에 병사들이 놀라 묶인 것을 보니 그것은 전우치가 아니고 큰 나무토막이었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.699981689453125,
+          "file_duration": 8.199981689453125,
+          "filename": "F-A2-B-021-0511.wav",
+          "ptr": "그 소리에  /  병사들이 놀라  /  묶인 것을 보니  /  그것은 전우치가 아니고  /  큰 나무토막이었습니다.",
+          "tr": "그 소리에 병사들이 놀라 묶인 것을 보니 그것은 전우치가 아니고 큰 나무토막이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0512",
+        "origin_text": "신하들은 끓는 기름에 병을 넣자고 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.459991455078125,
+          "file_duration": 3.959991455078125,
+          "filename": "F-A2-B-021-0512.wav",
+          "ptr": "신하들은  /  끓는 기름에 병을 넣자고 했습니다.",
+          "tr": "신하들은 끓는 기름에 병을 넣자고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0513",
+        "origin_text": "병사들이 병을 깨뜨리자 병 조각들이 모두 움직이며 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.05999755859375,
+          "file_duration": 5.55999755859375,
+          "filename": "F-A2-B-021-0513.wav",
+          "ptr": "병사들이 병을 깨뜨리자  /  병 조각들이 모두 움직이며 말했습니다.",
+          "tr": "병사들이 병을 깨뜨리자 병 조각들이 모두 움직이며 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0514",
+        "origin_text": "저에게 벌주실 생각만 하지 마시고 백성들이나 잘 돌보십시오.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.380035400390625,
+          "file_duration": 5.880035400390625,
+          "filename": "F-A2-B-021-0514.wav",
+          "ptr": "저에게 벌주실 생각만 하지 마시고  /  백성들이나 잘 돌보십시오.",
+          "tr": "저에게 벌주실 생각만 하지 마시고 백성들이나 잘 돌보십시오."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0515",
+        "origin_text": "전우치가 나타나면 그때 죽이십시오.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.82000732421875,
+          "file_duration": 3.32000732421875,
+          "filename": "F-A2-B-021-0515.wav",
+          "ptr": "전우치가 나타나면  /  그때 죽이십시오.",
+          "tr": "전우치가 나타나면 그때 죽이십시오."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0516",
+        "origin_text": "빨리 조씨를 벌주고 다른 사람은 풀어 주십시오.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.36004638671875,
+          "file_duration": 4.86004638671875,
+          "filename": "F-A2-B-021-0516.wav",
+          "ptr": "빨리 조씨를 벌주고  /  다른 사람은 풀어 주십시오.",
+          "tr": "빨리 조씨를 벌주고 다른 사람은 풀어 주십시오."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0517",
+        "origin_text": "백성들을 돌보지 않고 놀기만 좋아하는 관리들을 찾아가 벌주었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.96002197265625,
+          "file_duration": 5.46002197265625,
+          "filename": "F-A2-B-021-0517.wav",
+          "ptr": "백성들을 돌보지 않고 놀기만 좋아하는 관리들을 찾아가  /  벌주었습니다.",
+          "tr": "백성들을 돌보지 않고 놀기만 좋아하는 관리들을 찾아가 벌주었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0518",
+        "origin_text": "남자는 돈이 든 상자를 들고 나오려고 했는데 문이 잠겨 열리지 않았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.97998046875,
+          "file_duration": 7.47998046875,
+          "filename": "F-A2-B-021-0518.wav",
+          "ptr": "남자는  /  돈이 든 상자를 들고 나오려고 했는데  /  문이 잠겨  /  열리지 않았습니다.",
+          "tr": "남자는 돈이 든 상자를 들고 나오려고 했는데 문이 잠겨 열리지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0519",
+        "origin_text": "돈과 보물이 개구리와 뱀으로 변해 있었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4,
+          "file_duration": 4.5,
+          "filename": "F-A2-B-021-0519.wav",
+          "ptr": "돈과 보물이  /  개구리와 뱀으로 변해 있었습니다.",
+          "tr": "돈과 보물이 개구리와 뱀으로 변해 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0520",
+        "origin_text": "전우치는 도둑을 꾸짖으며 “너희의 죄는 매우 크다\"라고 말했습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.15997314453125,
+          "file_duration": 6.65997314453125,
+          "filename": "F-A2-B-021-0520.wav",
+          "ptr": "전우치는  /  도둑을 꾸짖으며  /  너희의 죄는 매우 크다라고 말했습니다.",
+          "tr": "전우치는 도둑을 꾸짖으며 너희의 죄는 매우 크다라고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0521",
+        "origin_text": "그때 왕연희라는 신하가 임금에게 “서쪽 지방에 임금님을 해치려는 무리들이 나타났습니다\"라고 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.17999267578125,
+          "file_duration": 9.67999267578125,
+          "filename": "F-A2-B-021-0521.wav",
+          "ptr": "그때  /  왕연희라는 신하가  /  임금에게  /  서쪽 지방에 임금님을 해치려는 무리들이 나타났습니다라고 말했습니다.",
+          "tr": "그때 왕연희라는 신하가 임금에게 서쪽 지방에 임금님을 해치려는 무리들이 나타났습니다라고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0522",
+        "origin_text": "그는 전우치가 임금의 칭찬을 받자 화가 났습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.15997314453125,
+          "file_duration": 5.65997314453125,
+          "filename": "F-A2-B-021-0522.wav",
+          "ptr": "그는  /  전우치가 임금의 칭찬을 받자  /  화가 났습니다.",
+          "tr": "그는 전우치가 임금의 칭찬을 받자 화가 났습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0523",
+        "origin_text": "저는 결코 임금님을 해치려고 한 적이 없습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.0999755859375,
+          "file_duration": 4.5999755859375,
+          "filename": "F-A2-B-021-0523.wav",
+          "ptr": "저는  /  결코 임금님을 해치려고 한 적이 없습니다.",
+          "tr": "저는 결코 임금님을 해치려고 한 적이 없습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0524",
+        "origin_text": "묵손은 장원에게 금방울이 마을을 해칠 괴물이라고 했습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.1600341796875,
+          "file_duration": 5.6600341796875,
+          "filename": "F-A2-B-021-0524.wav",
+          "ptr": "묵손은  /  장원에게  /  금방울이 마을을 해칠 괴물이라고 했습니다.",
+          "tr": "묵손은 장원에게 금방울이 마을을 해칠 괴물이라고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0525",
+        "origin_text": "다음 날 아침이 되자 장원은 무엇을 먹어도 뜨거워서 삼킬 수가 없었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.67999267578125,
+          "file_duration": 7.17999267578125,
+          "filename": "F-A2-B-021-0525.wav",
+          "ptr": "다음 날 아침이 되자  /  장원은  /  무엇을 먹어도 뜨거워서  /  삼킬 수가 없었습니다.",
+          "tr": "다음 날 아침이 되자 장원은 무엇을 먹어도 뜨거워서 삼킬 수가 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0526",
+        "origin_text": "아이가 없는 변씨는 해룡을 보고 기쁜 척했지만 속으로는 해룡을 미워했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.739990234375,
+          "file_duration": 8.239990234375,
+          "filename": "F-A2-B-021-0526.wav",
+          "ptr": "아이가 없는 변씨는  /  해룡을 보고 기쁜 척했지만  /  속으로는  /  해룡을 미워했습니다.",
+          "tr": "아이가 없는 변씨는 해룡을 보고 기쁜 척했지만 속으로는 해룡을 미워했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0527",
+        "origin_text": "장삼은 변씨를 꾸짖었지만 변씨는 행동을 고치지 않았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.25994873046875,
+          "file_duration": 6.75994873046875,
+          "filename": "F-A2-B-021-0527.wav",
+          "ptr": "장삼은  /  변씨를 꾸짖었지만  /  변씨는  /  행동을 고치지 않았습니다.",
+          "tr": "장삼은 변씨를 꾸짖었지만 변씨는 행동을 고치지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0528",
+        "origin_text": "금방울이 괴물의 배 속에서 괴물을 세차게 공격하고 있었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.24005126953125,
+          "file_duration": 5.74005126953125,
+          "filename": "F-A2-B-021-0528.wav",
+          "ptr": "금방울이 괴물의 배 속에서  /  괴물을  /  세차게 공격하고 있었습니다.",
+          "tr": "금방울이 괴물의 배 속에서 괴물을 세차게 공격하고 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0529",
+        "origin_text": "그런데 왜 금강산에까지 가서 못생긴 여자를 데리고 오셨습니까? ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.52001953125,
+          "file_duration": 6.02001953125,
+          "filename": "F-A2-B-021-0529.wav",
+          "ptr": "그런데  /  왜 금강산에까지 가서  /  못생긴 여자를 데리고 오셨습니까?",
+          "tr": "그런데 왜 금강산에까지 가서 못생긴 여자를 데리고 오셨습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0530",
+        "origin_text": "여자의 말에 속아 나라의 큰일을 함부로 결정하면 안 됩니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.22003173828125,
+          "file_duration": 5.72003173828125,
+          "filename": "F-A2-B-021-0530.wav",
+          "ptr": "여자의 말에 속아  /  나라의 큰일을  /  함부로 결정하면 안 됩니다.",
+          "tr": "여자의 말에 속아 나라의 큰일을 함부로 결정하면 안 됩니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0531",
+        "origin_text": "곧 적이 쳐들어올 텐데, 그렇게 되면 나라가 큰 위험에 처하게 될 것입니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.55999755859375,
+          "file_duration": 6.05999755859375,
+          "filename": "F-A2-B-021-0531.wav",
+          "ptr": "곧 적이 쳐들어올 텐데  /  그렇게 되면  /  나라가 큰 위험에 처하게 될 것입니다.",
+          "tr": "곧 적이 쳐들어올 텐데, 그렇게 되면 나라가 큰 위험에 처하게 될 것입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0532",
+        "origin_text": "청나라 장군은 화가 나서 박씨의 말에 반대한 신하를 불러들였습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.08001708984375,
+          "file_duration": 6.58001708984375,
+          "filename": "F-A2-B-021-0532.wav",
+          "ptr": "청나라 장군은  /  화가 나서  /  박씨의 말에 반대한 신하를  /  불러들였습니다.",
+          "tr": "청나라 장군은 화가 나서 박씨의 말에 반대한 신하를 불러들였습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0533",
+        "origin_text": "불을 내서 피화당에 있는 사람들을 모조리 죽이려는 것이었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.37994384765625,
+          "file_duration": 4.87994384765625,
+          "filename": "F-A2-B-021-0533.wav",
+          "ptr": "불을 내서  /  피화당에 있는 사람들을 모조리 죽이려는 것이었습니다.",
+          "tr": "불을 내서 피화당에 있는 사람들을 모조리 죽이려는 것이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0534",
+        "origin_text": "이생의 아버지가 무섭게 화를 내며 “네가 몰래 여자를 만나는 게 분명하다\" 하고 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.8800048828125,
+          "file_duration": 8.3800048828125,
+          "filename": "F-A2-B-021-0534.wav",
+          "ptr": "이생의 아버지가 무섭게 화를 내며  /  네가 몰래 여자를 만나는 게  /  분명하다 하고  /  말했습니다.",
+          "tr": "이생의 아버지가 무섭게 화를 내며 네가 몰래 여자를 만나는 게 분명하다 하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0535",
+        "origin_text": "또 적들은 남의 집에 들어가서 재물을 빼앗고 가축을 함부로 잡아먹었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.8599853515625,
+          "file_duration": 7.3599853515625,
+          "filename": "F-A2-B-021-0535.wav",
+          "ptr": "또  /  적들은 남의 집에 들어가서 재물을 빼앗고  /  가축을  /  함부로 잡아먹었습니다.",
+          "tr": "또 적들은 남의 집에 들어가서 재물을 빼앗고 가축을 함부로 잡아먹었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0536",
+        "origin_text": "저는 당신의 아내가 되었고 그래서 짐승 같은 놈들을 따라가지 않았어요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.6199951171875,
+          "file_duration": 7.1199951171875,
+          "filename": "F-A2-B-021-0536.wav",
+          "ptr": "저는  /  당신의 아내가 되었고  /  그래서  /  짐승 같은 놈들을 따라가지 않았어요.",
+          "tr": "저는 당신의 아내가 되었고 그래서 짐승 같은 놈들을 따라가지 않았어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0537",
+        "origin_text": "물건도 못 만들고 장사도 못하면, 도둑질은 어때요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.41998291015625,
+          "file_duration": 4.91998291015625,
+          "filename": "F-A2-B-021-0537.wav",
+          "ptr": "물건도 못 만들고  /  장사도 못하면  /  도둑질은 어때요?",
+          "tr": "물건도 못 만들고 장사도 못하면, 도둑질은 어때요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0538",
+        "origin_text": "허생은 벌떡 일어나서 밖으로 나가 버렸습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.94000244140625,
+          "file_duration": 4.44000244140625,
+          "filename": "F-A2-B-021-0538.wav",
+          "ptr": "허생은  /  벌떡 일어나서  /  밖으로 나가 버렸습니다.",
+          "tr": "허생은 벌떡 일어나서 밖으로 나가 버렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0539",
+        "origin_text": "왜 나를 이토록 불행하게 만들려고 합니까?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.1400146484375,
+          "file_duration": 3.6400146484375,
+          "filename": "F-A2-B-021-0539.wav",
+          "ptr": "왜 나를  /  이토록 불행하게 만들려고 합니까?",
+          "tr": "왜 나를 이토록 불행하게 만들려고 합니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0540",
+        "origin_text": "어렵다는 말밖에는 아는 게 없으십니까?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.20001220703125,
+          "file_duration": 3.70001220703125,
+          "filename": "F-A2-B-021-0540.wav",
+          "ptr": "어렵다는 말밖에는  /  아는 게 없으십니까?",
+          "tr": "어렵다는 말밖에는 아는 게 없으십니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0541",
+        "origin_text": "원하는 것을 이루기 위해 필요한 일들을 할 수 없다면 원하는 것을 어떻게 이룰 수 있습니까?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.3399658203125,
+          "file_duration": 7.8399658203125,
+          "filename": "F-A2-B-021-0541.wav",
+          "ptr": "원하는 것을 이루기 위해  /  필요한 일들을 할 수 없다면  /  원하는 것을  /  어떻게 이룰 수 있습니까?",
+          "tr": "원하는 것을 이루기 위해 필요한 일들을 할 수 없다면 원하는 것을 어떻게 이룰 수 있습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0542",
+        "origin_text": "정승께서는 정녕 나라를 위하는 신하가 맞습니까?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.9000244140625,
+          "file_duration": 4.4000244140625,
+          "filename": "F-A2-B-021-0542.wav",
+          "ptr": "정승께서는  /  정녕 나라를 위하는 신하가 맞습니까?",
+          "tr": "정승께서는 정녕 나라를 위하는 신하가 맞습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0543",
+        "origin_text": "호랑이는 화를 내며 \"의원은 정말 믿을 수 없는 놈이다\" 하고 말했습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.44000244140625,
+          "file_duration": 5.94000244140625,
+          "filename": "F-A2-B-021-0543.wav",
+          "ptr": "호랑이는 화를 내며  /  의원은 정말 믿을 수 없는 놈이다 하고 말했습니다.",
+          "tr": "호랑이는 화를 내며 의원은 정말 믿을 수 없는 놈이다 하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0544",
+        "origin_text": "그런데 빠져나와 보니까 호랑이가 북곽 선생을 노려보고 있었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.1800537109375,
+          "file_duration": 6.6800537109375,
+          "filename": "F-A2-B-021-0544.wav",
+          "ptr": "그런데  /  빠져나와 보니까  /  호랑이가 북곽 선생을 노려보고 있었습니다.",
+          "tr": "그런데 빠져나와 보니까 호랑이가 북곽 선생을 노려보고 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0545",
+        "origin_text": "호랑이는 북곽 선생을 꾸짖으며 “쯧쯧, 선비는 참 더러운 것이구나” 하고 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.760009765625,
+          "file_duration": 9.260009765625,
+          "filename": "F-A2-B-021-0545.wav",
+          "ptr": "호랑이는  /  북곽 선생을 꾸짖으며  /  쯧쯧  /  선비는  /  참 더러운 것이구나 하고 말했습니다.",
+          "tr": "호랑이는 북곽 선생을 꾸짖으며 쯧쯧, 선비는 참 더러운 것이구나 하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0546",
+        "origin_text": "호랑이가 \"허 참, 평소에는 나를 욕하다가 내가 무서우니까 좋은 말을 하는구나\" 하고 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.62005615234375,
+          "file_duration": 9.12005615234375,
+          "filename": "F-A2-B-021-0546.wav",
+          "ptr": "호랑이가  /  허 참  /  평소에는 나를 욕하다가  /  내가 무서우니까  /  좋은 말을 하는구나 하고 말했습니다.",
+          "tr": "호랑이가 허 참, 평소에는 나를 욕하다가 내가 무서우니까 좋은 말을 하는구나 하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0547",
+        "origin_text": "당신 인간들은 죄인의 코를 자르거나 발을 자르기도 하는 심한 벌을 줍니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.82000732421875,
+          "file_duration": 7.32000732421875,
+          "filename": "F-A2-B-021-0547.wav",
+          "ptr": "당신 인간들은  /  죄인의 코를 자르거나  /  발을 자르기도 하는  /  심한 벌을 줍니다.",
+          "tr": "당신 인간들은 죄인의 코를 자르거나 발을 자르기도 하는 심한 벌을 줍니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0548",
+        "origin_text": "인간들은 호랑이가 소나 말을 잡아먹는다고 미워하지만 정작 자기들은 소나 말의 도움을 받고도 열심히 그 고기를 먹습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 11.6800537109375,
+          "file_duration": 12.1800537109375,
+          "filename": "F-A2-B-021-0548.wav",
+          "ptr": "인간들은  /  호랑이가 소나 말을 잡아먹는다고 미워하지만  /  정작  /  자기들은  /  소나 말의 도움을 받고도  /  열심히 그 고기를 먹습니다.",
+          "tr": "인간들은 호랑이가 소나 말을 잡아먹는다고 미워하지만 정작 자기들은 소나 말의 도움을 받고도 열심히 그 고기를 먹습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0549",
+        "origin_text": "인간들은 우리가 먹을 노루와 사슴까지도 함부로 잡습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.44000244140625,
+          "file_duration": 5.94000244140625,
+          "filename": "F-A2-B-021-0549.wav",
+          "ptr": "인간들은  /  우리가 먹을 노루와 사슴까지도  /  함부로 잡습니다.",
+          "tr": "인간들은 우리가 먹을 노루와 사슴까지도 함부로 잡습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0550",
+        "origin_text": "어떤 때는 새벽 한두 시까지 못 잘 때도 있는데 그러면 자꾸 화가 나고 울고 싶어집니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.739990234375,
+          "file_duration": 9.239990234375,
+          "filename": "F-A2-B-021-0550.wav",
+          "ptr": "어떤 때는  /  새벽 한두 시까지 못 잘 때도 있는데  /  그러면  /  자꾸 화가 나고  /  울고 싶어집니다.",
+          "tr": "어떤 때는 새벽 한두 시까지 못 잘 때도 있는데 그러면 자꾸 화가 나고 울고 싶어집니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 446.61997732426306,
+      "filename": "/data2/gst-voice/splitted/F/021/F-A204-P11-B-021.wav",
+      "recorded_at": "2022-09-23 05:55:08",
+      "sample_rate": 44100
+    }
+  }
+]

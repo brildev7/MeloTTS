@@ -26,12 +26,17 @@ from fastapi.responses import FileResponse
 from routers.base import Tags
 from api_requests.requests import TTSRequest
 from api_requests.requests import (
+    DEFAULT_VOICE_ID,
     DEFAULT_MODEL_ID,
     DEFAULT_LANG_CD,
     DEFAULT_SEED,
     DEFAULT_SPEED
 )
 from melo.api import TTS
+from config.config import voices
+voice_ids = [voice.id for voice in voices]
+from config.config import model_voice_dict
+
 from util.logger import logger
 OUTPUT_DIR = "/data/aibox_tts/data/"
 
@@ -101,6 +106,7 @@ async def generate(
             examples=[
                 {
                     "text": "안녕하세요",
+                    "voice_id": DEFAULT_VOICE_ID,
                     "model_id": DEFAULT_MODEL_ID,
                     "language_code": DEFAULT_LANG_CD,
                     "voice_settings": {
@@ -118,12 +124,26 @@ async def generate(
     logger.info("/text-to-speech")
     json_req = request.model_dump()
     
+    model_id = json_req.get("model_id")
+    voice_id = json_req.get("voice_id")
     text = json_req.get("text", None)
-    # model_id = json_req.get("model_id", None)
     lang_cd = json_req.get("language_code", None)
     # voice_settings = json_req.get("voice_settings", None)
     speed = json_req.get("speed", None)
-        
+    logger.debug(f"model id: {model_id}")
+    logger.debug(f"voice id: {voice_id}")
+    logger.debug(f"text: {text}")
+    logger.debug(f"language code: {lang_cd}")
+    
+    if model_id not in model_voice_dict.keys():
+        raise RequestValidationError("model id not found")
+    
+    voice_ids = model_voice_dict[model_id]
+    if not voice_ids or len(voice_ids) < 1:
+        raise RequestValidationError("voice id not found")
+    
+    
+    
     # check translation contents and languages
     if not all([text, lang_cd, speed]):
         raise RequestValidationError("Text or source language code or speed not provided.")

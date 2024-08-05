@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "F-A204-P10-B-021",
+    "import": {
+      "author": "홍종의",
+      "book_title": "홍종의 동화선집",
+      "country": "한국",
+      "id": "F0156",
+      "publish_year": 2013,
+      "times_bg": "현대",
+      "title": "보름달에 소나무 심기",
+      "translator": ""
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 1127,
+      "id": "F-A204",
+      "normalized": [
+        "동이는 울음을 터뜨리며 소리쳤습니다.",
+        "풀무치가 눈을 부라리며 뒷다리를 세웠습니다.",
+        "언제 다가왔는지 베짱이가 긴 다리를 건들거리며 갈빛을 내려다보았습니다.",
+        "베짱이가 날카로운 이빨을 보였습니다.",
+        "풀무치와 베짱이가 으름장을 놓으며 날아올랐습니다.",
+        "심통은 엄마에게 부렸는데 화는 아빠가 더 내셨어요.",
+        "또 밭으로 일을 하러 가는 모양이었습니다.",
+        "동이는 솔방울 세 개까지 마당 가운데로 던지며 중얼거렸습니다.",
+        "글씨에는 짜증이 기름덩이처럼 덕지덕지 묻어 있었습니다.",
+        "씨, 갈려면 다 가 버려라고 말했습니다.",
+        "며칠이 지나자 호랑이는 견딜 수가 없었습니다.",
+        "왕자들은 영리한 주몽을 더 미워했습니다.",
+        "주몽을 쫓아오던 왕자들은 강을 건널 수 없었습니다.",
+        "놀부가 흥부네 식구들을 내쫓기로 했습니다.",
+        "그러나 아내는 흥부의 이야기를 들으려고 하지 않았습니다.",
+        "누구신데 나한테 형님이라고 합니까?",
+        "배씨와 팥쥐는 어떻게 콩쥐를 괴롭힐까 생각했습니다.",
+        "하지만 팥쥐의 발은 너무 커서 신발에 들어가지도 않았습니다.",
+        "허씨는 배 좌수가 없을 때 장화와 홍련을 구박했습니다.",
+        "배 좌수가 당황해서 정말이에요 하고 허씨에게 물었습니다.",
+        "배 좌수는 이불 속에 있는 핏덩어리를 보고 깜짝 놀랐습니다.",
+        "허씨가 걱정하는 척하며 장화가 몰래 배 속의 아이를 죽인 것 같아요라고 말했습니다.",
+        "잠시 뒤에 장쇠가 화가 난 듯 처녀가 아이를 가졌으면 큰일이지요 하고 말했습니다.",
+        "죽을 사람이 무슨 걱정이에요?",
+        "문어를 노려보며 큰소리로 말하는 신하는 자라였습니다.",
+        "자라는 문어를 비웃으며 너는 힘만 말하니 어리석다는 거야 하고 말했습니다.",
+        "자라는 토끼가 따라가지 않겠다고 하자 마음이 다급해졌습니다.",
+        "옹고집은 집에서 일하는 하인들에게 함부로 했습니다.",
+        "옹고집이 어머니의 말을 듣고 화를 내며 말했습니다.",
+        "칠십 년만 살아도 오래 사는 건데 어머니는 여든 살이잖아요?",
+        "스님들은 옹고집의 집에는 절대 가지 않았습니다.",
+        "옹고집은 늙은 스님을 비웃으며 큰소리로 정말 웃기는군 하고 말했습니다.",
+        "하인들이 가만히 있자 두 옹고집이 똑같이 화를 냈습니다.",
+        "내가 무슨 잘못을 했다고 하늘이 벌을 주십니까?",
+        "틀린 것이 있으면 저를 죽이십시오.",
+        "제 재산이 많아서 가짜가 나타났습니다.",
+        "향단은 방자에게 화를 내며 누가 감히 춘향 아가씨를 데리고 오라고 했나요 하고 말했습니다.",
+        "그 말에 변학도는 화를 내며 기생의 딸이 어떻게 부사의 아들과 결혼해 하고 비웃었다.",
+        "변학도는 춘향을 감옥에 가두라고 했습니다.",
+        "요즘은 춘향을 가두고 괴롭히고 있어요.",
+        "오지 않는 남자를 기다리다가 죽는 여자가 있어요.",
+        "장끼는 까투리의 꿈을 무시하려고 했습니다.",
+        "이 생각 저 생각 하다가는 굶어 죽어요.",
+        "내가 이 콩을 먹고 더 잘될 테니까 걱정하지 말아요.",
+        "죽어서 저승에 가서 잘되면 뭐해요?",
+        "내 말을 안 듣고 나중에 나를 원망하지 마세요.",
+        "게다가 십여 일 동안 굶어서 쓰러질 것 같았습니다.",
+        "까마귀의 말을 들은 까투리는 까마귀가 한심하다고 생각했습니다.",
+        "부인은 홍문을 뿌리치고 밖으로 나갔습니다.",
+        "집안 사람들도 길동을 무시했습니다."
+      ],
+      "origin": [
+        "동이는 울음을 터뜨리며 소리쳤습니다.",
+        "풀무치가 눈을 부라리며 뒷다리를 세웠습니다.",
+        "언제 다가왔는지 베짱이가 긴 다리를 건들거리며 갈빛을 내려다보았습니다.",
+        "베짱이가 날카로운 이빨을 보였습니다.",
+        "풀무치와 베짱이가 으름장을 놓으며 날아올랐습니다.",
+        "심통은 엄마에게 부렸는데 화는 아빠가 더 내셨어요.",
+        "또 밭으로 일을 하러 가는 모양이었습니다.",
+        "동이는 솔방울 세 개까지 마당 가운데로 던지며 중얼거렸습니다.",
+        "글씨에는 짜증이 기름덩이처럼 덕지덕지 묻어 있었습니다.",
+        "“씨, 갈려면 다 가 버려”라고 말했습니다.",
+        "며칠이 지나자 호랑이는 견딜 수가 없었습니다.",
+        "왕자들은 영리한 주몽을 더 미워했습니다.",
+        "주몽을 쫓아오던 왕자들은 강을 건널 수 없었습니다.",
+        "놀부가 흥부네 식구들을 내쫓기로 했습니다. ",
+        "그러나 아내는 흥부의 이야기를 들으려고 하지 않았습니다.",
+        "누구신데 나한테 형님이라고 합니까?",
+        "배씨와 팥쥐는 어떻게 콩쥐를 괴롭힐까 생각했습니다.",
+        "하지만 팥쥐의 발은 너무 커서 신발에 들어가지도 않았습니다.",
+        "허씨는 배 좌수가 없을 때 장화와 홍련을 구박했습니다.",
+        "배 좌수가 당황해서 “정말이에요” 하고 허씨에게 물었습니다.",
+        "배 좌수는 이불 속에 있는 핏덩어리를 보고 깜짝 놀랐습니다.",
+        "허씨가 걱정하는 척하며 “장화가 몰래 배 속의 아이를 죽인 것 같아요”라고 말했습니다.",
+        "잠시 뒤에 장쇠가 화가 난 듯 “처녀가 아이를 가졌으면 큰일이지요” 하고 말했습니다.",
+        "죽을 사람이 무슨 걱정이에요?",
+        "문어를 노려보며 큰소리로 말하는 신하는 자라였습니다.",
+        "자라는 문어를 비웃으며 “너는 힘만 말하니 어리석다는 거야\" 하고 말했습니다.",
+        "자라는 토끼가 따라가지 않겠다고 하자 마음이 다급해졌습니다.",
+        "옹고집은 집에서 일하는 하인들에게 함부로 했습니다.",
+        "옹고집이 어머니의 말을 듣고 화를 내며 말했습니다.",
+        "칠십 년만 살아도 오래 사는 건데 어머니는 여든 살이잖아요?",
+        "스님들은 옹고집의 집에는 절대 가지 않았습니다.",
+        "옹고집은 늙은 스님을 비웃으며 큰소리로 \"정말 웃기는군\" 하고 말했습니다. ",
+        "하인들이 가만히 있자 두 옹고집이 똑같이 화를 냈습니다.",
+        "내가 무슨 잘못을 했다고 하늘이 벌을 주십니까?",
+        "틀린 것이 있으면 저를 죽이십시오.",
+        "제 재산이 많아서 가짜가 나타났습니다.",
+        "향단은 방자에게 화를 내며 \"누가 감히 춘향 아가씨를 데리고 오라고 했나요\" 하고 말했습니다.",
+        "그 말에 변학도는 화를 내며 “기생의 딸이 어떻게 부사의 아들과 결혼해\" 하고 비웃었다.",
+        "변학도는 춘향을 감옥에 가두라고 했습니다.",
+        "요즘은 춘향을 가두고 괴롭히고 있어요.",
+        "오지 않는 남자를 기다리다가 죽는 여자가 있어요.",
+        "장끼는 까투리의 꿈을 무시하려고 했습니다.",
+        "이 생각 저 생각 하다가는 굶어 죽어요.",
+        "내가 이 콩을 먹고 더 잘될 테니까 걱정하지 말아요.",
+        "죽어서 저승에 가서 잘되면 뭐해요?",
+        "내 말을 안 듣고 나중에 나를 원망하지 마세요.",
+        "게다가 십여 일 동안 굶어서 쓰러질 것 같았습니다. ",
+        "까마귀의 말을 들은 까투리는 까마귀가 한심하다고 생각했습니다.",
+        "부인은 홍문을 뿌리치고 밖으로 나갔습니다.",
+        "집안 사람들도 길동을 무시했습니다."
+      ],
+      "part_no": 10,
+      "tokens_count": 345
+    },
+    "sentences": [
+      {
+        "id": "F-A2-B-021-0451",
+        "origin_text": "동이는 울음을 터뜨리며 소리쳤습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.720000267028809,
+          "file_duration": 4.280000267028809,
+          "filename": "F-A2-B-021-0451.wav",
+          "ptr": "동이는  /  울음을 터뜨리며  /  소리쳤습니다.",
+          "tr": "동이는 울음을 터뜨리며 소리쳤습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0452",
+        "origin_text": "풀무치가 눈을 부라리며 뒷다리를 세웠습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.760000228881836,
+          "file_duration": 4.260000228881836,
+          "filename": "F-A2-B-021-0452.wav",
+          "ptr": "풀무치가 눈을 부라리며  /  뒷다리를 세웠습니다.",
+          "tr": "풀무치가 눈을 부라리며 뒷다리를 세웠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0453",
+        "origin_text": "언제 다가왔는지 베짱이가 긴 다리를 건들거리며 갈빛을 내려다보았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.700000762939453,
+          "file_duration": 7.200000762939453,
+          "filename": "F-A2-B-021-0453.wav",
+          "ptr": "언제 다가왔는지  /  베짱이가 긴 다리를 건들거리며  /  갈빛을 내려다보았습니다.",
+          "tr": "언제 다가왔는지 베짱이가 긴 다리를 건들거리며 갈빛을 내려다보았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0454",
+        "origin_text": "베짱이가 날카로운 이빨을 보였습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.3199996948242188,
+          "file_duration": 3.8199996948242188,
+          "filename": "F-A2-B-021-0454.wav",
+          "ptr": "베짱이가  /  날카로운 이빨을 보였습니다.",
+          "tr": "베짱이가 날카로운 이빨을 보였습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0455",
+        "origin_text": "풀무치와 베짱이가 으름장을 놓으며 날아올랐습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.020000457763672,
+          "file_duration": 4.520000457763672,
+          "filename": "F-A2-B-021-0455.wav",
+          "ptr": "풀무치와 베짱이가  /  으름장을 놓으며 날아올랐습니다.",
+          "tr": "풀무치와 베짱이가 으름장을 놓으며 날아올랐습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0456",
+        "origin_text": "심통은 엄마에게 부렸는데 화는 아빠가 더 내셨어요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.479999542236328,
+          "file_duration": 5.979999542236328,
+          "filename": "F-A2-B-021-0456.wav",
+          "ptr": "심통은  /  엄마에게 부렸는데  /  화는  /  아빠가 더 내셨어요.",
+          "tr": "심통은 엄마에게 부렸는데 화는 아빠가 더 내셨어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0457",
+        "origin_text": "또 밭으로 일을 하러 가는 모양이었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.460002899169922,
+          "file_duration": 2.960002899169922,
+          "filename": "F-A2-B-021-0457.wav",
+          "ptr": "또 밭으로 일을 하러 가는 모양이었습니다.",
+          "tr": "또 밭으로 일을 하러 가는 모양이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0458",
+        "origin_text": "동이는 솔방울 세 개까지 마당 가운데로 던지며 중얼거렸습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.540000915527344,
+          "file_duration": 6.040000915527344,
+          "filename": "F-A2-B-021-0458.wav",
+          "ptr": "동이는  /  솔방울 세 개까지 마당 가운데로 던지며  /  중얼거렸습니다.",
+          "tr": "동이는 솔방울 세 개까지 마당 가운데로 던지며 중얼거렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0459",
+        "origin_text": "글씨에는 짜증이 기름덩이처럼 덕지덕지 묻어 있었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.340003967285156,
+          "file_duration": 4.840003967285156,
+          "filename": "F-A2-B-021-0459.wav",
+          "ptr": "글씨에는 짜증이  /  기름덩이처럼 덕지덕지 묻어 있었습니다.",
+          "tr": "글씨에는 짜증이 기름덩이처럼 덕지덕지 묻어 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0460",
+        "origin_text": "“씨, 갈려면 다 가 버려”라고 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.220001220703125,
+          "file_duration": 4.720001220703125,
+          "filename": "F-A2-B-021-0460.wav",
+          "ptr": "씨  /  갈려면  /  다 가 버려라고 말했습니다.",
+          "tr": "씨, 갈려면 다 가 버려라고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0461",
+        "origin_text": "며칠이 지나자 호랑이는 견딜 수가 없었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4,
+          "file_duration": 4.5,
+          "filename": "F-A2-B-021-0461.wav",
+          "ptr": "며칠이 지나자  /  호랑이는  /  견딜 수가 없었습니다.",
+          "tr": "며칠이 지나자 호랑이는 견딜 수가 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0462",
+        "origin_text": "왕자들은 영리한 주몽을 더 미워했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.4199981689453125,
+          "file_duration": 3.9199981689453125,
+          "filename": "F-A2-B-021-0462.wav",
+          "ptr": "왕자들은  /  영리한 주몽을 더 미워했습니다.",
+          "tr": "왕자들은 영리한 주몽을 더 미워했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0463",
+        "origin_text": "주몽을 쫓아오던 왕자들은 강을 건널 수 없었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.040000915527344,
+          "file_duration": 4.540000915527344,
+          "filename": "F-A2-B-021-0463.wav",
+          "ptr": "주몽을 쫓아오던 왕자들은  /  강을 건널 수 없었습니다.",
+          "tr": "주몽을 쫓아오던 왕자들은 강을 건널 수 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0464",
+        "origin_text": "놀부가 흥부네 식구들을 내쫓기로 했습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.9399948120117188,
+          "file_duration": 3.4399948120117188,
+          "filename": "F-A2-B-021-0464.wav",
+          "ptr": "놀부가 흥부네 식구들을  /  내쫓기로 했습니다.",
+          "tr": "놀부가 흥부네 식구들을 내쫓기로 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0465",
+        "origin_text": "그러나 아내는 흥부의 이야기를 들으려고 하지 않았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.3600006103515625,
+          "file_duration": 4.8600006103515625,
+          "filename": "F-A2-B-021-0465.wav",
+          "ptr": "그러나  /  아내는 흥부의 이야기를 들으려고 하지 않았습니다.",
+          "tr": "그러나 아내는 흥부의 이야기를 들으려고 하지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0466",
+        "origin_text": "누구신데 나한테 형님이라고 합니까?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.839996337890625,
+          "file_duration": 3.339996337890625,
+          "filename": "F-A2-B-021-0466.wav",
+          "ptr": "누구신데 나한테  /  형님이라고 합니까?",
+          "tr": "누구신데 나한테 형님이라고 합니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0467",
+        "origin_text": "배씨와 팥쥐는 어떻게 콩쥐를 괴롭힐까 생각했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.319999694824219,
+          "file_duration": 5.819999694824219,
+          "filename": "F-A2-B-021-0467.wav",
+          "ptr": "배씨와 팥쥐는  /  어떻게 콩쥐를  /  괴롭힐까 생각했습니다.",
+          "tr": "배씨와 팥쥐는 어떻게 콩쥐를 괴롭힐까 생각했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0468",
+        "origin_text": "하지만 팥쥐의 발은 너무 커서 신발에 들어가지도 않았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.1399993896484375,
+          "file_duration": 6.6399993896484375,
+          "filename": "F-A2-B-021-0468.wav",
+          "ptr": "하지만  /  팥쥐의 발은  /  너무 커서  /  신발에 들어가지도 않았습니다.",
+          "tr": "하지만 팥쥐의 발은 너무 커서 신발에 들어가지도 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0469",
+        "origin_text": "허씨는 배 좌수가 없을 때 장화와 홍련을 구박했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.3600006103515625,
+          "file_duration": 5.8600006103515625,
+          "filename": "F-A2-B-021-0469.wav",
+          "ptr": "허씨는  /  배 좌수가 없을 때  /  장화와 홍련을 구박했습니다.",
+          "tr": "허씨는 배 좌수가 없을 때 장화와 홍련을 구박했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0470",
+        "origin_text": "배 좌수가 당황해서 “정말이에요” 하고 허씨에게 물었습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.05999755859375,
+          "file_duration": 5.55999755859375,
+          "filename": "F-A2-B-021-0470.wav",
+          "ptr": "배 좌수가 당황해서  /  정말이에요 하고  /  허씨에게 물었습니다.",
+          "tr": "배 좌수가 당황해서 정말이에요 하고 허씨에게 물었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0471",
+        "origin_text": "배 좌수는 이불 속에 있는 핏덩어리를 보고 깜짝 놀랐습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.4199981689453125,
+          "file_duration": 5.9199981689453125,
+          "filename": "F-A2-B-021-0471.wav",
+          "ptr": "배 좌수는  /  이불 속에 있는 핏덩어리를 보고  /  깜짝 놀랐습니다.",
+          "tr": "배 좌수는 이불 속에 있는 핏덩어리를 보고 깜짝 놀랐습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0472",
+        "origin_text": "허씨가 걱정하는 척하며 “장화가 몰래 배 속의 아이를 죽인 것 같아요”라고 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.3600006103515625,
+          "file_duration": 7.8600006103515625,
+          "filename": "F-A2-B-021-0472.wav",
+          "ptr": "허씨가 걱정하는 척하며  /  장화가 몰래  /  배 속의 아이를 죽인 것 같아요라고  /  말했습니다.",
+          "tr": "허씨가 걱정하는 척하며 장화가 몰래 배 속의 아이를 죽인 것 같아요라고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0473",
+        "origin_text": "잠시 뒤에 장쇠가 화가 난 듯 “처녀가 아이를 가졌으면 큰일이지요” 하고 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.3000030517578125,
+          "file_duration": 6.8000030517578125,
+          "filename": "F-A2-B-021-0473.wav",
+          "ptr": "잠시 뒤에  /  장쇠가  /  화가 난 듯 처녀가 아이를 가졌으면 큰일이지요 하고 말했습니다.",
+          "tr": "잠시 뒤에 장쇠가 화가 난 듯 처녀가 아이를 가졌으면 큰일이지요 하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0474",
+        "origin_text": "죽을 사람이 무슨 걱정이에요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 1.94000244140625,
+          "file_duration": 2.44000244140625,
+          "filename": "F-A2-B-021-0474.wav",
+          "ptr": "죽을 사람이 무슨 걱정이에요?",
+          "tr": "죽을 사람이 무슨 걱정이에요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0475",
+        "origin_text": "문어를 노려보며 큰소리로 말하는 신하는 자라였습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.1399993896484375,
+          "file_duration": 5.6399993896484375,
+          "filename": "F-A2-B-021-0475.wav",
+          "ptr": "문어를  /  노려보며  /  큰소리로 말하는  /  신하는 자라였습니다.",
+          "tr": "문어를 노려보며 큰소리로 말하는 신하는 자라였습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0476",
+        "origin_text": "자라는 문어를 비웃으며 “너는 힘만 말하니 어리석다는 거야\" 하고 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.4199981689453125,
+          "file_duration": 7.9199981689453125,
+          "filename": "F-A2-B-021-0476.wav",
+          "ptr": "자라는  /  문어를 비웃으며  /  너는  /  힘만 말하니  /  어리석다는 거야 하고 말했습니다.",
+          "tr": "자라는 문어를 비웃으며 너는 힘만 말하니 어리석다는 거야 하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0477",
+        "origin_text": "자라는 토끼가 따라가지 않겠다고 하자 마음이 다급해졌습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.6200103759765625,
+          "file_duration": 6.1200103759765625,
+          "filename": "F-A2-B-021-0477.wav",
+          "ptr": "자라는  /  토끼가 따라가지 않겠다고 하자  /  마음이 다급해졌습니다.",
+          "tr": "자라는 토끼가 따라가지 않겠다고 하자 마음이 다급해졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0478",
+        "origin_text": "옹고집은 집에서 일하는 하인들에게 함부로 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.279998779296875,
+          "file_duration": 4.779998779296875,
+          "filename": "F-A2-B-021-0478.wav",
+          "ptr": "옹고집은  /  집에서 일하는 하인들에게  /  함부로 했습니다.",
+          "tr": "옹고집은 집에서 일하는 하인들에게 함부로 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0479",
+        "origin_text": "옹고집이 어머니의 말을 듣고 화를 내며 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.160003662109375,
+          "file_duration": 4.660003662109375,
+          "filename": "F-A2-B-021-0479.wav",
+          "ptr": "옹고집이  /  어머니의 말을 듣고 화를 내며 말했습니다.",
+          "tr": "옹고집이 어머니의 말을 듣고 화를 내며 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0480",
+        "origin_text": "칠십 년만 살아도 오래 사는 건데 어머니는 여든 살이잖아요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.3600006103515625,
+          "file_duration": 5.8600006103515625,
+          "filename": "F-A2-B-021-0480.wav",
+          "ptr": "칠십 년만 살아도 오래 사는 건데  /  어머니는  /  여든 살이잖아요?",
+          "tr": "칠십 년만 살아도 오래 사는 건데 어머니는 여든 살이잖아요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0481",
+        "origin_text": "스님들은 옹고집의 집에는 절대 가지 않았습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.4399871826171875,
+          "file_duration": 4.9399871826171875,
+          "filename": "F-A2-B-021-0481.wav",
+          "ptr": "스님들은  /  옹고집의 집에는  /  절대 가지 않았습니다.",
+          "tr": "스님들은 옹고집의 집에는 절대 가지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0482",
+        "origin_text": "옹고집은 늙은 스님을 비웃으며 큰소리로 \"정말 웃기는군\" 하고 말했습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.9799957275390625,
+          "file_duration": 7.4799957275390625,
+          "filename": "F-A2-B-021-0482.wav",
+          "ptr": "옹고집은  /  늙은 스님을 비웃으며  /  큰소리로  /  정말 웃기는군 하고 말했습니다.",
+          "tr": "옹고집은 늙은 스님을 비웃으며 큰소리로 정말 웃기는군 하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0483",
+        "origin_text": "하인들이 가만히 있자 두 옹고집이 똑같이 화를 냈습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.32000732421875,
+          "file_duration": 5.7699951934814635,
+          "filename": "F-A2-B-021-0483.wav",
+          "ptr": "하인들이 가만히 있자  /  두 옹고집이  /  똑같이 화를 냈습니다.",
+          "tr": "하인들이 가만히 있자 두 옹고집이 똑같이 화를 냈습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0484",
+        "origin_text": "내가 무슨 잘못을 했다고 하늘이 벌을 주십니까?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.47998046875,
+          "file_duration": 3.97998046875,
+          "filename": "F-A2-B-021-0484.wav",
+          "ptr": "내가 무슨 잘못을 했다고  /  하늘이 벌을 주십니까?",
+          "tr": "내가 무슨 잘못을 했다고 하늘이 벌을 주십니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0485",
+        "origin_text": "틀린 것이 있으면 저를 죽이십시오.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.339996337890625,
+          "file_duration": 3.839996337890625,
+          "filename": "F-A2-B-021-0485.wav",
+          "ptr": "틀린 것이 있으면  /  저를 죽이십시오.",
+          "tr": "틀린 것이 있으면 저를 죽이십시오."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0486",
+        "origin_text": "제 재산이 많아서 가짜가 나타났습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.02001953125,
+          "file_duration": 3.52001953125,
+          "filename": "F-A2-B-021-0486.wav",
+          "ptr": "제 재산이 많아서  /  가짜가 나타났습니다.",
+          "tr": "제 재산이 많아서 가짜가 나타났습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0487",
+        "origin_text": "향단은 방자에게 화를 내며 \"누가 감히 춘향 아가씨를 데리고 오라고 했나요\" 하고 말했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.97998046875,
+          "file_duration": 8.47998046875,
+          "filename": "F-A2-B-021-0487.wav",
+          "ptr": "향단은  /  방자에게 화를 내며  /  누가 감히 춘향 아가씨를 데리고 오라고 했나요  /  하고 말했습니다.",
+          "tr": "향단은 방자에게 화를 내며 누가 감히 춘향 아가씨를 데리고 오라고 했나요 하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0488",
+        "origin_text": "그 말에 변학도는 화를 내며 “기생의 딸이 어떻게 부사의 아들과 결혼해\" 하고 비웃었다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.019989013671875,
+          "file_duration": 9.519989013671875,
+          "filename": "F-A2-B-021-0488.wav",
+          "ptr": "그 말에  /  변학도는 화를 내며  /  기생의 딸이 어떻게  /  부사의 아들과 결혼해 하고  /  비웃었다.",
+          "tr": "그 말에 변학도는 화를 내며 기생의 딸이 어떻게 부사의 아들과 결혼해 하고 비웃었다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0489",
+        "origin_text": "변학도는 춘향을 감옥에 가두라고 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.439971923828125,
+          "file_duration": 3.939971923828125,
+          "filename": "F-A2-B-021-0489.wav",
+          "ptr": "변학도는  /  춘향을 감옥에 가두라고 했습니다.",
+          "tr": "변학도는 춘향을 감옥에 가두라고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0490",
+        "origin_text": "요즘은 춘향을 가두고 괴롭히고 있어요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.1400146484375,
+          "file_duration": 3.6400146484375,
+          "filename": "F-A2-B-021-0490.wav",
+          "ptr": "요즘은  /  춘향을 가두고 괴롭히고 있어요.",
+          "tr": "요즘은 춘향을 가두고 괴롭히고 있어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0491",
+        "origin_text": "오지 않는 남자를 기다리다가 죽는 여자가 있어요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4,
+          "file_duration": 4.5,
+          "filename": "F-A2-B-021-0491.wav",
+          "ptr": "오지 않는 남자를 기다리다가  /  죽는 여자가 있어요.",
+          "tr": "오지 않는 남자를 기다리다가 죽는 여자가 있어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0492",
+        "origin_text": "장끼는 까투리의 꿈을 무시하려고 했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.259979248046875,
+          "file_duration": 3.759979248046875,
+          "filename": "F-A2-B-021-0492.wav",
+          "ptr": "장끼는  /  까투리의 꿈을 무시하려고 했습니다.",
+          "tr": "장끼는 까투리의 꿈을 무시하려고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0493",
+        "origin_text": "이 생각 저 생각 하다가는 굶어 죽어요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.300018310546875,
+          "file_duration": 3.800018310546875,
+          "filename": "F-A2-B-021-0493.wav",
+          "ptr": "이 생각 저 생각 하다가는  /  굶어 죽어요.",
+          "tr": "이 생각 저 생각 하다가는 굶어 죽어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0494",
+        "origin_text": "내가 이 콩을 먹고 더 잘될 테니까 걱정하지 말아요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.259979248046875,
+          "file_duration": 5.759979248046875,
+          "filename": "F-A2-B-021-0494.wav",
+          "ptr": "내가  /  이 콩을 먹고  /  더 잘될 테니까  /  걱정하지 말아요.",
+          "tr": "내가 이 콩을 먹고 더 잘될 테니까 걱정하지 말아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0495",
+        "origin_text": "죽어서 저승에 가서 잘되면 뭐해요?",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.279998779296875,
+          "file_duration": 3.779998779296875,
+          "filename": "F-A2-B-021-0495.wav",
+          "ptr": "죽어서  /  저승에 가서 잘되면 뭐해요?",
+          "tr": "죽어서 저승에 가서 잘되면 뭐해요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0496",
+        "origin_text": "내 말을 안 듣고 나중에 나를 원망하지 마세요.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.05999755859375,
+          "file_duration": 4.55999755859375,
+          "filename": "F-A2-B-021-0496.wav",
+          "ptr": "내 말을 안 듣고  /  나중에 나를 원망하지 마세요.",
+          "tr": "내 말을 안 듣고 나중에 나를 원망하지 마세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0497",
+        "origin_text": "게다가 십여 일 동안 굶어서 쓰러질 것 같았습니다. ",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.58001708984375,
+          "file_duration": 5.08001708984375,
+          "filename": "F-A2-B-021-0497.wav",
+          "ptr": "게다가  /  십여 일 동안 굶어서  /  쓰러질 것 같았습니다.",
+          "tr": "게다가 십여 일 동안 굶어서 쓰러질 것 같았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0498",
+        "origin_text": "까마귀의 말을 들은 까투리는 까마귀가 한심하다고 생각했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.680023193359375,
+          "file_duration": 5.180023193359375,
+          "filename": "F-A2-B-021-0498.wav",
+          "ptr": "까마귀의 말을 들은 까투리는  /  까마귀가 한심하다고 생각했습니다.",
+          "tr": "까마귀의 말을 들은 까투리는 까마귀가 한심하다고 생각했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0499",
+        "origin_text": "부인은 홍문을 뿌리치고 밖으로 나갔습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.480010986328125,
+          "file_duration": 4.980010986328125,
+          "filename": "F-A2-B-021-0499.wav",
+          "ptr": "부인은  /  홍문을 뿌리치고  /  밖으로 나갔습니다.",
+          "tr": "부인은 홍문을 뿌리치고 밖으로 나갔습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-A2-B-021-0500",
+        "origin_text": "집안 사람들도 길동을 무시했습니다.",
+        "style": {
+          "emotion": "분노",
+          "intensity": 2,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3,
+          "file_duration": 3.5,
+          "filename": "F-A2-B-021-0500.wav",
+          "ptr": "집안 사람들도  /  길동을 무시했습니다.",
+          "tr": "집안 사람들도 길동을 무시했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 393.94,
+      "filename": "/data2/gst-voice/splitted/F/021/F-A204-P10-B-021.wav",
+      "recorded_at": "2022-09-23 05:55:08",
+      "sample_rate": 44100
+    }
+  }
+]

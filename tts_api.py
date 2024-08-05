@@ -26,6 +26,7 @@ import fire
 
 from routers.health_check import router as health_check_router
 from routers.tts import router as tts_router
+from routers.voice_info import router as voice_info_router
 from routers.base import Tags
 from util.logger import get_logger, PROJECT_NAME, logger
 
@@ -57,13 +58,14 @@ async def validation_exception_handler(request: Request, exc: RequestValidationE
 ##################################### add routers ######################################
 app.include_router(tts_router)
 app.include_router(health_check_router)
+app.include_router(voice_info_router)
 
 ################################ entry point function ##################################
 def start(
     host: str = "0.0.0.0",
     port: int = 15300,
     reload: bool = False,
-    workers: int = 2,
+    workers: int = 1,
     log_level: str = "debug",
     limit_concurrency: int = 100,
 ):

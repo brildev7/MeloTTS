@@ -1,0 +1,51 @@
+voices:
+  - voice:
+        id: b540ea02-6c7a-478e-9e60-5d766118f84a
+        name: m_basic
+        model_id: 6c8d49f3-50b4-4025-bf5b-16e813a2686d
+        model_desc: m_tts_ko_pretrained_model
+        gender: FEMAIL
+        type: NORMAL
+        dataset: unknown
+        dataset_detail: 
+        train_info:
+            train_steps: 
+  - voice:
+        id: 6d011056-6c16-44f0-a46a-4948460621cd
+        name: KSS
+        model_id: 6c8d49f3-50b4-4025-bf5b-16e813a2686d
+        model_desc: m_tts_ko_pretrained_model
+        gender: FEMAIL
+        type: NORMAL
+        dataset: kss dataset
+        dataset_detail: Korean Single Speaker Speech Dataset
+        train_info:
+            train_steps: 111
+  - voice:
+        id: 2c2f8911-7a67-446c-aadf-9b8397eb1d76
+        name: F-A2-B-021
+        model_id: 6c8d49f3-50b4-4025-bf5b-16e813a2686d
+        model_desc: m_tts_ko_pretrained_model
+        gender: MAIL
+        type: GU-YEON-CHE
+        dataset: ai-hub
+        dataset_detail: 133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_021
+        train_info:
+            train_steps: 111
+  - voice:
+        id: 407f4e67-a488-479f-a807-271e1b66dab0
+        name: F-H3-D-005
+        model_id: 6c8d49f3-50b4-4025-bf5b-16e813a2686d
+        model_desc: m_tts_ko_pretrained_model
+        gender: MAIL
+        type: GU-YEON-CHE
+        dataset: ai-hub
+        dataset_detail: 133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_005
+        train_info:
+            train_steps: 111
+
+
+
+            
+
+    

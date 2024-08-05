@@ -27,6 +27,7 @@ class Voice:
     name: Optional[str]
     model_id: str
     model_desc: Optional[str]
+    language: str
     gender: str
     type: Optional[str]
     dataset: Optional[str]

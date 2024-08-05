@@ -51,4 +51,3 @@ class TTSRequest(BaseModel):
     voice_settings: dict = Field(description="음성 변환 파라미터", default=DEFAULT_TTS_PARAMS)
     speed: float = Field(description="재생 속도", default=DEFAULT_SPEED)
     seed: int = Field(description="랜덤 시드", default=DEFAULT_SEED)
-    

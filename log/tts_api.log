@@ -70,3 +70,622 @@
 2024-08-05 16:33:02,043 | INFO | config.py | 45 | <module> | [Voice(id='b540ea02-6c7a-478e-9e60-5d766118f84a', name='m_basic', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', gender='FEMAIL', type='NORMAL', dataset='unknown', dataset_detail=None, train_info={'train_steps': None}), Voice(id='6d011056-6c16-44f0-a46a-4948460621cd', name='KSS', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', gender='FEMAIL', type='NORMAL', dataset='kss dataset', dataset_detail='Korean Single Speaker Speech Dataset', train_info={'train_steps': 111}), Voice(id='2c2f8911-7a67-446c-aadf-9b8397eb1d76', name='F-A2-B-021', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', gender='MAIL', type='GU-YEON-CHE', dataset='ai-hub', dataset_detail='133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_021', train_info={'train_steps': 111}), Voice(id='407f4e67-a488-479f-a807-271e1b66dab0', name='F-H3-D-005', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', gender='MAIL', type='GU-YEON-CHE', dataset='ai-hub', dataset_detail='133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_005', train_info={'train_steps': 111})]
 2024-08-05 16:33:02,043 | INFO | config.py | 47 | <module> | ============== model-voice dict ============
 2024-08-05 16:33:02,043 | INFO | config.py | 48 | <module> | {'6c8d49f3-50b4-4025-bf5b-16e813a2686d': ['b540ea02-6c7a-478e-9e60-5d766118f84a', '6d011056-6c16-44f0-a46a-4948460621cd', '2c2f8911-7a67-446c-aadf-9b8397eb1d76', '407f4e67-a488-479f-a807-271e1b66dab0']}
+2024-08-05 16:42:25,844 | INFO | tts.py | 123 | generate | /text-to-speech
+2024-08-05 16:42:25,845 | DEBUG | tts.py | 132 | generate | model id: 6c8d49f3-50b4-4025-bf5b-16e813a2686d
+2024-08-05 16:42:25,845 | DEBUG | tts.py | 133 | generate | voice id: b540ea02-6c7a-478e-9e60-5d766118f84a
+2024-08-05 16:42:25,845 | DEBUG | tts.py | 134 | generate | text: 열심히 일해서 성과내주면 뭐하나.. 지잘난줄아는데..
+2024-08-05 16:42:25,845 | DEBUG | tts.py | 135 | generate | language code: kr
+2024-08-05 16:42:25,845 | DEBUG | tts.py | 143 | generate | using device: cuda:0
+2024-08-05 16:42:26,215 | INFO | tts.py | 149 | generate | /text-to-speech complete
+2024-08-05 16:43:03,590 | INFO | tts.py | 123 | generate | /text-to-speech
+2024-08-05 16:43:03,590 | DEBUG | tts.py | 132 | generate | model id: 6c8d49f3-50b4-4025-bf5b-16e813a2686d
+2024-08-05 16:43:03,590 | DEBUG | tts.py | 133 | generate | voice id: b540ea02-6c7a-478e-9e60-5d766118f84a
+2024-08-05 16:43:03,590 | DEBUG | tts.py | 134 | generate | text: 프랑스 올림픽에서 금메달 9개로 현재 6위를 달리고 있습니다.
+2024-08-05 16:43:03,591 | DEBUG | tts.py | 135 | generate | language code: kr
+2024-08-05 16:43:03,591 | DEBUG | tts.py | 143 | generate | using device: cuda:0
+2024-08-05 16:43:03,945 | INFO | tts.py | 149 | generate | /text-to-speech complete
+2024-08-05 17:17:53,058 | INFO | config.py | 45 | <module> | =============== provided voices ============
+2024-08-05 17:17:53,059 | INFO | config.py | 46 | <module> | [Voice(id='2c2f8911-7a67-446c-aadf-9b8397eb1d76', name='F-A2-B-021', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='MAIL', type='GU-YEON-CHE', dataset='ai-hub', dataset_detail='133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_021', train_info={'train_steps': 111}), Voice(id='b540ea02-6c7a-478e-9e60-5d766118f84a', name='m_basic', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='FEMAIL', type='NORMAL', dataset='unknown', dataset_detail=None, train_info={'train_steps': None}), Voice(id='6d011056-6c16-44f0-a46a-4948460621cd', name='KSS', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='FEMAIL', type='NORMAL', dataset='kss dataset', dataset_detail='Korean Single Speaker Speech Dataset', train_info={'train_steps': 111}), Voice(id='407f4e67-a488-479f-a807-271e1b66dab0', name='F-H3-D-005', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='MAIL', type='GU-YEON-CHE', dataset='ai-hub', dataset_detail='133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_005', train_info={'train_steps': 111})]
+2024-08-05 17:17:53,059 | INFO | config.py | 48 | <module> | ============== model-voice dict ============
+2024-08-05 17:17:53,059 | INFO | config.py | 49 | <module> | {'6c8d49f3-50b4-4025-bf5b-16e813a2686d': ['2c2f8911-7a67-446c-aadf-9b8397eb1d76', 'b540ea02-6c7a-478e-9e60-5d766118f84a', '6d011056-6c16-44f0-a46a-4948460621cd', '407f4e67-a488-479f-a807-271e1b66dab0']}
+2024-08-05 17:20:42,711 | INFO | config.py | 45 | <module> | =============== provided voices ============
+2024-08-05 17:20:42,711 | INFO | config.py | 46 | <module> | [Voice(id='2c2f8911-7a67-446c-aadf-9b8397eb1d76', name='F-A2-B-021', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='MAIL', type='GU-YEON-CHE', dataset='ai-hub', dataset_detail='133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_021', train_info={'train_steps': 111}), Voice(id='b540ea02-6c7a-478e-9e60-5d766118f84a', name='m_basic', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='FEMAIL', type='NORMAL', dataset='unknown', dataset_detail=None, train_info={'train_steps': None}), Voice(id='6d011056-6c16-44f0-a46a-4948460621cd', name='KSS', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='FEMAIL', type='NORMAL', dataset='kss dataset', dataset_detail='Korean Single Speaker Speech Dataset', train_info={'train_steps': 111}), Voice(id='407f4e67-a488-479f-a807-271e1b66dab0', name='F-H3-D-005', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='MAIL', type='GU-YEON-CHE', dataset='ai-hub', dataset_detail='133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_005', train_info={'train_steps': 111})]
+2024-08-05 17:20:42,711 | INFO | config.py | 48 | <module> | ============== model-voice dict ============
+2024-08-05 17:20:42,711 | INFO | config.py | 49 | <module> | {'6c8d49f3-50b4-4025-bf5b-16e813a2686d': ['2c2f8911-7a67-446c-aadf-9b8397eb1d76', 'b540ea02-6c7a-478e-9e60-5d766118f84a', '6d011056-6c16-44f0-a46a-4948460621cd', '407f4e67-a488-479f-a807-271e1b66dab0']}
+2024-08-05 17:22:10,583 | INFO | config.py | 45 | <module> | =============== provided voices ============
+2024-08-05 17:22:10,584 | INFO | config.py | 46 | <module> | [Voice(id='2c2f8911-7a67-446c-aadf-9b8397eb1d76', name='F-A2-B-021', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='MAIL', type='GU-YEON-CHE', dataset='ai-hub', dataset_detail='133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_021', train_info={'train_steps': 111}), Voice(id='b540ea02-6c7a-478e-9e60-5d766118f84a', name='m_basic', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='FEMAIL', type='NORMAL', dataset='unknown', dataset_detail=None, train_info={'train_steps': None}), Voice(id='6d011056-6c16-44f0-a46a-4948460621cd', name='KSS', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='FEMAIL', type='NORMAL', dataset='kss dataset', dataset_detail='Korean Single Speaker Speech Dataset', train_info={'train_steps': 111}), Voice(id='407f4e67-a488-479f-a807-271e1b66dab0', name='F-H3-D-005', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='MAIL', type='GU-YEON-CHE', dataset='ai-hub', dataset_detail='133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_005', train_info={'train_steps': 111})]
+2024-08-05 17:22:10,584 | INFO | config.py | 48 | <module> | ============== model-voice dict ============
+2024-08-05 17:22:10,584 | INFO | config.py | 49 | <module> | {'6c8d49f3-50b4-4025-bf5b-16e813a2686d': ['2c2f8911-7a67-446c-aadf-9b8397eb1d76', 'b540ea02-6c7a-478e-9e60-5d766118f84a', '6d011056-6c16-44f0-a46a-4948460621cd', '407f4e67-a488-479f-a807-271e1b66dab0']}
+2024-08-05 17:26:26,732 | INFO | config.py | 45 | <module> | =============== provided voices ============
+2024-08-05 17:26:26,732 | INFO | config.py | 46 | <module> | [Voice(id='2c2f8911-7a67-446c-aadf-9b8397eb1d76', name='F-A2-B-021', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='MAIL', type='GU-YEON-CHE', dataset='ai-hub', dataset_detail='133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_021', train_info={'train_steps': 111}), Voice(id='b540ea02-6c7a-478e-9e60-5d766118f84a', name='m_basic', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='FEMAIL', type='NORMAL', dataset='unknown', dataset_detail=None, train_info={'train_steps': None}), Voice(id='6d011056-6c16-44f0-a46a-4948460621cd', name='KSS', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='FEMAIL', type='NORMAL', dataset='kss dataset', dataset_detail='Korean Single Speaker Speech Dataset', train_info={'train_steps': 111}), Voice(id='407f4e67-a488-479f-a807-271e1b66dab0', name='F-H3-D-005', model_id='6c8d49f3-50b4-4025-bf5b-16e813a2686d', model_desc='m_tts_ko_pretrained_model', language='kr', gender='MAIL', type='GU-YEON-CHE', dataset='ai-hub', dataset_detail='133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_005', train_info={'train_steps': 111})]
+2024-08-05 17:26:26,732 | INFO | config.py | 48 | <module> | ============== model-voice dict ============
+2024-08-05 17:26:26,732 | INFO | config.py | 49 | <module> | {'6c8d49f3-50b4-4025-bf5b-16e813a2686d': ['2c2f8911-7a67-446c-aadf-9b8397eb1d76', 'b540ea02-6c7a-478e-9e60-5d766118f84a', '6d011056-6c16-44f0-a46a-4948460621cd', '407f4e67-a488-479f-a807-271e1b66dab0']}
+2024-08-05 17:26:29,621 | INFO | tts.py | 72 | <module> | tts voice count: 1
+2024-08-05 17:26:29,622 | INFO | tts.py | 73 | <module> | =================== loaded tts models ===================
+2024-08-05 17:26:29,622 | INFO | tts.py | 74 | <module> | [TTS(
+  (model): SynthesizerTrn(
+    (enc_p): TextEncoder(
+      (emb): Embedding(219, 192)
+      (tone_emb): Embedding(16, 192)
+      (language_emb): Embedding(8, 192)
+      (bert_proj): Conv1d(1024, 192, kernel_size=(1,), stride=(1,))
+      (ja_bert_proj): Conv1d(768, 192, kernel_size=(1,), stride=(1,))
+      (encoder): Encoder(
+        (spk_emb_linear): Linear(in_features=256, out_features=192, bias=True)
+        (drop): Dropout(p=0.1, inplace=False)
+        (attn_layers): ModuleList(
+          (0-5): 6 x MultiHeadAttention(
+            (conv_q): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            (conv_k): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            (conv_v): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            (conv_o): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            (drop): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (norm_layers_1): ModuleList(
+          (0-5): 6 x LayerNorm()
+        )
+        (ffn_layers): ModuleList(
+          (0-5): 6 x FFN(
+            (conv_1): Conv1d(192, 768, kernel_size=(3,), stride=(1,))
+            (conv_2): Conv1d(768, 192, kernel_size=(3,), stride=(1,))
+            (drop): Dropout(p=0.1, inplace=False)
+          )
+        )
+        (norm_layers_2): ModuleList(
+          (0-5): 6 x LayerNorm()
+        )
+      )
+      (proj): Conv1d(192, 384, kernel_size=(1,), stride=(1,))
+    )
+    (dec): Generator(
+      (conv_pre): Conv1d(192, 512, kernel_size=(7,), stride=(1,), padding=(3,))
+      (ups): ModuleList(
+        (0): ConvTranspose1d(512, 256, kernel_size=(16,), stride=(8,), padding=(4,))
+        (1): ConvTranspose1d(256, 128, kernel_size=(16,), stride=(8,), padding=(4,))
+        (2): ConvTranspose1d(128, 64, kernel_size=(8,), stride=(2,), padding=(3,))
+        (3): ConvTranspose1d(64, 32, kernel_size=(2,), stride=(2,))
+        (4): ConvTranspose1d(32, 16, kernel_size=(2,), stride=(2,))
+      )
+      (resblocks): ModuleList(
+        (0): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(256, 256, kernel_size=(3,), stride=(1,), padding=(1,))
+            (1): Conv1d(256, 256, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,))
+            (2): Conv1d(256, 256, kernel_size=(3,), stride=(1,), padding=(5,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(256, 256, kernel_size=(3,), stride=(1,), padding=(1,))
+          )
+        )
+        (1): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(256, 256, kernel_size=(7,), stride=(1,), padding=(3,))
+            (1): Conv1d(256, 256, kernel_size=(7,), stride=(1,), padding=(9,), dilation=(3,))
+            (2): Conv1d(256, 256, kernel_size=(7,), stride=(1,), padding=(15,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(256, 256, kernel_size=(7,), stride=(1,), padding=(3,))
+          )
+        )
+        (2): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(256, 256, kernel_size=(11,), stride=(1,), padding=(5,))
+            (1): Conv1d(256, 256, kernel_size=(11,), stride=(1,), padding=(15,), dilation=(3,))
+            (2): Conv1d(256, 256, kernel_size=(11,), stride=(1,), padding=(25,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(256, 256, kernel_size=(11,), stride=(1,), padding=(5,))
+          )
+        )
+        (3): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+            (1): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,))
+            (2): Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(5,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(128, 128, kernel_size=(3,), stride=(1,), padding=(1,))
+          )
+        )
+        (4): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(128, 128, kernel_size=(7,), stride=(1,), padding=(3,))
+            (1): Conv1d(128, 128, kernel_size=(7,), stride=(1,), padding=(9,), dilation=(3,))
+            (2): Conv1d(128, 128, kernel_size=(7,), stride=(1,), padding=(15,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(128, 128, kernel_size=(7,), stride=(1,), padding=(3,))
+          )
+        )
+        (5): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(128, 128, kernel_size=(11,), stride=(1,), padding=(5,))
+            (1): Conv1d(128, 128, kernel_size=(11,), stride=(1,), padding=(15,), dilation=(3,))
+            (2): Conv1d(128, 128, kernel_size=(11,), stride=(1,), padding=(25,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(128, 128, kernel_size=(11,), stride=(1,), padding=(5,))
+          )
+        )
+        (6): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(64, 64, kernel_size=(3,), stride=(1,), padding=(1,))
+            (1): Conv1d(64, 64, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,))
+            (2): Conv1d(64, 64, kernel_size=(3,), stride=(1,), padding=(5,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(64, 64, kernel_size=(3,), stride=(1,), padding=(1,))
+          )
+        )
+        (7): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(64, 64, kernel_size=(7,), stride=(1,), padding=(3,))
+            (1): Conv1d(64, 64, kernel_size=(7,), stride=(1,), padding=(9,), dilation=(3,))
+            (2): Conv1d(64, 64, kernel_size=(7,), stride=(1,), padding=(15,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(64, 64, kernel_size=(7,), stride=(1,), padding=(3,))
+          )
+        )
+        (8): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(64, 64, kernel_size=(11,), stride=(1,), padding=(5,))
+            (1): Conv1d(64, 64, kernel_size=(11,), stride=(1,), padding=(15,), dilation=(3,))
+            (2): Conv1d(64, 64, kernel_size=(11,), stride=(1,), padding=(25,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(64, 64, kernel_size=(11,), stride=(1,), padding=(5,))
+          )
+        )
+        (9): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(32, 32, kernel_size=(3,), stride=(1,), padding=(1,))
+            (1): Conv1d(32, 32, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,))
+            (2): Conv1d(32, 32, kernel_size=(3,), stride=(1,), padding=(5,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(32, 32, kernel_size=(3,), stride=(1,), padding=(1,))
+          )
+        )
+        (10): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(32, 32, kernel_size=(7,), stride=(1,), padding=(3,))
+            (1): Conv1d(32, 32, kernel_size=(7,), stride=(1,), padding=(9,), dilation=(3,))
+            (2): Conv1d(32, 32, kernel_size=(7,), stride=(1,), padding=(15,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(32, 32, kernel_size=(7,), stride=(1,), padding=(3,))
+          )
+        )
+        (11): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(32, 32, kernel_size=(11,), stride=(1,), padding=(5,))
+            (1): Conv1d(32, 32, kernel_size=(11,), stride=(1,), padding=(15,), dilation=(3,))
+            (2): Conv1d(32, 32, kernel_size=(11,), stride=(1,), padding=(25,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(32, 32, kernel_size=(11,), stride=(1,), padding=(5,))
+          )
+        )
+        (12): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(16, 16, kernel_size=(3,), stride=(1,), padding=(1,))
+            (1): Conv1d(16, 16, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,))
+            (2): Conv1d(16, 16, kernel_size=(3,), stride=(1,), padding=(5,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(16, 16, kernel_size=(3,), stride=(1,), padding=(1,))
+          )
+        )
+        (13): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(16, 16, kernel_size=(7,), stride=(1,), padding=(3,))
+            (1): Conv1d(16, 16, kernel_size=(7,), stride=(1,), padding=(9,), dilation=(3,))
+            (2): Conv1d(16, 16, kernel_size=(7,), stride=(1,), padding=(15,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(16, 16, kernel_size=(7,), stride=(1,), padding=(3,))
+          )
+        )
+        (14): ResBlock1(
+          (convs1): ModuleList(
+            (0): Conv1d(16, 16, kernel_size=(11,), stride=(1,), padding=(5,))
+            (1): Conv1d(16, 16, kernel_size=(11,), stride=(1,), padding=(15,), dilation=(3,))
+            (2): Conv1d(16, 16, kernel_size=(11,), stride=(1,), padding=(25,), dilation=(5,))
+          )
+          (convs2): ModuleList(
+            (0-2): 3 x Conv1d(16, 16, kernel_size=(11,), stride=(1,), padding=(5,))
+          )
+        )
+      )
+      (conv_post): Conv1d(16, 1, kernel_size=(7,), stride=(1,), padding=(3,), bias=False)
+      (cond): Conv1d(256, 512, kernel_size=(1,), stride=(1,))
+    )
+    (enc_q): PosteriorEncoder(
+      (pre): Conv1d(1025, 192, kernel_size=(1,), stride=(1,))
+      (enc): WN(
+        (in_layers): ModuleList(
+          (0-15): 16 x Conv1d(192, 384, kernel_size=(5,), stride=(1,), padding=(2,))
+        )
+        (res_skip_layers): ModuleList(
+          (0-14): 15 x Conv1d(192, 384, kernel_size=(1,), stride=(1,))
+          (15): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+        )
+        (drop): Dropout(p=0, inplace=False)
+        (cond_layer): Conv1d(256, 6144, kernel_size=(1,), stride=(1,))
+      )
+      (proj): Conv1d(192, 384, kernel_size=(1,), stride=(1,))
+    )
+    (flow): TransformerCouplingBlock(
+      (flows): ModuleList(
+        (0): TransformerCouplingLayer(
+          (pre): Conv1d(96, 192, kernel_size=(1,), stride=(1,))
+          (enc): Encoder(
+            (spk_emb_linear): Linear(in_features=256, out_features=192, bias=True)
+            (drop): Dropout(p=0.1, inplace=False)
+            (attn_layers): ModuleList(
+              (0-2): 3 x MultiHeadAttention(
+                (conv_q): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_k): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_v): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_o): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (drop): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (norm_layers_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (ffn_layers): ModuleList(
+              (0-2): 3 x FFN(
+                (conv_1): Conv1d(192, 768, kernel_size=(5,), stride=(1,))
+                (conv_2): Conv1d(768, 192, kernel_size=(5,), stride=(1,))
+                (drop): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (norm_layers_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (post): Conv1d(192, 96, kernel_size=(1,), stride=(1,))
+        )
+        (1): Flip()
+        (2): TransformerCouplingLayer(
+          (pre): Conv1d(96, 192, kernel_size=(1,), stride=(1,))
+          (enc): Encoder(
+            (spk_emb_linear): Linear(in_features=256, out_features=192, bias=True)
+            (drop): Dropout(p=0.1, inplace=False)
+            (attn_layers): ModuleList(
+              (0-2): 3 x MultiHeadAttention(
+                (conv_q): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_k): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_v): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_o): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (drop): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (norm_layers_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (ffn_layers): ModuleList(
+              (0-2): 3 x FFN(
+                (conv_1): Conv1d(192, 768, kernel_size=(5,), stride=(1,))
+                (conv_2): Conv1d(768, 192, kernel_size=(5,), stride=(1,))
+                (drop): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (norm_layers_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (post): Conv1d(192, 96, kernel_size=(1,), stride=(1,))
+        )
+        (3): Flip()
+        (4): TransformerCouplingLayer(
+          (pre): Conv1d(96, 192, kernel_size=(1,), stride=(1,))
+          (enc): Encoder(
+            (spk_emb_linear): Linear(in_features=256, out_features=192, bias=True)
+            (drop): Dropout(p=0.1, inplace=False)
+            (attn_layers): ModuleList(
+              (0-2): 3 x MultiHeadAttention(
+                (conv_q): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_k): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_v): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_o): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (drop): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (norm_layers_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (ffn_layers): ModuleList(
+              (0-2): 3 x FFN(
+                (conv_1): Conv1d(192, 768, kernel_size=(5,), stride=(1,))
+                (conv_2): Conv1d(768, 192, kernel_size=(5,), stride=(1,))
+                (drop): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (norm_layers_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (post): Conv1d(192, 96, kernel_size=(1,), stride=(1,))
+        )
+        (5): Flip()
+        (6): TransformerCouplingLayer(
+          (pre): Conv1d(96, 192, kernel_size=(1,), stride=(1,))
+          (enc): Encoder(
+            (spk_emb_linear): Linear(in_features=256, out_features=192, bias=True)
+            (drop): Dropout(p=0.1, inplace=False)
+            (attn_layers): ModuleList(
+              (0-2): 3 x MultiHeadAttention(
+                (conv_q): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_k): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_v): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (conv_o): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+                (drop): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (norm_layers_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (ffn_layers): ModuleList(
+              (0-2): 3 x FFN(
+                (conv_1): Conv1d(192, 768, kernel_size=(5,), stride=(1,))
+                (conv_2): Conv1d(768, 192, kernel_size=(5,), stride=(1,))
+                (drop): Dropout(p=0.1, inplace=False)
+              )
+            )
+            (norm_layers_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (post): Conv1d(192, 96, kernel_size=(1,), stride=(1,))
+        )
+        (7): Flip()
+      )
+    )
+    (sdp): StochasticDurationPredictor(
+      (log_flow): Log()
+      (flows): ModuleList(
+        (0): ElementwiseAffine()
+        (1): ConvFlow(
+          (pre): Conv1d(1, 192, kernel_size=(1,), stride=(1,))
+          (convs): DDSConv(
+            (drop): Dropout(p=0.0, inplace=False)
+            (convs_sep): ModuleList(
+              (0): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,), groups=192)
+              (1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,), groups=192)
+              (2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(9,), dilation=(9,), groups=192)
+            )
+            (convs_1x1): ModuleList(
+              (0-2): 3 x Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            )
+            (norms_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (norms_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (proj): Conv1d(192, 29, kernel_size=(1,), stride=(1,))
+        )
+        (2): Flip()
+        (3): ConvFlow(
+          (pre): Conv1d(1, 192, kernel_size=(1,), stride=(1,))
+          (convs): DDSConv(
+            (drop): Dropout(p=0.0, inplace=False)
+            (convs_sep): ModuleList(
+              (0): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,), groups=192)
+              (1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,), groups=192)
+              (2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(9,), dilation=(9,), groups=192)
+            )
+            (convs_1x1): ModuleList(
+              (0-2): 3 x Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            )
+            (norms_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (norms_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (proj): Conv1d(192, 29, kernel_size=(1,), stride=(1,))
+        )
+        (4): Flip()
+        (5): ConvFlow(
+          (pre): Conv1d(1, 192, kernel_size=(1,), stride=(1,))
+          (convs): DDSConv(
+            (drop): Dropout(p=0.0, inplace=False)
+            (convs_sep): ModuleList(
+              (0): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,), groups=192)
+              (1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,), groups=192)
+              (2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(9,), dilation=(9,), groups=192)
+            )
+            (convs_1x1): ModuleList(
+              (0-2): 3 x Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            )
+            (norms_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (norms_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (proj): Conv1d(192, 29, kernel_size=(1,), stride=(1,))
+        )
+        (6): Flip()
+        (7): ConvFlow(
+          (pre): Conv1d(1, 192, kernel_size=(1,), stride=(1,))
+          (convs): DDSConv(
+            (drop): Dropout(p=0.0, inplace=False)
+            (convs_sep): ModuleList(
+              (0): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,), groups=192)
+              (1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,), groups=192)
+              (2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(9,), dilation=(9,), groups=192)
+            )
+            (convs_1x1): ModuleList(
+              (0-2): 3 x Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            )
+            (norms_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (norms_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (proj): Conv1d(192, 29, kernel_size=(1,), stride=(1,))
+        )
+        (8): Flip()
+      )
+      (post_pre): Conv1d(1, 192, kernel_size=(1,), stride=(1,))
+      (post_proj): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+      (post_convs): DDSConv(
+        (drop): Dropout(p=0.5, inplace=False)
+        (convs_sep): ModuleList(
+          (0): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,), groups=192)
+          (1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,), groups=192)
+          (2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(9,), dilation=(9,), groups=192)
+        )
+        (convs_1x1): ModuleList(
+          (0-2): 3 x Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+        )
+        (norms_1): ModuleList(
+          (0-2): 3 x LayerNorm()
+        )
+        (norms_2): ModuleList(
+          (0-2): 3 x LayerNorm()
+        )
+      )
+      (post_flows): ModuleList(
+        (0): ElementwiseAffine()
+        (1): ConvFlow(
+          (pre): Conv1d(1, 192, kernel_size=(1,), stride=(1,))
+          (convs): DDSConv(
+            (drop): Dropout(p=0.0, inplace=False)
+            (convs_sep): ModuleList(
+              (0): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,), groups=192)
+              (1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,), groups=192)
+              (2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(9,), dilation=(9,), groups=192)
+            )
+            (convs_1x1): ModuleList(
+              (0-2): 3 x Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            )
+            (norms_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (norms_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (proj): Conv1d(192, 29, kernel_size=(1,), stride=(1,))
+        )
+        (2): Flip()
+        (3): ConvFlow(
+          (pre): Conv1d(1, 192, kernel_size=(1,), stride=(1,))
+          (convs): DDSConv(
+            (drop): Dropout(p=0.0, inplace=False)
+            (convs_sep): ModuleList(
+              (0): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,), groups=192)
+              (1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,), groups=192)
+              (2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(9,), dilation=(9,), groups=192)
+            )
+            (convs_1x1): ModuleList(
+              (0-2): 3 x Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            )
+            (norms_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (norms_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (proj): Conv1d(192, 29, kernel_size=(1,), stride=(1,))
+        )
+        (4): Flip()
+        (5): ConvFlow(
+          (pre): Conv1d(1, 192, kernel_size=(1,), stride=(1,))
+          (convs): DDSConv(
+            (drop): Dropout(p=0.0, inplace=False)
+            (convs_sep): ModuleList(
+              (0): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,), groups=192)
+              (1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,), groups=192)
+              (2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(9,), dilation=(9,), groups=192)
+            )
+            (convs_1x1): ModuleList(
+              (0-2): 3 x Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            )
+            (norms_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (norms_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (proj): Conv1d(192, 29, kernel_size=(1,), stride=(1,))
+        )
+        (6): Flip()
+        (7): ConvFlow(
+          (pre): Conv1d(1, 192, kernel_size=(1,), stride=(1,))
+          (convs): DDSConv(
+            (drop): Dropout(p=0.0, inplace=False)
+            (convs_sep): ModuleList(
+              (0): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,), groups=192)
+              (1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,), groups=192)
+              (2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(9,), dilation=(9,), groups=192)
+            )
+            (convs_1x1): ModuleList(
+              (0-2): 3 x Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+            )
+            (norms_1): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+            (norms_2): ModuleList(
+              (0-2): 3 x LayerNorm()
+            )
+          )
+          (proj): Conv1d(192, 29, kernel_size=(1,), stride=(1,))
+        )
+        (8): Flip()
+      )
+      (pre): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+      (proj): Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+      (convs): DDSConv(
+        (drop): Dropout(p=0.5, inplace=False)
+        (convs_sep): ModuleList(
+          (0): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(1,), groups=192)
+          (1): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(3,), dilation=(3,), groups=192)
+          (2): Conv1d(192, 192, kernel_size=(3,), stride=(1,), padding=(9,), dilation=(9,), groups=192)
+        )
+        (convs_1x1): ModuleList(
+          (0-2): 3 x Conv1d(192, 192, kernel_size=(1,), stride=(1,))
+        )
+        (norms_1): ModuleList(
+          (0-2): 3 x LayerNorm()
+        )
+        (norms_2): ModuleList(
+          (0-2): 3 x LayerNorm()
+        )
+      )
+      (cond): Conv1d(256, 192, kernel_size=(1,), stride=(1,))
+    )
+    (dp): DurationPredictor(
+      (drop): Dropout(p=0.5, inplace=False)
+      (conv_1): Conv1d(192, 256, kernel_size=(3,), stride=(1,), padding=(1,))
+      (norm_1): LayerNorm()
+      (conv_2): Conv1d(256, 256, kernel_size=(3,), stride=(1,), padding=(1,))
+      (norm_2): LayerNorm()
+      (proj): Conv1d(256, 1, kernel_size=(1,), stride=(1,))
+      (cond): Conv1d(256, 192, kernel_size=(1,), stride=(1,))
+    )
+    (emb_g): Embedding(1, 256)
+  )
+)]
+2024-08-05 17:27:37,526 | INFO | tts.py | 145 | generate | /text-to-speech
+2024-08-05 17:27:37,527 | DEBUG | tts.py | 154 | generate | model id: 6c8d49f3-50b4-4025-bf5b-16e813a2686d
+2024-08-05 17:27:37,527 | DEBUG | tts.py | 155 | generate | voice id: 2c2f8911-7a67-446c-aadf-9b8397eb1d76
+2024-08-05 17:27:37,527 | DEBUG | tts.py | 156 | generate | text: 안녕하세요
+2024-08-05 17:27:37,527 | DEBUG | tts.py | 157 | generate | language code: kr
+2024-08-05 17:27:37,527 | DEBUG | tts.py | 173 | generate | using device: cuda:0
+2024-08-05 17:27:37,527 | ERROR | tts.py | 111 | _generate | 'HParams' object has no attribute 'KR'
+2024-08-05 17:27:37,527 | ERROR | tts.py | 185 | generate | generate wave file failed.

@@ -36,21 +36,42 @@ from melo.api import TTS
 from config.config import voices
 voice_ids = [voice.id for voice in voices]
 from config.config import model_voice_dict
+from config.config import Voice
 
 from util.logger import logger
 OUTPUT_DIR = "/data/aibox_tts/data/"
-
+BASE_DIR = "/ssd_data/code/aibox_tts"
+MODEL_DIR = "/ssd_data/code/aibox_tts/models"
 
 ################################### MODEL INITIALIZE ###################################
-# CUDA_DEVICES = ["cuda:0", "cuda:1"]
-CUDA_DEVICES = ["cuda:0"]
-tts_ko_models = [
-    TTS(language='KR', device=device) for device in CUDA_DEVICES
-]
-logger.info("=================== tts korean models ===================")
-for model in tts_ko_models:
-    logger.info("init model device: {}".format(model.device))
+CUDA_DEVICES = ["cuda:0", "cuda:1"]
+def _get_model_info(voice: Voice):
+    def _get_model_path(model_id: str, voice_id: str):
+        return os.path.join(MODEL_DIR, model_id, voice_id)
+        
+    language = voice.language
+    device = CUDA_DEVICES[0]
+    use_hf = False
+    config_path = _get_model_path(voice.model_id, voice.id) + f"/config.json"
+    ckpt_path = _get_model_path(voice.model_id, voice.id) + f"/G.pth"
+    
+    return {
+        "language": language,
+        "device": device,
+        "use_hf": use_hf,
+        "config_path": config_path,
+        "ckpt_path": ckpt_path
+    }
 
+# load models
+tts_models = list()
+for voice in voices[:1]:
+    model_info = _get_model_info(voice)
+    tts_models.append(TTS(**model_info))
+    
+logger.info(f"tts voice count: {len(tts_models)}")
+logger.info("=================== loaded tts models ===================")
+logger.info(tts_models)
 
 ###################################### API ROUTER ######################################
 PREFIX_URL = "/v1"
@@ -142,14 +163,13 @@ async def generate(
     if not voice_ids or len(voice_ids) < 1:
         raise RequestValidationError("voice id not found")
     
-    
-    
     # check translation contents and languages
     if not all([text, lang_cd, speed]):
         raise RequestValidationError("Text or source language code or speed not provided.")
     
     try:
-        model = random.choice(tts_ko_models)
+        #TODO: get model by filter id
+        model = tts_models[0]
         logger.debug(f"using device: {model.device}")
         
         output_file, filename = _generate(model, text, lang_cd=lang_cd, speed=speed)

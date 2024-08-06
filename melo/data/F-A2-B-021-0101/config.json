@@ -35,7 +35,7 @@
     "n_speakers": 1,
     "cleaned_text": true,
     "spk2id": {
-      "AIHUB-F-A2-B-021-0101": 0
+      "KR": 0
     }
   },
   "model": {

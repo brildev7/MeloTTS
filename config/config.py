@@ -45,5 +45,5 @@ for voice in voices:
 logger.info("=============== provided voices ============")
 logger.info(voices)
 
-logger.info("============== model-voice dict ============")
+logger.info("============== voice ids ============")
 logger.info(model_voice_dict)

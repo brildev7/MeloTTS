@@ -7,6 +7,8 @@ from typing import List, Dict, Set, Any, Union, Annotated, Optional
 import hashlib
 import uuid
 import shutil
+import json
+from json import JSONEncoder
 # from redis import Redis
 from httpx import HTTPError
 # cache_contents = Redis(
@@ -22,7 +24,7 @@ from fastapi import Body, Query
 from fastapi import APIRouter, Depends, HTTPException
 from fastapi.exceptions import RequestValidationError
 from fastapi.encoders import jsonable_encoder
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, Response, JSONResponse
 from routers.base import Tags
 from api_requests.requests import TTSRequest
 from api_requests.requests import (
@@ -30,7 +32,13 @@ from api_requests.requests import (
     DEFAULT_MODEL_ID,
     DEFAULT_LANG_CD,
     DEFAULT_SEED,
-    DEFAULT_SPEED
+    DEFAULT_SPEED,
+    DEFAULT_NOISE_SCALE,
+    DEFAULT_NOISE_SCALE_W,
+    DEFAULT_SDP_RATIO,
+    DEFAULT_SIMILARITY_BOOST,
+    DEFAULT_STABILITY,
+    DEFAULT_TTS_PARAMS
 )
 from melo.api import TTS
 from config.config import voices
@@ -40,6 +48,7 @@ from config.config import Voice
 
 from util.logger import logger
 OUTPUT_DIR = "/data/aibox_tts/data/"
+OUTPUT_DIR_TMP = "/data/aibox_tts/data/tmp"
 BASE_DIR = "/ssd_data/code/aibox_tts"
 MODEL_DIR = "/ssd_data/code/aibox_tts/models"
 
@@ -53,10 +62,13 @@ def _get_model_info(voice: Voice):
     device = CUDA_DEVICES[0]
     use_hf = False
     config_path = _get_model_path(voice.model_id, voice.id) + f"/config.json"
+    logger.info(f"config path: {config_path}")
+    
     ckpt_path = _get_model_path(voice.model_id, voice.id) + f"/G.pth"
+    logger.info(f"ckpt path: {ckpt_path}")
     
     return {
-        "language": language,
+        "language": language.upper(),
         "device": device,
         "use_hf": use_hf,
         "config_path": config_path,
@@ -67,11 +79,29 @@ def _get_model_info(voice: Voice):
 tts_models = list()
 for voice in voices[:1]:
     model_info = _get_model_info(voice)
-    tts_models.append(TTS(**model_info))
+    # tts_models.append(TTS(**model_info))
+    tts_models.append(TTS(language=model_info['language'],
+                          config_path=model_info['config_path'],
+                          ckpt_path=model_info['ckpt_path']))
     
 logger.info(f"tts voice count: {len(tts_models)}")
 logger.info("=================== loaded tts models ===================")
-logger.info(tts_models)
+for model in tts_models:
+    logger.info(model)
+    
+################################## Text to Speech Test #################################
+try:
+    tts_models[0].tts_to_file(
+    text="만나서 반가워요.", 
+    speaker_id=0, 
+    output_path=OUTPUT_DIR_TMP + "/tmp.wav", 
+    sdp_ratio=DEFAULT_SDP_RATIO,
+    noise_scale=DEFAULT_NOISE_SCALE,
+    noise_scale_w=DEFAULT_NOISE_SCALE_W,
+    speed=DEFAULT_SPEED)
+except Exception as e:
+    logger.error(e)
+
 
 ###################################### API ROUTER ######################################
 PREFIX_URL = "/v1"
@@ -101,14 +131,22 @@ def _make_output_dir():
 def _generate(model: TTS, text: str, lang_cd: str = DEFAULT_LANG_CD, speed: int = DEFAULT_SPEED):
     try:
         speaker_ids = model.hps.data.spk2id
+        logger.debug(f"speaker ids: {speaker_ids}")
         
         random_id = str(uuid.uuid4())
         filename = "audio_file_id_" + random_id + ".wav"
         outdir = _make_output_dir()
         output_filepath = outdir + filename        
-        model.tts_to_file(text, speaker_ids[lang_cd.upper()], output_filepath, speed=speed)
+        model.tts_to_file(
+            text=text, 
+            speaker_id=speaker_ids[lang_cd.upper()], 
+            output_path=output_filepath, 
+            sdp_ratio=DEFAULT_SDP_RATIO,
+            noise_scale=DEFAULT_NOISE_SCALE,
+            noise_scale_w=DEFAULT_NOISE_SCALE_W,
+            speed=speed)
     except Exception as e:
-        logger.error(e)
+        logger.error(f"error: {e}")
         return None, None
     return output_filepath, filename
     
@@ -129,7 +167,7 @@ async def generate(
                     "text": "안녕하세요",
                     "voice_id": DEFAULT_VOICE_ID,
                     "model_id": DEFAULT_MODEL_ID,
-                    "language_code": DEFAULT_LANG_CD,
+                    "language": DEFAULT_LANG_CD,
                     "voice_settings": {
                         "stability": 0.5,
                         "similarity_boost": 0.5
@@ -148,7 +186,7 @@ async def generate(
     model_id = json_req.get("model_id")
     voice_id = json_req.get("voice_id")
     text = json_req.get("text", None)
-    lang_cd = json_req.get("language_code", None)
+    lang_cd = json_req.get("language", None)
     # voice_settings = json_req.get("voice_settings", None)
     speed = json_req.get("speed", None)
     logger.debug(f"model id: {model_id}")
@@ -170,9 +208,10 @@ async def generate(
     try:
         #TODO: get model by filter id
         model = tts_models[0]
+        logger.info(f"model's hyperparameter: {model.hps}")
         logger.debug(f"using device: {model.device}")
         
-        output_file, filename = _generate(model, text, lang_cd=lang_cd, speed=speed)
+        output_file, filename = _generate(model, text, lang_cd=lang_cd.upper(), speed=speed)
         if not output_file or not filename:
             raise RuntimeError("generate wave file failed.")
         
@@ -183,7 +222,13 @@ async def generate(
                           filename=filename)
     except Exception as e:
         logger.error(e)
-        res = FileResponse(status_code=status.HTTP_500_INTERNAL_SERVER_ERROR)
+        content = {
+            "error_code": "5000",
+            "error_message": f"{e}",
+            "error_descripton": "텍스트 음성 변환에 실패했습니다."
+        }
+        # content = jsonable_encoder(content)
+        res = JSONResponse(content=content, status_code=status.HTTP_500_INTERNAL_SERVER_ERROR)
     finally:
         del model
     return res

@@ -35,6 +35,9 @@ DEFAULT_STABILITY = 0.5
 DEFAULT_SIMILARITY_BOOST = 0.5
 DEFAULT_SEED = 123
 DEFAULT_SPEED = 1.0
+DEFAULT_SDP_RATIO = 0.2
+DEFAULT_NOISE_SCALE = 0.6
+DEFAULT_NOISE_SCALE_W = 0.8
 DEFAULT_TTS_PARAMS = {
     "stability": 0.5,
     "similarity_boost": 0.5
@@ -47,7 +50,7 @@ class TTSRequest(BaseModel):
     text: str = Field(description="음성 변환 대상 텍스트")
     voice_id: str = Field(description="사용 음성 ID", default=DEFAULT_VOICE_ID)
     model_id: str = Field(description="사용 모델 ID", default=DEFAULT_MODEL_ID)
-    language_code: str = Field(description="사용 언어 코드", default=DEFAULT_LANG_CD)
+    language: str = Field(description="사용 언어 코드", default=DEFAULT_LANG_CD)
     voice_settings: dict = Field(description="음성 변환 파라미터", default=DEFAULT_TTS_PARAMS)
     speed: float = Field(description="재생 속도", default=DEFAULT_SPEED)
     seed: int = Field(description="랜덤 시드", default=DEFAULT_SEED)

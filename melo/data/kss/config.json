@@ -35,7 +35,7 @@
     "n_speakers": 1,
     "cleaned_text": true,
     "spk2id": {
-      "KR-KSS": 0
+      "KR": 0
     }
   },
   "model": {

@@ -1,4 +1,4 @@
-import os
+import os, sys
 import random
 from datetime import datetime
 from enum import Enum
@@ -40,6 +40,7 @@ from api_requests.requests import (
     DEFAULT_STABILITY,
     DEFAULT_TTS_PARAMS
 )
+from exceptions.model_exception import ModelNotFoundException
 from melo.api import TTS
 from config.config import voices
 voice_ids = [voice.id for voice in voices]
@@ -47,6 +48,10 @@ from config.config import model_voice_dict
 from config.config import Voice
 
 from util.logger import logger
+BASE_VOICE_ID = "b540ea02-6c7a-478e-9e60-5d766118f84a"
+BASE_MODEL_FILE_PATH = "/ssd_data/code/aibox_tts/melo/models/kr/G.pth"
+BASE_CONFIG_FILE_PATH = "/ssd_data/code/aibox_tts/melo/models/kr/config.json"
+
 OUTPUT_DIR = "/data/aibox_tts/data/"
 OUTPUT_DIR_TMP = "/data/aibox_tts/data/tmp"
 BASE_DIR = "/ssd_data/code/aibox_tts"
@@ -76,31 +81,32 @@ def _get_model_info(voice: Voice):
     }
 
 # load models
-tts_models = list()
-for voice in voices[:1]:
+tts_models_dict = dict()
+for voice in voices:
     model_info = _get_model_info(voice)
-    # tts_models.append(TTS(**model_info))
-    tts_models.append(TTS(language=model_info['language'],
-                          config_path=model_info['config_path'],
-                          ckpt_path=model_info['ckpt_path']))
+    tts_models_dict[voice.id] = TTS(language=model_info['language'],
+                        config_path=model_info['config_path'],
+                        ckpt_path=model_info['ckpt_path'])
     
-logger.info(f"tts voice count: {len(tts_models)}")
+logger.info(f"tts voice count: {len(tts_models_dict)}")
 logger.info("=================== loaded tts models ===================")
-for model in tts_models:
+for id, model in tts_models_dict.items():
     logger.info(model)
     
 ################################## Text to Speech Test #################################
-try:
-    tts_models[0].tts_to_file(
-    text="만나서 반가워요.", 
-    speaker_id=0, 
-    output_path=OUTPUT_DIR_TMP + "/tmp.wav", 
-    sdp_ratio=DEFAULT_SDP_RATIO,
-    noise_scale=DEFAULT_NOISE_SCALE,
-    noise_scale_w=DEFAULT_NOISE_SCALE_W,
-    speed=DEFAULT_SPEED)
-except Exception as e:
-    logger.error(e)
+if False:
+    try:
+        tts_models[0].tts_to_file(
+        text="만나서 반가워요.", 
+        speaker_id=0, 
+        output_path=OUTPUT_DIR_TMP + "/tmp.wav", 
+        sdp_ratio=DEFAULT_SDP_RATIO,
+        noise_scale=DEFAULT_NOISE_SCALE,
+        noise_scale_w=DEFAULT_NOISE_SCALE_W,
+        speed=DEFAULT_SPEED)
+    except Exception as e:
+        raise RuntimeError(f"module start up failed.. {e}")
+        sys.exit(1)
 
 
 ###################################### API ROUTER ######################################
@@ -206,8 +212,10 @@ async def generate(
         raise RequestValidationError("Text or source language code or speed not provided.")
     
     try:
-        #TODO: get model by filter id
-        model = tts_models[0]
+        if voice_id not in tts_models_dict.keys():
+            raise ModelNotFoundException(f"voice model not found: {voice_id}")
+        
+        model = tts_models_dict[voice_id]
         logger.info(f"model's hyperparameter: {model.hps}")
         logger.debug(f"using device: {model.device}")
         

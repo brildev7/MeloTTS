@@ -20,12 +20,12 @@ router = APIRouter(
                500: {"description": "Internal Error"}},
 )
 
-@router.get("/voice", 
+@router.get("/voices", 
             status_code=status.HTTP_200_OK,
             summary="Get voice list",
             description="Get voice list",
             include_in_schema=True,
             tags=[Tags.info],)
-async def voice():
-    logger.info("/voice")
+async def voics():
+    logger.info("/voices")
     return {"voices":voices}

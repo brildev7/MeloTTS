@@ -1,0 +1,2136 @@
+[
+  {
+    "id": "K-H103-P08-B-064",
+    "import": null,
+    "reciter": {
+      "age": 30,
+      "gender": "FEMALE",
+      "id": 64
+    },
+    "script": {
+      "chars_count": 1410,
+      "id": "K-H103",
+      "normalized": [
+        "네, 의류 수거는 저녁 여섯시 이후로 가능합니다.",
+        "지난번처럼 치킨무는 빼고 소스만 챙겨 드릴까요?",
+        "디지털 방송 화면이 나오지 않는다고요, 전원 코드 및 케이블 연결선 확인하셨을까요?",
+        "먼저, 전원 코드와 케이블 연결선 확인 부탁 드립니다.",
+        "다 꽂혀 있다고요, 그럼 셋톱박스 전원을 껐다가 십초 후에 다시 켜 보시겠습니까?",
+        "지금은 어떻습니까 고객님?",
+        "약정이 만료되셨군요, 계약 갱신해 드릴까요?",
+        "약정 만료되어 연락 드렸습니다, 재약정하시면 더 많은 혜택을 받으실 수 있는데 안내해 드릴까요?",
+        "네, 고객님, 이년 약정 신청하시면 저희가 오만원 상품권을 선물로 드리고 있습니다.",
+        "리모컨을 무료로 드리는 건 제 권한이 아니라서요, 죄송합니다.",
+        "대신 채널 수를 무료로 늘릴 수 있는 혜택이 있는데, 안내 받아 보시겠어요?",
+        "이전 설치에 관한 문의 남겨 주셨는데요, 같은 구 내에서 이전은 무료로 설치 가능합니다.",
+        "고객님, 현재 미성년자시라면 가입 설치를 원할 경우 부모님 동의서가 필요합니다.",
+        "명의 변경 원하시는 건가요, 변경하실 명의자분 개인 정보가 필요합니다.",
+        "자동이체 결제일 변경은 결제 방법에 따라 다릅니다.",
+        "청구서 주소지 변경은 유선상으로 가능합니다.",
+        "지금 주소 불러 주시면 바로 변경해 드리겠습니다.",
+        "시청 요금 할인 방법에 대해 문의 주신 것 맞을까요?",
+        "기초생활수급자, 장애인, 국가유공자 등 복지할인 대상자는 삼십퍼센트의 할인 혜택이 있습니다.",
+        "요금 납부 방법 변경을 원하시는 거죠.",
+        "기존에 어떤 걸로 납부하셨는지 확인하고 변경 도와 드리겠습니다.",
+        "혹시 건전지가 바르게 끼워지지 않을 수도 있으니 안에 건전지 플러스, 마이너스 부분 먼저 확인 부탁 드립니다.",
+        "사은품이나 혜택 등의 이벤트는 회사 지침에 따라 변동이 생길 수 있습니다.",
+        "고객센터로 내방해 주시면 자세하게 안내 드리겠습니다.",
+        "환불 처리 접수 도와 드릴까요, 대신 장비 반납을 해 주셔야 추후에 환불 접수가 완료됩니다.",
+        "장비 반납을 먼저 해 주셔야 추후에 환불 접수가 완료되는 점, 참고 바랍니다.",
+        "고객님, 보다 정확한 길 안내를 위해서 도로명 주소 알려 드리겠습니다.",
+        "에이에쓰는 택배 접수도 가능하고 방문 접수도 가능합니다, 어떤 게 더 편하신가요?",
+        "택배 발송 시 반드시 운송장 번호는 보관해 주시기 바랍니다.",
+        "택배로 에이에스 접수 시 수리 요청사항을 메모로 기재하셔도 좋습니다.",
+        "고객님, 오늘 저희 서비스센터를 이용하신 부분에 대해 평가해 주실 수 있나요?",
+        "매우 안 좋으면 일점, 매우 좋으면 십점으로 평가해 주시면 됩니다.",
+        "참가 신청은 홈페이지에서 신청서를 다운 받아 작성 후 이메일로 보내 주시면 됩니다.",
+        "네, 이번 한 달 동안 모집 중인데요, 참가하시길 원하시나요?",
+        "참가를 원하는 분이 고객님 본인 맞으실까요?",
+        "가맹점 개설이 궁금하신 거죠, 해당 부서로 연결해 드리겠습니다.",
+        "출장 메이크업 가격 때문에 전화 주신 것 맞으시죠?",
+        "저희 니아는 헤어, 메이크업 평균 비용은 건당 십만사천원입니다.",
+        "최저 금액은 팔만 원이며, 최고 금액은 십오만 원으로 책정되어 있습니다.",
+        "원하시는 헤어, 메이크업 스타일이 있으세요?",
+        "스타일에 따라 비용이 달라집니다.",
+        "웨딩, 증명사진 등 상황별 메이크업 스킬에 따라 가격이 다르게 책정됩니다.",
+        "고객님, 더 궁금한 사항은 없으세요?",
+        "네 그럼 좀 더 고민해 보시고 연락 주세요.",
+        "원룸, 소형 이사의 경우 평균 비용은 평당 최저 십이만 원, 최고 삼십만 원입니다.",
+        "이삿짐 양에 따라 다마스, 콜밴, 일톤 트럭 등 사용되는 차량의 크기가 달라질 수 있습니다.",
+        "이사 출발지나 도착지에 엘리베이터가 없는 고층인 경우, 견적이 추가될 수 있습니다.",
+        "화물 택배는 일반 택배로 취급하기 어려운 경우에 많이 이용하십니다.",
+        "일반 지역은 이일 이내, 도서 및 산간 지역은 삼일 이내 배송이 가능합니다.",
+        "일요일과 공휴일은 집화 및 배달이 지연되거나 없을 수 있습니다."
+      ],
+      "origin": [
+        "네, 의류 수거는 저녁 6시 이후로 가능합니다. ",
+        "지난번처럼 치킨무는 빼고 소스만 챙겨 드릴까요?",
+        "디지털 방송 화면이 나오지 않는다고요, 전원 코드 및 케이블 연결선 확인하셨을까요?",
+        "먼저, 전원 코드와 케이블 연결선 확인 부탁 드립니다.",
+        "다 꽂혀 있다고요, 그럼 셋톱박스 전원을 껐다가 10초 후에 다시 켜 보시겠습니까? ",
+        "지금은 어떻습니까 고객님?",
+        "약정이 만료되셨군요, 계약 갱신해 드릴까요?",
+        "약정 만료되어 연락 드렸습니다, 재약정하시면 더 많은 혜택을 받으실 수 있는데 안내해 드릴까요?",
+        "네, 고객님, 2년 약정 신청하시면 저희가 5만원 상품권을 선물로 드리고 있습니다. ",
+        "리모컨을 무료로 드리는 건 제 권한이 아니라서요, 죄송합니다.",
+        "대신 채널 수를 무료로 늘릴 수 있는 혜택이 있는데, 안내 받아 보시겠어요?",
+        "이전 설치에 관한 문의 남겨 주셨는데요, 같은 구 내에서 이전은 무료로 설치 가능합니다. ",
+        "고객님, 현재 미성년자시라면 가입 설치를 원할 경우 부모님 동의서가 필요합니다. ",
+        "명의 변경 원하시는 건가요, 변경하실 명의자분 개인 정보가 필요합니다. ",
+        "자동이체 결제일 변경은 결제 방법에 따라 다릅니다. ",
+        "청구서 주소지 변경은 유선상으로 가능합니다.",
+        "지금 주소 불러 주시면 바로 변경해 드리겠습니다. ",
+        "시청 요금 할인 방법에 대해 문의 주신 것 맞을까요? ",
+        "기초생활수급자, 장애인, 국가유공자 등 복지할인 대상자는 30%의 할인 혜택이 있습니다. ",
+        "요금 납부 방법 변경을 원하시는 거죠. ",
+        "기존에 어떤 걸로 납부하셨는지 확인하고 변경 도와 드리겠습니다. ",
+        "혹시 건전지가 바르게 끼워지지 않을 수도 있으니 안에 건전지 플러스, 마이너스 부분 먼저 확인 부탁 드립니다.",
+        "사은품이나 혜택 등의 이벤트는 회사 지침에 따라 변동이 생길 수 있습니다.",
+        "고객센터로 내방해 주시면 자세하게 안내 드리겠습니다.",
+        "환불 처리 접수 도와 드릴까요, 대신 장비 반납을 해 주셔야 추후에 환불 접수가 완료됩니다. ",
+        "장비 반납을 먼저 해 주셔야 추후에 환불 접수가 완료되는 점, 참고 바랍니다.",
+        "고객님, 보다 정확한 길 안내를 위해서 도로명 주소 알려 드리겠습니다. ",
+        "AS는 택배 접수도 가능하고 방문 접수도 가능합니다, 어떤 게 더 편하신가요?",
+        "택배 발송 시 반드시 운송장 번호는 보관해 주시기 바랍니다. ",
+        "택배로 AS 접수 시 수리 요청사항을 메모로 기재하셔도 좋습니다. ",
+        "고객님, 오늘 저희 서비스센터를 이용하신 부분에 대해 평가해 주실 수 있나요?",
+        "매우 안 좋으면 1점, 매우 좋으면 10점으로 평가해 주시면 됩니다.",
+        "참가 신청은 홈페이지에서 신청서를 다운 받아 작성 후 이메일로 보내 주시면 됩니다. ",
+        "네, 이번 한 달 동안 모집 중인데요, 참가하시길 원하시나요?",
+        "참가를 원하는 분이 고객님 본인 맞으실까요?",
+        "가맹점 개설이 궁금하신 거죠, 해당 부서로 연결해 드리겠습니다. ",
+        "출장 메이크업 가격 때문에 전화 주신 것 맞으시죠?",
+        "저희 니아는 헤어, 메이크업 평균 비용은 건당 10만4000원입니다.",
+        "최저 금액은 8만 원이며, 최고 금액은 15만 원으로 책정되어 있습니다.",
+        "원하시는 헤어, 메이크업 스타일이 있으세요?",
+        "스타일에 따라 비용이 달라집니다.",
+        "웨딩, 증명사진 등 상황별 메이크업 스킬에 따라 가격이 다르게 책정됩니다.",
+        "고객님, 더 궁금한 사항은 없으세요?",
+        "네 그럼 좀 더 고민해 보시고 연락 주세요.",
+        "원룸, 소형 이사의 경우 평균 비용은 평당 최저 12만 원, 최고 30만 원입니다.",
+        "이삿짐 양에 따라 다마스, 콜밴, 1톤 트럭 등 사용되는 차량의 크기가 달라질 수 있습니다.",
+        "이사 출발지나 도착지에 엘리베이터가 없는 고층인 경우, 견적이 추가될 수 있습니다.",
+        "화물 택배는 일반 택배로 취급하기 어려운 경우에 많이 이용하십니다.",
+        "일반 지역은 2일 이내, 도서 및 산간 지역은 3일 이내 배송이 가능합니다.",
+        "일요일과 공휴일은 집화 및 배달이 지연되거나 없을 수 있습니다."
+      ],
+      "part_no": 8,
+      "tokens_count": 460
+    },
+    "sentences": [
+      {
+        "id": "K-H1-B-064-0351",
+        "origin_text": "네, 의류 수거는 저녁 6시 이후로 가능합니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.759979248046875,
+          "file_duration": 4.259979248046875,
+          "filename": "K-H1-B-064-0351.wav",
+          "ptr": "네  /  의류 수거는 저녁 여섯 시 이후로 가능합니다.",
+          "tr": "네, 의류 수거는 저녁 여섯 시 이후로 가능합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0352",
+        "origin_text": "지난번처럼 치킨무는 빼고 소스만 챙겨 드릴까요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.220001220703125,
+          "file_duration": 3.720001220703125,
+          "filename": "K-H1-B-064-0352.wav",
+          "ptr": "지난번처럼 치킨무는 빼고 소스만 챙겨 드릴까요?",
+          "tr": "지난번처럼 치킨무는 빼고 소스만 챙겨 드릴까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0353",
+        "origin_text": "디지털 방송 화면이 나오지 않는다고요, 전원 코드 및 케이블 연결선 확인하셨을까요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.02001953125,
+          "file_duration": 6.52001953125,
+          "filename": "K-H1-B-064-0353.wav",
+          "ptr": "디지털 방송 화면이 나오지 않는다고요  /  전원 코드 및 케이블 연결선 확인하셨을까요?",
+          "tr": "디지털 방송 화면이 나오지 않는다고요, 전원 코드 및 케이블 연결선 확인하셨을까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0354",
+        "origin_text": "먼저, 전원 코드와 케이블 연결선 확인 부탁 드립니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.060028076171875,
+          "file_duration": 4.560028076171875,
+          "filename": "K-H1-B-064-0354.wav",
+          "ptr": "먼저  /  전원 코드와 케이블 연결선 확인 부탁 드립니다.",
+          "tr": "먼저, 전원 코드와 케이블 연결선 확인 부탁 드립니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0355",
+        "origin_text": "다 꽂혀 있다고요, 그럼 셋톱박스 전원을 껐다가 10초 후에 다시 켜 보시겠습니까? ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.459991455078125,
+          "file_duration": 6.959991455078125,
+          "filename": "K-H1-B-064-0355.wav",
+          "ptr": "다 꽂혀 있다고요  /  그럼 셋톱박스 전원을 껐다가  /  십 초 후에 다시 켜 보시겠습니까?",
+          "tr": "다 꽂혀 있다고요, 그럼 셋톱박스 전원을 껐다가 십 초 후에 다시 켜 보시겠습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0356",
+        "origin_text": "지금은 어떻습니까 고객님?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 1.79998779296875,
+          "file_duration": 2.29998779296875,
+          "filename": "K-H1-B-064-0356.wav",
+          "ptr": "지금은 어떻습니까 고객님?",
+          "tr": "지금은 어떻습니까 고객님?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0357",
+        "origin_text": "약정이 만료되셨군요, 계약 갱신해 드릴까요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.660003662109375,
+          "file_duration": 4.160003662109375,
+          "filename": "K-H1-B-064-0357.wav",
+          "ptr": "약정이 만료되셨군요  /  계약 갱신해 드릴까요?",
+          "tr": "약정이 만료되셨군요, 계약 갱신해 드릴까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0358",
+        "origin_text": "약정 만료되어 연락 드렸습니다, 재약정하시면 더 많은 혜택을 받으실 수 있는데 안내해 드릴까요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 7.300018310546875,
+          "file_duration": 7.800018310546875,
+          "filename": "K-H1-B-064-0358.wav",
+          "ptr": "약정 만료되어 연락 드렸습니다  /  재약정하시면 더 많은 혜택을 받으실 수 있는데  /  안내해 드릴까요?",
+          "tr": "약정 만료되어 연락 드렸습니다, 재약정하시면 더 많은 혜택을 받으실 수 있는데 안내해 드릴까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0359",
+        "origin_text": "네, 고객님, 2년 약정 신청하시면 저희가 5만원 상품권을 선물로 드리고 있습니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.3599853515625,
+          "file_duration": 6.8599853515625,
+          "filename": "K-H1-B-064-0359.wav",
+          "ptr": "네 고객님  /  이 년 약정 신청하시면  /  저희가 오만 원 상품권을 선물로 드리고 있습니다.",
+          "tr": "네, 고객님, 이 년 약정 신청하시면 저희가 오만 원 상품권을 선물로 드리고 있습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0360",
+        "origin_text": "리모컨을 무료로 드리는 건 제 권한이 아니라서요, 죄송합니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.759979248046875,
+          "file_duration": 5.259979248046875,
+          "filename": "K-H1-B-064-0360.wav",
+          "ptr": "리모컨을 무료로 드리는 건 제 권한이 아니라서요  /  죄송합니다.",
+          "tr": "리모컨을 무료로 드리는 건 제 권한이 아니라서요, 죄송합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0361",
+        "origin_text": "대신 채널 수를 무료로 늘릴 수 있는 혜택이 있는데, 안내 받아 보시겠어요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.899993896484375,
+          "file_duration": 5.399993896484375,
+          "filename": "K-H1-B-064-0361.wav",
+          "ptr": "대신 채널 수를 무료로 늘릴 수 있는 혜택이 있는데  /  안내 받아 보시겠어요?",
+          "tr": "대신 채널 수를 무료로 늘릴 수 있는 혜택이 있는데, 안내 받아 보시겠어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0362",
+        "origin_text": "이전 설치에 관한 문의 남겨 주셨는데요, 같은 구 내에서 이전은 무료로 설치 가능합니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.08001708984375,
+          "file_duration": 6.58001708984375,
+          "filename": "K-H1-B-064-0362.wav",
+          "ptr": "이전 설치에 관한 문의 남겨 주셨는데요  /  같은 구 내에서 이전은 무료로 설치 가능합니다.",
+          "tr": "이전 설치에 관한 문의 남겨 주셨는데요, 같은 구 내에서 이전은 무료로 설치 가능합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0363",
+        "origin_text": "고객님, 현재 미성년자시라면 가입 설치를 원할 경우 부모님 동의서가 필요합니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.44000244140625,
+          "file_duration": 6.94000244140625,
+          "filename": "K-H1-B-064-0363.wav",
+          "ptr": "고객님  /  현재 미성년자시라면  /  가입 설치를 원할 경우  /  부모님 동의서가 필요합니다.",
+          "tr": "고객님, 현재 미성년자시라면 가입 설치를 원할 경우 부모님 동의서가 필요합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0364",
+        "origin_text": "명의 변경 원하시는 건가요, 변경하실 명의자분 개인 정보가 필요합니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.29998779296875,
+          "file_duration": 5.79998779296875,
+          "filename": "K-H1-B-064-0364.wav",
+          "ptr": "명의 변경 원하시는 건가요  /  변경하실 명의자분 개인 정보가 필요합니다.",
+          "tr": "명의 변경 원하시는 건가요, 변경하실 명의자분 개인 정보가 필요합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0365",
+        "origin_text": "자동이체 결제일 변경은 결제 방법에 따라 다릅니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.53997802734375,
+          "file_duration": 4.03997802734375,
+          "filename": "K-H1-B-064-0365.wav",
+          "ptr": "자동이체 결제일 변경은 결제 방법에 따라 다릅니다.",
+          "tr": "자동이체 결제일 변경은 결제 방법에 따라 다릅니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0366",
+        "origin_text": "청구서 주소지 변경은 유선상으로 가능합니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.160003662109375,
+          "file_duration": 3.660003662109375,
+          "filename": "K-H1-B-064-0366.wav",
+          "ptr": "청구서 주소지 변경은 유선상으로 가능합니다.",
+          "tr": "청구서 주소지 변경은 유선상으로 가능합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0367",
+        "origin_text": "지금 주소 불러 주시면 바로 변경해 드리겠습니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.3599853515625,
+          "file_duration": 3.8599853515625,
+          "filename": "K-H1-B-064-0367.wav",
+          "ptr": "지금 주소 불러 주시면  /  바로 변경해 드리겠습니다.",
+          "tr": "지금 주소 불러 주시면 바로 변경해 드리겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0368",
+        "origin_text": "시청 요금 할인 방법에 대해 문의 주신 것 맞을까요? ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.32000732421875,
+          "file_duration": 3.82000732421875,
+          "filename": "K-H1-B-064-0368.wav",
+          "ptr": "시청 요금 할인 방법에 대해 문의 주신 것 맞을까요?",
+          "tr": "시청 요금 할인 방법에 대해 문의 주신 것 맞을까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0369",
+        "origin_text": "기초생활수급자, 장애인, 국가유공자 등 복지할인 대상자는 30%의 할인 혜택이 있습니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 7.959991455078125,
+          "file_duration": 8.459991455078125,
+          "filename": "K-H1-B-064-0369.wav",
+          "ptr": "기초생활수급자  /  장애인  /  국가유공자 등 복지할인 대상자는  /  삼십 퍼센트의 할인 혜택이 있습니다.",
+          "tr": "기초생활수급자, 장애인, 국가유공자 등 복지할인 대상자는 삼십 퍼센트의 할인 혜택이 있습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0370",
+        "origin_text": "요금 납부 방법 변경을 원하시는 거죠. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.53997802734375,
+          "file_duration": 3.03997802734375,
+          "filename": "K-H1-B-064-0370.wav",
+          "ptr": "요금 납부 방법 변경을 원하시는 거죠.",
+          "tr": "요금 납부 방법 변경을 원하시는 거죠."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0371",
+        "origin_text": "기존에 어떤 걸로 납부하셨는지 확인하고 변경 도와 드리겠습니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4,
+          "file_duration": 4.5,
+          "filename": "K-H1-B-064-0371.wav",
+          "ptr": "기존에 어떤 걸로 납부하셨는지 확인하고 변경 도와 드리겠습니다.",
+          "tr": "기존에 어떤 걸로 납부하셨는지 확인하고 변경 도와 드리겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0372",
+        "origin_text": "혹시 건전지가 바르게 끼워지지 않을 수도 있으니 안에 건전지 플러스, 마이너스 부분 먼저 확인 부탁 드립니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 7.55999755859375,
+          "file_duration": 8.05999755859375,
+          "filename": "K-H1-B-064-0372.wav",
+          "ptr": "혹시 건전지가 바르게 끼워지지 않을 수도 있으니  /  안에 건전지 플러스 마이너스 부분 먼저 확인 부탁 드립니다.",
+          "tr": "혹시 건전지가 바르게 끼워지지 않을 수도 있으니 안에 건전지 플러스, 마이너스 부분 먼저 확인 부탁 드립니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0373",
+        "origin_text": "사은품이나 혜택 등의 이벤트는 회사 지침에 따라 변동이 생길 수 있습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.79998779296875,
+          "file_duration": 5.29998779296875,
+          "filename": "K-H1-B-064-0373.wav",
+          "ptr": "사은품이나 혜택 등의 이벤트는  /  회사 지침에 따라 변동이 생길 수 있습니다.",
+          "tr": "사은품이나 혜택 등의 이벤트는 회사 지침에 따라 변동이 생길 수 있습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0374",
+        "origin_text": "고객센터로 내방해 주시면 자세하게 안내 드리겠습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.46002197265625,
+          "file_duration": 3.96002197265625,
+          "filename": "K-H1-B-064-0374.wav",
+          "ptr": "고객센터로 내방해 주시면 자세하게 안내 드리겠습니다.",
+          "tr": "고객센터로 내방해 주시면 자세하게 안내 드리겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0375",
+        "origin_text": "환불 처리 접수 도와 드릴까요, 대신 장비 반납을 해 주셔야 추후에 환불 접수가 완료됩니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.699951171875,
+          "file_duration": 7.199951171875,
+          "filename": "K-H1-B-064-0375.wav",
+          "ptr": "환불 처리 접수 도와 드릴까요  /  대신 장비 반납을 해 주셔야  /  추후에 환불 접수가 완료됩니다.",
+          "tr": "환불 처리 접수 도와 드릴까요, 대신 장비 반납을 해 주셔야 추후에 환불 접수가 완료됩니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0376",
+        "origin_text": "장비 반납을 먼저 해 주셔야 추후에 환불 접수가 완료되는 점, 참고 바랍니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.280029296875,
+          "file_duration": 5.780029296875,
+          "filename": "K-H1-B-064-0376.wav",
+          "ptr": "장비 반납을 먼저 해 주셔야  /  추후에 환불 접수가 완료되는 점  /  참고 바랍니다.",
+          "tr": "장비 반납을 먼저 해 주셔야 추후에 환불 접수가 완료되는 점, 참고 바랍니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0377",
+        "origin_text": "고객님, 보다 정확한 길 안내를 위해서 도로명 주소 알려 드리겠습니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.44000244140625,
+          "file_duration": 5.94000244140625,
+          "filename": "K-H1-B-064-0377.wav",
+          "ptr": "고객님  /  보다 정확한 길 안내를 위해서  /  도로명 주소 알려 드리겠습니다.",
+          "tr": "고객님, 보다 정확한 길 안내를 위해서 도로명 주소 알려 드리겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0378",
+        "origin_text": "AS는 택배 접수도 가능하고 방문 접수도 가능합니다, 어떤 게 더 편하신가요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.5,
+          "file_duration": 7,
+          "filename": "K-H1-B-064-0378.wav",
+          "ptr": "에이에쓰는 택배 접수도 가능하고  /  방문 접수도 가능합니다  /  어떤 게 더 편하신가요?",
+          "tr": "에이에쓰는 택배 접수도 가능하고 방문 접수도 가능합니다, 어떤 게 더 편하신가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0379",
+        "origin_text": "택배 발송 시 반드시 운송장 번호는 보관해 주시기 바랍니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.15997314453125,
+          "file_duration": 4.65997314453125,
+          "filename": "K-H1-B-064-0379.wav",
+          "ptr": "택배 발송 시 반드시 운송장 번호는 보관해 주시기 바랍니다.",
+          "tr": "택배 발송 시 반드시 운송장 번호는 보관해 주시기 바랍니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0380",
+        "origin_text": "택배로 AS 접수 시 수리 요청사항을 메모로 기재하셔도 좋습니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.8800048828125,
+          "file_duration": 5.3800048828125,
+          "filename": "K-H1-B-064-0380.wav",
+          "ptr": "택배로 에이에스 접수 시  /  수리 요청사항을 메모로 기재하셔도 좋습니다.",
+          "tr": "택배로 에이에스 접수 시 수리 요청사항을 메모로 기재하셔도 좋습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0381",
+        "origin_text": "고객님, 오늘 저희 서비스센터를 이용하신 부분에 대해 평가해 주실 수 있나요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.5799560546875,
+          "file_duration": 6.0799560546875,
+          "filename": "K-H1-B-064-0381.wav",
+          "ptr": "고객님  /  오늘 저희 서비스센터를 이용하신 부분에 대해  /  평가해 주실 수 있나요?",
+          "tr": "고객님, 오늘 저희 서비스센터를 이용하신 부분에 대해 평가해 주실 수 있나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0382",
+        "origin_text": "매우 안 좋으면 1점, 매우 좋으면 10점으로 평가해 주시면 됩니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.98004150390625,
+          "file_duration": 5.48004150390625,
+          "filename": "K-H1-B-064-0382.wav",
+          "ptr": "매우 안 좋으면 일 점  /  매우 좋으면 십 점으로 평가해 주시면 됩니다.",
+          "tr": "매우 안 좋으면 일 점, 매우 좋으면 십 점으로 평가해 주시면 됩니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0383",
+        "origin_text": "참가 신청은 홈페이지에서 신청서를 다운 받아 작성 후 이메일로 보내 주시면 됩니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.84002685546875,
+          "file_duration": 6.34002685546875,
+          "filename": "K-H1-B-064-0383.wav",
+          "ptr": "참가 신청은 홈페이지에서 신청서를 다운 받아 작성 후  /  이메일로 보내 주시면 됩니다.",
+          "tr": "참가 신청은 홈페이지에서 신청서를 다운 받아 작성 후 이메일로 보내 주시면 됩니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0384",
+        "origin_text": "네, 이번 한 달 동안 모집 중인데요, 참가하시길 원하시나요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.67999267578125,
+          "file_duration": 5.17999267578125,
+          "filename": "K-H1-B-064-0384.wav",
+          "ptr": "네  /  이번 한 달 동안 모집 중인데요  /  참가하시길 원하시나요?",
+          "tr": "네, 이번 한 달 동안 모집 중인데요, 참가하시길 원하시나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0385",
+        "origin_text": "참가를 원하는 분이 고객님 본인 맞으실까요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.05999755859375,
+          "file_duration": 3.55999755859375,
+          "filename": "K-H1-B-064-0385.wav",
+          "ptr": "참가를 원하는 분이 고객님 본인 맞으실까요?",
+          "tr": "참가를 원하는 분이 고객님 본인 맞으실까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0386",
+        "origin_text": "가맹점 개설이 궁금하신 거죠, 해당 부서로 연결해 드리겠습니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.760009765625,
+          "file_duration": 5.260009765625,
+          "filename": "K-H1-B-064-0386.wav",
+          "ptr": "가맹점 개설이 궁금하신 거죠  /  해당 부서로 연결해 드리겠습니다.",
+          "tr": "가맹점 개설이 궁금하신 거죠, 해당 부서로 연결해 드리겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0387",
+        "origin_text": "출장 메이크업 가격 때문에 전화 주신 것 맞으시죠?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.05999755859375,
+          "file_duration": 3.55999755859375,
+          "filename": "K-H1-B-064-0387.wav",
+          "ptr": "출장 메이크업 가격 때문에 전화 주신 것 맞으시죠?",
+          "tr": "출장 메이크업 가격 때문에 전화 주신 것 맞으시죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0388",
+        "origin_text": "저희 니아는 헤어, 메이크업 평균 비용은 건당 10만4000원입니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.4000244140625,
+          "file_duration": 5.9000244140625,
+          "filename": "K-H1-B-064-0388.wav",
+          "ptr": "저희 니아는 헤어  /  메이크업 평균 비용은  /  건당 십만 사천 원입니다.",
+          "tr": "저희 니아는 헤어, 메이크업 평균 비용은 건당 십만 사천 원입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0389",
+        "origin_text": "최저 금액은 8만 원이며, 최고 금액은 15만 원으로 책정되어 있습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.91998291015625,
+          "file_duration": 5.41998291015625,
+          "filename": "K-H1-B-064-0389.wav",
+          "ptr": "최저 금액은 팔만 원이며  /  최고 금액은 십 오만 원으로 책정되어 있습니다.",
+          "tr": "최저 금액은 팔만 원이며, 최고 금액은 십 오만 원으로 책정되어 있습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0390",
+        "origin_text": "원하시는 헤어, 메이크업 스타일이 있으세요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.6199951171875,
+          "file_duration": 3.1199951171875,
+          "filename": "K-H1-B-064-0390.wav",
+          "ptr": "원하시는 헤어 메이크업 스타일이 있으세요?",
+          "tr": "원하시는 헤어, 메이크업 스타일이 있으세요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0391",
+        "origin_text": "스타일에 따라 비용이 달라집니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.199951171875,
+          "file_duration": 2.699951171875,
+          "filename": "K-H1-B-064-0391.wav",
+          "ptr": "스타일에 따라 비용이 달라집니다.",
+          "tr": "스타일에 따라 비용이 달라집니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0392",
+        "origin_text": "웨딩, 증명사진 등 상황별 메이크업 스킬에 따라 가격이 다르게 책정됩니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.4200439453125,
+          "file_duration": 5.9200439453125,
+          "filename": "K-H1-B-064-0392.wav",
+          "ptr": "웨딩  /  증명사진 등 상황별 메이크업 스킬에 따라  /  가격이 다르게 책정됩니다.",
+          "tr": "웨딩, 증명사진 등 상황별 메이크업 스킬에 따라 가격이 다르게 책정됩니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0393",
+        "origin_text": "고객님, 더 궁금한 사항은 없으세요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.79998779296875,
+          "file_duration": 3.29998779296875,
+          "filename": "K-H1-B-064-0393.wav",
+          "ptr": "고객님  /  더 궁금한 사항은 없으세요?",
+          "tr": "고객님, 더 궁금한 사항은 없으세요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0394",
+        "origin_text": "네 그럼 좀 더 고민해 보시고 연락 주세요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.1199951171875,
+          "file_duration": 3.6199951171875,
+          "filename": "K-H1-B-064-0394.wav",
+          "ptr": "네  /  그럼 좀 더 고민해 보시고 연락 주세요.",
+          "tr": "네 그럼 좀 더 고민해 보시고 연락 주세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0395",
+        "origin_text": "원룸, 소형 이사의 경우 평균 비용은 평당 최저 12만 원, 최고 30만 원입니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.46002197265625,
+          "file_duration": 6.96002197265625,
+          "filename": "K-H1-B-064-0395.wav",
+          "ptr": "원룸  /  소형 이사의 경우  /  평균 비용은 평당 최저 십 이만 원  /  최고 삼십 만 원입니다.",
+          "tr": "원룸, 소형 이사의 경우 평균 비용은 평당 최저 십 이만 원, 최고 삼십 만 원입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0396",
+        "origin_text": "이삿짐 양에 따라 다마스, 콜밴, 1톤 트럭 등 사용되는 차량의 크기가 달라질 수 있습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.96002197265625,
+          "file_duration": 7.46002197265625,
+          "filename": "K-H1-B-064-0396.wav",
+          "ptr": "이삿짐 양에 따라 다마스  /  콜밴  /  일 톤 트럭 등 사용되는 차량의 크기가 달라질 수 있습니다.",
+          "tr": "이삿짐 양에 따라 다마스, 콜밴, 일톤 트럭 등 사용되는 차량의 크기가 달라질 수 있습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0397",
+        "origin_text": "이사 출발지나 도착지에 엘리베이터가 없는 고층일 경우, 견적이 추가될 수 있습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.82000732421875,
+          "file_duration": 6.32000732421875,
+          "filename": "K-H1-B-064-0397.wav",
+          "ptr": "이사 출발지나 도착지에 엘리베이터가 없는 고층일 경우  /  견적이 추가될 수 있습니다.",
+          "tr": "이사 출발지나 도착지에 엘리베이터가 없는 고층일 경우, 견적이 추가될 수 있습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0398",
+        "origin_text": "화물 택배는 일반 택배로 취급하기 어려운 경우에 많이 이용하십니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.3599853515625,
+          "file_duration": 4.8599853515625,
+          "filename": "K-H1-B-064-0398.wav",
+          "ptr": "화물 택배는 일반 택배로 취급하기 어려운 경우에 많이 이용하십니다.",
+          "tr": "화물 택배는 일반 택배로 취급하기 어려운 경우에 많이 이용하십니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0399",
+        "origin_text": "일반 지역은 2일 이내, 도서 및 산간 지역은 3일 이내 배송이 가능합니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.44000244140625,
+          "file_duration": 5.94000244140625,
+          "filename": "K-H1-B-064-0399.wav",
+          "ptr": "일반 지역은 이 일 이내  /  도서 및 산간 지역은 삼 일 이내 배송이 가능합니다.",
+          "tr": "일반 지역은 이 일 이내, 도서 및 산간 지역은 삼 일 이내 배송이 가능합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0400",
+        "origin_text": "일요일과 공휴일은 집화 및 배달이 지연되거나 없을 수 있습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.70001220703125,
+          "file_duration": 5.20001220703125,
+          "filename": "K-H1-B-064-0400.wav",
+          "ptr": "일요일과 공휴일은 집화 및 배달이 지연되거나  /  없을 수 있습니다.",
+          "tr": "일요일과 공휴일은 집화 및 배달이 지연되거나 없을 수 있습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "전화상담",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 360.19997732426305,
+      "filename": "/data2/gst-voice/splitted/K/064/K-H103-P08-B-064.wav",
+      "recorded_at": "2022-08-16 08:33:12",
+      "sample_rate": 44100
+    }
+  }
+]

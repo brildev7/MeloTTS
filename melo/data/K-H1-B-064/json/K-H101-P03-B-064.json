@@ -1,0 +1,2136 @@
+[
+  {
+    "id": "K-H101-P03-B-064",
+    "import": null,
+    "reciter": {
+      "age": 30,
+      "gender": "FEMALE",
+      "id": 64
+    },
+    "script": {
+      "chars_count": 1280,
+      "id": "K-H101",
+      "normalized": [
+        "고객님, 지난주에 구입하신 제품 잘 사용하고 계신지 궁금해서 전화 드렸습니다.",
+        "고객님, 니아모터스입니다, 차량 사용해 보시니 어떠신가요?",
+        "안녕하세요 고객님, 정수기 렌털 문의해 주셨다고 하셔서 연락 드렸습니다.",
+        "얼마 전에 정수기 설치하셨죠, 설치 서비스 잘 받으셨는지 확인차 전화 드렸습니다.",
+        "대출상담 신청하신 김행복 님 맞으십니까?",
+        "많이 기다리시지 않도록 빠르게 접수 도와 드리겠습니다.",
+        "고객님, 저희 매장에 신제품이 들어와서 연락 드렸습니다.",
+        "주문해주셔서 감사합니다, 맛있게 드시고 좋은 밤 보내세요!",
+        "아, 고객님, 제가 그 부분 도와 드려도 될까요?",
+        "네, 고객님 마음껏 시음하셔도 괜찮습니다!",
+        "고객님 의견이 저희에게도 많은 도움이 됩니다, 감사합니다.",
+        "궁금한 부분 있으면 언제든지 편하게 저한테 물어보셔도 괜찮습니다.",
+        "안녕하세요, 니아 미술학원입니다, 행복이 어머님 맞으시죠?",
+        "행복이가 만들기를 참 좋아하고 잘하네요.",
+        "저는 이번에 행복이 입시반 맡게 된 교사 김사랑이라고 합니다.",
+        "행복이 이번 테스트 성적이 많이 올랐어요.",
+        "행복이가 성적이 엄청 좋으네요, 그동안 성적 관리를 잘했나 봐요.",
+        "아, 그 학교는 지금 행복이 성적이면 충분히 지원해 볼 수 있을 거 같아요.",
+        "제가 더 감사하죠, 시간 내어 주셔서 감사합니다, 저도 잘 부탁 드리겠습니다.",
+        "어머님 안녕하세요, 행복이 집에 잘 들어갔나요?",
+        "고객님, 저희 병원 처음이신가요?",
+        "네, 예약 도와 드리겠습니다, 전에 내원한 적 있으신가요?",
+        "네, 제가 상담 도와 드리겠습니다, 어디가 불편하셔서 전화 주셨나요?",
+        "예약 완료되었습니다, 다음 주 수요일 오후 두시입니다, 잊지 말고 내원해 주세요.",
+        "예약 완료되었습니다, 문자로 일정 다시 보내 드렸으니 확인 부탁 드릴게요.",
+        "진료 시간에 맞춰 오시면 됩니다, 좋은 하루 보내세요.",
+        "내원 날짜는 언제로 잡아 드리는 게 편하세요?",
+        "과장님 외래 진료는 월, 금 오전입니다, 언제가 편하세요?",
+        "고민이 있으면 함께 나누겠습니다, 언제든지 연락 주세요.",
+        "정말 잘되셨네요, 민원이 해결 되어서 저도 너무나 기쁩니다.",
+        "안전하게 귀가하시기 바랍니다, 상담원 김행복이었습니다.",
+        "아, 마침 잘 되셨습니다, 저희 센터에서 고객님이 원하는 강좌를 진행하고 있습니다.",
+        "코로나로 그동안 강좌가 중단됐는데 이번에 새로 열렸어요.",
+        "이 강좌는 거리 두기 때문에 인원 제한이 있는데, 고객님을 마지막으로 마감됐어요.",
+        "안녕하세요, 천천히 보시고 필요하면 말씀해 주세요.",
+        "어서 오세요, 예약하신 좌석 준비했습니다.",
+        "고객님들이 창가 자리를 좋아하시는데 창가 좌석 어떠세요?",
+        "노을 지는 풍경을 볼 수 있는 자리로 안내해 드릴까요?",
+        "조용한 자리를 찾으신다고요, 룸이 따로 있는데 그쪽으로 안내해 드릴까요?",
+        "방문해 주셔서 감사합니다, 조심해서 가세요.",
+        "안녕히 가세요 고객님, 즐거운 하루 되세요.",
+        "고객님, 찾아오시는 데 불편함은 없으셨어요?",
+        "괜찮습니다, 그냥 두시면 저희가 치우겠습니다.",
+        "너무 달다고 느껴지시면, 제가 음료 다시 만들어 드릴게요, 잠시만요.",
+        "다 드신 컵은 계산대로 가져다 주시겠어요, 감사합니다.",
+        "어서 오세요, 예약은 하셨나요?",
+        "어서 오세요, 김행복 님이시죠, 잠시만 앉아서 기다려 주시겠습니까?",
+        "어르신 치료 받으시느라 힘드셨죠, 수고하셨습니다.",
+        "혹시 미술작품 좋아하시면 저희 병원 삼층 복도에 전시 중이니 한번 관람해 보세요.",
+        "안녕하세요, 찾으시는 약품 있으신가요, 말씀해 주시면 찾아 드릴게요!"
+      ],
+      "origin": [
+        "고객님, 지난주에 구입하신 제품 잘 사용하고 계신지 궁금해서 전화 드렸습니다.",
+        "고객님, 니아모터스입니다, 차량 사용해 보시니 어떠신가요?",
+        "안녕하세요 고객님, 정수기 렌털 문의해 주셨다고 하셔서 연락 드렸습니다.",
+        "얼마 전에 정수기 설치하셨죠, 설치 서비스 잘 받으셨는지 확인차 전화 드렸습니다. ",
+        "대출상담 신청하신 김행복 님 맞으십니까?",
+        "많이 기다리시지 않도록 빠르게 접수 도와 드리겠습니다.",
+        "고객님, 저희 매장에 신제품이 들어와서 연락 드렸습니다.",
+        "주문해주셔서 감사합니다, 맛있게 드시고 좋은 밤 보내세요!",
+        "아, 고객님, 제가 그 부분 도와 드려도 될까요?",
+        "네, 고객님 마음껏 시음하셔도 괜찮습니다!",
+        "고객님 의견이 저희에게도 많은 도움이 됩니다, 감사합니다.",
+        "궁금한 부분 있으면 언제든지 편하게 저한테 물어보셔도 괜찮습니다.",
+        "안녕하세요, 니아 미술학원입니다, 행복이 어머님 맞으시죠?",
+        "행복이가  '만들기'를 참 좋아하고 잘하네요. ",
+        "저는 이번에 행복이 입시반 맡게 된 교사 김사랑이라고 합니다.",
+        "행복이 이번 테스트 성적이 많이 올랐어요. ",
+        "행복이가 성적이 엄청 좋으네요, 그동안 성적 관리를 잘했나 봐요.",
+        "아, 그 학교는 지금 행복이 성적이면 충분히 지원해 볼 수 있을 거 같아요.",
+        "제가 더 감사하죠, 시간 내어 주셔서 감사합니다, 저도 잘 부탁 드리겠습니다.",
+        "어머님 안녕하세요, 행복이 집에 잘 들어갔나요?",
+        "고객님, 저희 병원 처음이신가요?",
+        "네, 예약 도와 드리겠습니다, 전에 내원한 적 있으신가요?",
+        "네, 제가 상담 도와 드리겠습니다, 어디가 불편하셔서 전화 주셨나요?",
+        "예약 완료되었습니다, 다음 주 수요일 오후 2시입니다, 잊지 말고 내원해 주세요.",
+        "예약 완료되었습니다, 문자로 일정 다시 보내 드렸으니 확인 부탁 드릴게요.",
+        "진료 시간에 맞춰 오시면 됩니다, 좋은 하루 보내세요.",
+        "내원 날짜는 언제로 잡아 드리는 게 편하세요?",
+        "과장님 외래 진료는 월, 금 오전입니다, 언제가 편하세요?",
+        "고민이 있으면 함께 나누겠습니다, 언제든지 연락 주세요.",
+        "정말 잘되셨네요, 민원이 해결 되어서 저도 너무나 기쁩니다.",
+        "안전하게 귀가하시기 바랍니다, 상담원 김행복이었습니다.",
+        "아, 마침 잘 되셨습니다, 저희 센터에서 고객님이 원하는 강좌를 진행하고 있습니다.",
+        "코로나로 그동안 강좌가 중단됐는데 이번에 새로 열렸어요. ",
+        "이 강좌는 거리 두기 때문에 인원 제한이 있는데, 고객님을 마지막으로 마감됐어요.",
+        "안녕하세요, 천천히 보시고 필요하면 말씀해 주세요.",
+        "어서 오세요, 예약하신 좌석 준비했습니다.",
+        "고객님들이 창가 자리를 좋아하시는데 창가 좌석 어떠세요?",
+        "노을 지는 풍경을 볼 수 있는 자리로 안내해 드릴까요?",
+        "조용한 자리를 찾으신다고요, 룸이 따로 있는데 그쪽으로 안내해 드릴까요?",
+        "방문해 주셔서 감사합니다, 조심해서 가세요. ",
+        "안녕히 가세요 고객님, 즐거운 하루 되세요.",
+        "고객님, 찾아오시는 데 불편함은 없으셨어요?",
+        "괜찮습니다, 그냥 두시면 저희가 치우겠습니다.",
+        "너무 달다고 느껴지시면, 제가 음료 다시 만들어 드릴게요, 잠시만요.",
+        "다 드신 컵은 계산대로 가져다 주시겠어요, 감사합니다.",
+        "어서 오세요, 예약은 하셨나요?",
+        "어서 오세요, 김행복 님이시죠, 잠시만 앉아서 기다려 주시겠습니까?",
+        "어르신 치료 받으시느라 힘드셨죠, 수고하셨습니다.",
+        "혹시 미술작품 좋아하시면 저희 병원 3층 복도에 전시 중이니 한번 관람해 보세요.",
+        "안녕하세요, 찾으시는 약품 있으신가요, 말씀해 주시면 찾아 드릴게요!"
+      ],
+      "part_no": 3,
+      "tokens_count": 379
+    },
+    "sentences": [
+      {
+        "id": "K-H1-B-064-0101",
+        "origin_text": "고객님, 지난주에 구입하신 제품 잘 사용하고 계신지 궁금해서 전화 드렸습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.29998779296875,
+          "file_duration": 5.73,
+          "filename": "K-H1-B-064-0101.wav",
+          "ptr": "고객님  /  지난주에 구입하신 제품 잘 사용하고 계신지 궁금해서 전화 드렸습니다.",
+          "tr": "고객님, 지난주에 구입하신 제품 잘 사용하고 계신지 궁금해서 전화 드렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0102",
+        "origin_text": "고객님, 니아모터스입니다, 차량 사용해 보시니 어떠신가요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.79998779296875,
+          "file_duration": 5.29998779296875,
+          "filename": "K-H1-B-064-0102.wav",
+          "ptr": "고객님  /  니아모터스입니다  /  차량 사용해 보시니 어떠신가요?",
+          "tr": "고객님, 니아모터스입니다, 차량 사용해 보시니 어떠신가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0103",
+        "origin_text": "안녕하세요 고객님, 정수기 렌털 문의해 주셨다고 하셔서 연락 드렸습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.739990234375,
+          "file_duration": 5.2000048828125,
+          "filename": "K-H1-B-064-0103.wav",
+          "ptr": "안녕하세요 고객님  /  정수기 렌털 문의해 주셨다고 하셔서 연락 드렸습니다.",
+          "tr": "안녕하세요 고객님, 정수기 렌털 문의해 주셨다고 하셔서 연락 드렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0104",
+        "origin_text": "얼마 전에 정수기 설치하셨죠, 설치 서비스 잘 받으셨는지 확인차 전화 드렸습니다. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.780029296875,
+          "file_duration": 6.16004150390625,
+          "filename": "K-H1-B-064-0104.wav",
+          "ptr": "얼마 전에 정수기 설치하셨죠  /  설치 서비스 잘 받으셨는지 확인차 전화 드렸습니다.",
+          "tr": "얼마 전에 정수기 설치하셨죠, 설치 서비스 잘 받으셨는지 확인차 전화 드렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0105",
+        "origin_text": "대출상담 신청하신 김행복 님 맞으십니까?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.82000732421875,
+          "file_duration": 3.2500439453124983,
+          "filename": "K-H1-B-064-0105.wav",
+          "ptr": "대출상담 신청하신 김행복 님 맞으십니까?",
+          "tr": "대출상담 신청하신 김행복 님 맞으십니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0106",
+        "origin_text": "많이 기다리시지 않도록 빠르게 접수 도와 드리겠습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.17999267578125,
+          "file_duration": 3.6199975585937523,
+          "filename": "K-H1-B-064-0106.wav",
+          "ptr": "많이 기다리시지 않도록 빠르게 접수 도와 드리겠습니다.",
+          "tr": "많이 기다리시지 않도록 빠르게 접수 도와 드리겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0107",
+        "origin_text": "고객님, 저희 매장에 신제품이 들어와서 연락 드렸습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.79998779296875,
+          "file_duration": 4.250021972656249,
+          "filename": "K-H1-B-064-0107.wav",
+          "ptr": "고객님  /  저희 매장에 신제품이 들어와서 연락 드렸습니다.",
+          "tr": "고객님, 저희 매장에 신제품이 들어와서 연락 드렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0108",
+        "origin_text": "주문해주셔서 감사합니다, 맛있게 드시고 좋은 밤 보내세요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.15997314453125,
+          "file_duration": 4.600009765625003,
+          "filename": "K-H1-B-064-0108.wav",
+          "ptr": "주문해주셔서 감사합니다  /  맛있게 드시고 좋은 밤 보내세요!",
+          "tr": "주문해주셔서 감사합니다, 맛있게 드시고 좋은 밤 보내세요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0109",
+        "origin_text": "아, 고객님, 제가 그 부분 도와 드려도 될까요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.3399658203125,
+          "file_duration": 3.7400146484375014,
+          "filename": "K-H1-B-064-0109.wav",
+          "ptr": "아 고객님  /  제가 그 부분 도와 드려도 될까요?",
+          "tr": "아, 고객님, 제가 그 부분 도와 드려도 될까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0110",
+        "origin_text": "네, 고객님 마음껏 시음하셔도 괜찮습니다!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.3599853515625,
+          "file_duration": 3.7999951171874997,
+          "filename": "K-H1-B-064-0110.wav",
+          "ptr": "네 고객님  /  마음껏 시음하셔도 괜찮습니다!",
+          "tr": "네, 고객님 마음껏 시음하셔도 괜찮습니다!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0111",
+        "origin_text": "고객님 의견이 저희에게도 많은 도움이 됩니다, 감사합니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.22003173828125,
+          "file_duration": 4.680043945312505,
+          "filename": "K-H1-B-064-0111.wav",
+          "ptr": "고객님 의견이 저희에게도 많은 도움이 됩니다  /  감사합니다.",
+          "tr": "고객님 의견이 저희에게도 많은 도움이 됩니다, 감사합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0112",
+        "origin_text": "궁금한 부분 있으면 언제든지 편하게 저한테 물어보셔도 괜찮습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.39996337890625,
+          "file_duration": 4.840014648437503,
+          "filename": "K-H1-B-064-0112.wav",
+          "ptr": "궁금한 부분 있으면 언제든지 편하게 저한테 물어보셔도 괜찮습니다.",
+          "tr": "궁금한 부분 있으면 언제든지 편하게 저한테 물어보셔도 괜찮습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0113",
+        "origin_text": "안녕하세요, 니아 미술학원입니다, 행복이 어머님 맞으시죠?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.739990234375,
+          "file_duration": 5.180026855468753,
+          "filename": "K-H1-B-064-0113.wav",
+          "ptr": "안녕하세요  /  니아 미술학원입니다  /  행복이 어머님 맞으시죠?",
+          "tr": "안녕하세요, 니아 미술학원입니다, 행복이 어머님 맞으시죠?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0114",
+        "origin_text": "행복이가  `만들기`를 참 좋아하고 잘하네요. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.89996337890625,
+          "file_duration": 3.3099951171874977,
+          "filename": "K-H1-B-064-0114.wav",
+          "ptr": "행복이가 만들기를 참 좋아하고 잘하네요.",
+          "tr": "행복이가 만들기를 참 좋아하고 잘하네요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0115",
+        "origin_text": "저는 이번에 행복이 입시반 맡게 된 교사 김사랑이라고 합니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.239990234375,
+          "file_duration": 4.680021972656249,
+          "filename": "K-H1-B-064-0115.wav",
+          "ptr": "저는 이번에 행복이 입시반 맡게 된  /  교사 김사랑이라고 합니다.",
+          "tr": "저는 이번에 행복이 입시반 맡게 된 교사 김사랑이라고 합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0116",
+        "origin_text": "행복이 이번 테스트 성적이 많이 올랐어요. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.77996826171875,
+          "file_duration": 3.27996826171875,
+          "filename": "K-H1-B-064-0116.wav",
+          "ptr": "행복이 이번 테스트 성적이 많이 올랐어요.",
+          "tr": "행복이 이번 테스트 성적이 많이 올랐어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0117",
+        "origin_text": "행복이가 성적이 엄청 좋으네요, 그동안 성적 관리를 잘했나 봐요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.60003662109375,
+          "file_duration": 5.0400390625,
+          "filename": "K-H1-B-064-0117.wav",
+          "ptr": "행복이가 성적이 엄청 좋으네요  /  그동안 성적 관리를 잘했나 봐요.",
+          "tr": "행복이가 성적이 엄청 좋으네요, 그동안 성적 관리를 잘했나 봐요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0118",
+        "origin_text": "아, 그 학교는 지금 행복이 성적이면 충분히 지원해 볼 수 있을 거 같아요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.300048828125,
+          "file_duration": 5.73004150390625,
+          "filename": "K-H1-B-064-0118.wav",
+          "ptr": "아  /  그 학교는 지금 행복이 성적이면  /  충분히 지원해 볼 수 있을 거 같아요.",
+          "tr": "아, 그 학교는 지금 행복이 성적이면 충분히 지원해 볼 수 있을 거 같아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0119",
+        "origin_text": "제가 더 감사하죠, 시간 내어 주셔서 감사합니다, 저도 잘 부탁 드리겠습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.67999267578125,
+          "file_duration": 6.110029296874998,
+          "filename": "K-H1-B-064-0119.wav",
+          "ptr": "제가 더 감사하죠  /  시간 내어 주셔서 감사합니다  /  저도 잘 부탁 드리겠습니다.",
+          "tr": "제가 더 감사하죠, 시간 내어 주셔서 감사합니다, 저도 잘 부탁 드리겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0120",
+        "origin_text": "어머님 안녕하세요, 행복이 집에 잘 들어갔나요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.36004638671875,
+          "file_duration": 3.86004638671875,
+          "filename": "K-H1-B-064-0120.wav",
+          "ptr": "어머님 안녕하세요  /  행복이 집에 잘 들어갔나요?",
+          "tr": "어머님 안녕하세요, 행복이 집에 잘 들어갔나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0121",
+        "origin_text": "고객님, 저희 병원 처음이신가요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.47998046875,
+          "file_duration": 2.97998046875,
+          "filename": "K-H1-B-064-0121.wav",
+          "ptr": "고객님  /  저희 병원 처음이신가요?",
+          "tr": "고객님, 저희 병원 처음이신가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0122",
+        "origin_text": "네, 예약 도와 드리겠습니다, 전에 내원한 적 있으신가요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.44000244140625,
+          "file_duration": 4.94000244140625,
+          "filename": "K-H1-B-064-0122.wav",
+          "ptr": "네  /  예약 도와 드리겠습니다  /  전에 내원한 적 있으신가요?",
+          "tr": "네, 예약 도와 드리겠습니다, 전에 내원한 적 있으신가요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0123",
+        "origin_text": "네, 제가 상담 도와 드리겠습니다, 어디가 불편하셔서 전화 주셨나요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.3800048828125,
+          "file_duration": 5.8800048828125,
+          "filename": "K-H1-B-064-0123.wav",
+          "ptr": "네  /  제가 상담 도와 드리겠습니다  /  어디가 불편하셔서 전화 주셨나요?",
+          "tr": "네, 제가 상담 도와 드리겠습니다, 어디가 불편하셔서 전화 주셨나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0124",
+        "origin_text": "예약 완료되었습니다, 다음 주 수요일 오후 2시입니다, 잊지 말고 내원해 주세요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.32000732421875,
+          "file_duration": 6.7700366210937375,
+          "filename": "K-H1-B-064-0124.wav",
+          "ptr": "예약 완료되었습니다  /  다음 주 수요일 오후 두 시입니다  /  잊지 말고 내원해 주세요.",
+          "tr": "예약 완료되었습니다, 다음 주 수요일 오후 두 시입니다, 잊지 말고 내원해 주세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0125",
+        "origin_text": "예약 완료되었습니다, 문자로 일정 다시 보내 드렸으니 확인 부탁 드릴게요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.1199951171875,
+          "file_duration": 5.570046386718758,
+          "filename": "K-H1-B-064-0125.wav",
+          "ptr": "예약 완료되었습니다  /  문자로 일정 다시 보내 드렸으니 확인 부탁 드릴게요.",
+          "tr": "예약 완료되었습니다, 문자로 일정 다시 보내 드렸으니 확인 부탁 드릴게요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0126",
+        "origin_text": "진료 시간에 맞춰 오시면 됩니다, 좋은 하루 보내세요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.58001708984375,
+          "file_duration": 3.980034179687493,
+          "filename": "K-H1-B-064-0126.wav",
+          "ptr": "진료 시간에 맞춰 오시면 됩니다  /  좋은 하루 보내세요.",
+          "tr": "진료 시간에 맞춰 오시면 됩니다, 좋은 하루 보내세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0127",
+        "origin_text": "내원 날짜는 언제로 잡아 드리는 게 편하세요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.6600341796875,
+          "file_duration": 3.100029296874993,
+          "filename": "K-H1-B-064-0127.wav",
+          "ptr": "내원 날짜는 언제로 잡아 드리는 게 편하세요?",
+          "tr": "내원 날짜는 언제로 잡아 드리는 게 편하세요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0128",
+        "origin_text": "과장님 외래 진료는 월, 금 오전입니다, 언제가 편하세요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.6400146484375,
+          "file_duration": 5.100046386718759,
+          "filename": "K-H1-B-064-0128.wav",
+          "ptr": "과장님 외래 진료는 월 금 오전입니다  /  언제가 편하세요?",
+          "tr": "과장님 외래 진료는 월, 금 오전입니다, 언제가 편하세요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0129",
+        "origin_text": "고민이 있으면 함께 나누겠습니다, 언제든지 연락 주세요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4,
+          "file_duration": 4.420017089843753,
+          "filename": "K-H1-B-064-0129.wav",
+          "ptr": "고민이 있으면 함께 나누겠습니다  /  언제든지 연락 주세요.",
+          "tr": "고민이 있으면 함께 나누겠습니다, 언제든지 연락 주세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0130",
+        "origin_text": "정말 잘되셨네요, 민원이 해결 되어서 저도 너무나 기쁩니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.4599609375,
+          "file_duration": 4.8900097656249955,
+          "filename": "K-H1-B-064-0130.wav",
+          "ptr": "정말 잘되셨네요  /  민원이 해결 되어서 저도 너무나 기쁩니다.",
+          "tr": "정말 잘되셨네요, 민원이 해결 되어서 저도 너무나 기쁩니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0131",
+        "origin_text": "안전하게 귀가하시기 바랍니다, 상담원 김행복이었습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.20001220703125,
+          "file_duration": 4.6500244140625,
+          "filename": "K-H1-B-064-0131.wav",
+          "ptr": "안전하게 귀가하시기 바랍니다  /  상담원 김행복이었습니다.",
+          "tr": "안전하게 귀가하시기 바랍니다, 상담원 김행복이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0132",
+        "origin_text": "아, 마침 잘 되셨습니다, 저희 센터에서 고객님이 원하는 강좌를 진행하고 있습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 6.239990234375,
+          "file_duration": 6.670031738281239,
+          "filename": "K-H1-B-064-0132.wav",
+          "ptr": "아  /  마침 잘 되셨습니다  /  저희 센터에서 고객님이 원하는 강좌를 진행하고 있습니다.",
+          "tr": "아, 마침 잘 되셨습니다, 저희 센터에서 고객님이 원하는 강좌를 진행하고 있습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0133",
+        "origin_text": "코로나로 그동안 강좌가 중단됐는데 이번에 새로 열렸어요. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4,
+          "file_duration": 4.43001220703124,
+          "filename": "K-H1-B-064-0133.wav",
+          "ptr": "코로나로 그동안 강좌가 중단됐는데  /  이번에 새로 열렸어요.",
+          "tr": "코로나로 그동안 강좌가 중단됐는데 이번에 새로 열렸어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0134",
+        "origin_text": "이 강좌는 거리 두기 때문에 인원 제한이 있는데, 고객님을 마지막으로 마감됐어요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.41998291015625,
+          "file_duration": 5.8200122070312545,
+          "filename": "K-H1-B-064-0134.wav",
+          "ptr": "이 강좌는 거리 두기 때문에 인원 제한이 있는데  /  고객님을 마지막으로 마감됐어요.",
+          "tr": "이 강좌는 거리 두기 때문에 인원 제한이 있는데, 고객님을 마지막으로 마감됐어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0135",
+        "origin_text": "안녕하세요, 천천히 보시고 필요하면 말씀해 주세요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.60003662109375,
+          "file_duration": 4.040051269531261,
+          "filename": "K-H1-B-064-0135.wav",
+          "ptr": "안녕하세요  /  천천히 보시고 필요하면 말씀해 주세요.",
+          "tr": "안녕하세요, 천천히 보시고 필요하면 말씀해 주세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0136",
+        "origin_text": "어서 오세요, 예약하신 좌석 준비했습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.05999755859375,
+          "file_duration": 3.5000195312499898,
+          "filename": "K-H1-B-064-0136.wav",
+          "ptr": "어서 오세요  /  예약하신 좌석 준비했습니다.",
+          "tr": "어서 오세요, 예약하신 좌석 준비했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0137",
+        "origin_text": "고객님들이 창가 자리를 좋아하시는데 창가 좌석 어떠세요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.79998779296875,
+          "file_duration": 4.20001220703125,
+          "filename": "K-H1-B-064-0137.wav",
+          "ptr": "고객님들이 창가 자리를 좋아하시는데  /  창가 좌석 어떠세요?",
+          "tr": "고객님들이 창가 자리를 좋아하시는데 창가 좌석 어떠세요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0138",
+        "origin_text": "노을 지는 풍경을 볼 수 있는 자리로 안내해 드릴까요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.9599609375,
+          "file_duration": 3.379997558593743,
+          "filename": "K-H1-B-064-0138.wav",
+          "ptr": "노을 지는 풍경을 볼 수 있는 자리로 안내해 드릴까요?",
+          "tr": "노을 지는 풍경을 볼 수 있는 자리로 안내해 드릴까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0139",
+        "origin_text": "조용한 자리를 찾으신다고요, 룸이 따로 있는데 그쪽으로 안내해 드릴까요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.199951171875,
+          "file_duration": 5.63999511718751,
+          "filename": "K-H1-B-064-0139.wav",
+          "ptr": "조용한 자리를 찾으신다고요  /  룸이 따로 있는데  /  그쪽으로 안내해 드릴까요?",
+          "tr": "조용한 자리를 찾으신다고요, 룸이 따로 있는데 그쪽으로 안내해 드릴까요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0140",
+        "origin_text": "방문해 주셔서 감사합니다, 조심해서 가세요. ",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.280029296875,
+          "file_duration": 3.72003173828125,
+          "filename": "K-H1-B-064-0140.wav",
+          "ptr": "방문해 주셔서 감사합니다  /  조심해서 가세요.",
+          "tr": "방문해 주셔서 감사합니다, 조심해서 가세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0141",
+        "origin_text": "안녕히 가세요 고객님, 즐거운 하루 되세요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.1199951171875,
+          "file_duration": 3.5600439453124864,
+          "filename": "K-H1-B-064-0141.wav",
+          "ptr": "안녕히 가세요 고객님  /  즐거운 하루 되세요.",
+          "tr": "안녕히 가세요 고객님, 즐거운 하루 되세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0142",
+        "origin_text": "고객님, 찾아오시는 데 불편함은 없으셨어요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.280029296875,
+          "file_duration": 3.7400268554687273,
+          "filename": "K-H1-B-064-0142.wav",
+          "ptr": "고객님  /  찾아오시는 데 불편함은 없으셨어요?",
+          "tr": "고객님, 찾아오시는 데 불편함은 없으셨어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0143",
+        "origin_text": "괜찮습니다, 그냥 두시면 저희가 치우겠습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.41998291015625,
+          "file_duration": 3.839992675781275,
+          "filename": "K-H1-B-064-0143.wav",
+          "ptr": "괜찮습니다  /  그냥 두시면 저희가 치우겠습니다.",
+          "tr": "괜찮습니다, 그냥 두시면 저희가 치우겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0144",
+        "origin_text": "너무 달다고 느껴지시면, 제가 음료 다시 만들어 드릴게요, 잠시만요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.17999267578125,
+          "file_duration": 5.600019531249984,
+          "filename": "K-H1-B-064-0144.wav",
+          "ptr": "너무 달다고 느껴지시면  /  제가 음료 다시 만들어 드릴게요  /  잠시만요.",
+          "tr": "너무 달다고 느껴지시면, 제가 음료 다시 만들어 드릴게요, 잠시만요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0145",
+        "origin_text": "다 드신 컵은 계산대로 가져다 주시겠어요, 감사합니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 4.03997802734375,
+          "file_duration": 4.479997558593766,
+          "filename": "K-H1-B-064-0145.wav",
+          "ptr": "다 드신 컵은 계산대로 가져다 주시겠어요  /  감사합니다.",
+          "tr": "다 드신 컵은 계산대로 가져다 주시겠어요, 감사합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0146",
+        "origin_text": "어서 오세요, 예약은 하셨나요?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 2.41998291015625,
+          "file_duration": 2.880024414062518,
+          "filename": "K-H1-B-064-0146.wav",
+          "ptr": "어서 오세요  /  예약은 하셨나요?",
+          "tr": "어서 오세요, 예약은 하셨나요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0147",
+        "origin_text": "어서 오세요, 김행복 님이시죠, 잠시만 앉아서 기다려 주시겠습니까?",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.10003662109375,
+          "file_duration": 5.5100317382812705,
+          "filename": "K-H1-B-064-0147.wav",
+          "ptr": "어서 오세요  /  김행복 님이시죠  /  잠시만 앉아서 기다려 주시겠습니까?",
+          "tr": "어서 오세요, 김행복 님이시죠, 잠시만 앉아서 기다려 주시겠습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0148",
+        "origin_text": "어르신 치료 받으시느라 힘드셨죠, 수고하셨습니다.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 3.719970703125,
+          "file_duration": 4.1600122070312295,
+          "filename": "K-H1-B-064-0148.wav",
+          "ptr": "어르신 치료 받으시느라 힘드셨죠  /  수고하셨습니다.",
+          "tr": "어르신 치료 받으시느라 힘드셨죠, 수고하셨습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0149",
+        "origin_text": "혹시 미술작품 좋아하시면 저희 병원 3층 복도에 전시 중이니 한번 관람해 보세요.",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.84002685546875,
+          "file_duration": 6.220041503906259,
+          "filename": "K-H1-B-064-0149.wav",
+          "ptr": "혹시 미술작품 좋아하시면  /  저희 병원 삼 층 복도에 전시 중이니 한번 관람해 보세요.",
+          "tr": "혹시 미술작품 좋아하시면 저희 병원 삼 층 복도에 전시 중이니 한번 관람해 보세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "K-H1-B-064-0150",
+        "origin_text": "안녕하세요, 찾으시는 약품 있으신가요, 말씀해 주시면 찾아 드릴게요!",
+        "style": {
+          "emotion": "기쁨",
+          "intensity": 1,
+          "style": "친절체",
+          "sub_style": "공감리액션"
+        },
+        "voice_piece": {
+          "duration": 5.1300048828125,
+          "file_duration": 5.560000000000002,
+          "filename": "K-H1-B-064-0150.wav",
+          "ptr": "안녕하세요  /  찾으시는 약품 있으신가요  /  말씀해 주시면 찾아 드릴게요!",
+          "tr": "안녕하세요, 찾으시는 약품 있으신가요, 말씀해 주시면 찾아 드릴게요!"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "전화상담",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 324.38002267573694,
+      "filename": "/data2/gst-voice/splitted/K/064/K-H101-P03-B-064.wav",
+      "recorded_at": "2022-08-16 08:32:51",
+      "sample_rate": 44100
+    }
+  }
+]

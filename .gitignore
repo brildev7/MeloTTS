@@ -13,6 +13,8 @@ output/
 *.pth
 *.pt
 **/data/example/**
+log/
 **/log/**
 **/logs/**
+*.log
 nohup.out

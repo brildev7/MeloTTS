@@ -54,9 +54,9 @@ voices:
         model_desc: m_tts_ko_pretrained_model
         language: kr
         gender: FEMAIL
-        type: ANNOUNCER
+        type: CHIN-JEUL-CHE
         dataset: ai-hub
-        dataset_detail: 138.뉴스 대본 및 앵커 음성 데이터
+        dataset_detail: 133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_친절체_064
         train_info:
             train_steps:             
 

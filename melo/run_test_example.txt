@@ -1,1 +1,1 @@
-./run_test.sh "KR" "logs/kss/history/20240731/output/G_18000.pth" "logs/kss/history/20240731/generated"
+./run_test.sh "KR" "logs/K-H1-B-064/G_5000.pth" "logs/K-H1-B-064/history/20240808/generated"

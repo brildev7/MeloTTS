@@ -47,6 +47,18 @@ voices:
         dataset_detail: 133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_구연체_005
         train_info:
             train_steps: 111
+  - voice:
+        id: 85fd367b-190e-4f60-b30f-cd3a194c9d5e
+        name: K-H1-B-064
+        model_id: 6c8d49f3-50b4-4025-bf5b-16e813a2686d
+        model_desc: m_tts_ko_pretrained_model
+        language: kr
+        gender: FEMAIL
+        type: ANNOUNCER
+        dataset: ai-hub
+        dataset_detail: 138.뉴스 대본 및 앵커 음성 데이터
+        train_info:
+            train_steps:             
 
 
 

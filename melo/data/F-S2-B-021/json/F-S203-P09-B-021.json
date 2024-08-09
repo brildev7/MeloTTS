@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "F-S203-P09-B-021",
+    "import": {
+      "author": "홍종의",
+      "book_title": "홍종의 동화선집",
+      "country": "한국",
+      "id": "F0148",
+      "publish_year": 2013,
+      "times_bg": "현대",
+      "title": "도마뱀 마도",
+      "translator": ""
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 1171,
+      "id": "F-S203",
+      "normalized": [
+        "마도는 울음을 터뜨렸어요.",
+        "마도는 울음보를 엉엉하고 터뜨렸어요.",
+        "선생님이 드르륵 창문을 열며 한숨을 쉬셨어요.",
+        "빚쟁이에 쫓기고 훈이 엄마와 싸움을 하기에 바빠 아저씨는 훈이를 살피지 못했습니다.",
+        "할머니와 이야기를 하려 했지만 번번이 실패를 했습니다.",
+        "갈빛은 목을 쏙 움츠렸습니다.",
+        "외할머니가 며칠 병원에 입원해 있는 동안 엄마 아빠는 잠을 안 잤어요.",
+        "그런데 외할머니는 가슴이 아파서 숨쉬기가 불편하다고 했어요.",
+        "용이의 눈에 고여 있던 눈물이 뚝뚝 떨어졌습니다.",
+        "많은 소나무 가지 중에 새가 앉았던 가지만 죽었습니다.",
+        "용이는 점점 걱정이 커져 다시 울먹였습니다.",
+        "병구는 머리를 흔들었습니다.",
+        "그러나 검은 파도에 둥둥 떠다니던 죽은 갈매기들의 모습이 쉽게 떨어지지 않았습니다.",
+        "환웅천왕님, 저도 사람이 되고 싶습니다.",
+        "곰과 호랑이는 사람이 되게 해 달라고 빌었습니다.",
+        "고기도 먹고 싶고 햇빛도 보고 싶었습니다.",
+        "곰은 호랑이가 없어서 더 견디기 힘들었습니다.",
+        "웅녀가 신단수 아래로 가서 환웅천왕에게 빌었습니다.",
+        "유화는 금와 왕에게 울고 있는 이유를 이야기했습니다.",
+        "지금 목숨을 구하려고 도망가는 중입니다.",
+        "큰 강이 앞을 가로막고 있었습니다.",
+        "주몽 일행은 배가 없어서 강을 건널 수 없었습니다.",
+        "어머니, 저는 어디로 가야 합니까?",
+        "그러다가 해가 지면 아무 데서나 잠을 잤습니다.",
+        "흥부가 작은 목소리로 나라의 곡식을 빌리려고 왔습니다 하고 말했습니다.",
+        "형님이 돈과 쌀을 주셨는데 오다가 도둑을 만났어요.",
+        "구렁이는 갑자기 달려들어 새끼 제비를 잡아먹었습니다.",
+        "콩쥐는 걱정도 되고 슬프기도 해서 눈물이 났습니다.",
+        "배씨와 팥쥐는 열매를 모두 먹었고 콩쥐에게는 열매를 하나도 주지 않았습니다.",
+        "아침부터 점심까지 부은 물이 한 방울도 없었습니다.",
+        "콩쥐는 기가 막혀서 눈물이 났습니다.",
+        "콩쥐는 어깨도 아프고, 다리도 아프고, 배도 고팠습니다.",
+        "콩쥐는 두 사람이 나가자 베틀에 앉아서 울기 시작했습니다.",
+        "하지만 배씨와 팥쥐와 함께 산 이후에는 외갓집에 가지 못했습니다.",
+        "콩쥐는 신발을 본 순간 자기의 것이라고 말하려고 했는데 배씨가 콩쥐를 막으며 팥쥐에게 나가라고 했습니다.",
+        "곽씨 부인은 아들이 없어서 늘 마음이 무거웠습니다.",
+        "그렇게 걱정이 되면, 우리가 하늘에 정성껏 빌어 봅시다.",
+        "내가 가서 약을 지어 올 테니까 걱정하지 말아요.",
+        "눈도 안 보이는데 어떻게 아이를 안고 여기까지 오셨어요?",
+        "저는 어려서 어머니를 잃고 눈먼 아버지를 봉양해야 합니다.",
+        "그런데 심 봉사가 발을 삐끗해 개천에 빠졌습니다.",
+        "심 봉사는 속이 상해서 울기 시작했습니다.",
+        "아버지가 울기만 하고 말을 하지 않아서 심청도 속이 상했습니다.",
+        "제 아버지의 눈을 뜨게 해 주십시오.",
+        "그러나 시간이 갈수록 공양미 삼백 석을 마련할 일이 걱정되었습니다.",
+        "심청은 내가 죽으면 아버지 옷은 누가 만들어 드리지 하며 떠나기 전에 아버지 옷을 만들어 드려야겠다고 생각했습니다.",
+        "아버지께서 식사하시는 것을 보고 떠나게 해 주세요.",
+        "심 봉사가 불쌍하니 우리가 평생 굶지 않도록 도와줍시다.",
+        "배 좌수에게는 착한 아내 장씨가 있었는데 두 사람은 오랫동안 자식이 없었습니다.",
+        "장화가 한 짓이 알려지면, 창피해서 어떻게 살아요?"
+      ],
+      "origin": [
+        "마도는 울음을 터뜨렸어요.",
+        "마도는 울음보를 엉엉하고 터뜨렸어요.",
+        "선생님이 드르륵 창문을 열며 한숨을 쉬셨어요.",
+        "빚쟁이에 쫓기고 훈이 엄마와 싸움을 하기에 바빠 아저씨는 훈이를 살피지 못했습니다.",
+        "할머니와 이야기를 하려 했지만 번번이 실패를 했습니다.",
+        "갈빛은 목을 쏙 움츠렸습니다.",
+        "외할머니가 며칠 병원에 입원해 있는 동안 엄마 아빠는 잠을 안 잤어요.",
+        "그런데 외할머니는 가슴이 아파서 숨쉬기가 불편하다고 했어요.",
+        "용이의 눈에 고여 있던 눈물이 뚝뚝 떨어졌습니다.",
+        "많은 소나무 가지 중에 새가 앉았던 가지만 죽었습니다.",
+        "용이는 점점 걱정이 커져 다시 울먹였습니다.",
+        "병구는 머리를 흔들었습니다.",
+        "그러나 검은 파도에 둥둥 떠다니던 죽은 갈매기들의 모습이 쉽게 떨어지지 않았습니다.",
+        "환웅천왕님, 저도 사람이 되고 싶습니다.",
+        "곰과 호랑이는 사람이 되게 해 달라고 빌었습니다.",
+        "고기도 먹고 싶고 햇빛도 보고 싶었습니다.",
+        "곰은 호랑이가 없어서 더 견디기 힘들었습니다.",
+        "웅녀가 신단수 아래로 가서 환웅천왕에게 빌었습니다.",
+        "유화는 금와 왕에게 울고 있는 이유를 이야기했습니다.",
+        "지금 목숨을 구하려고 도망가는 중입니다.",
+        "큰 강이 앞을 가로막고 있었습니다.",
+        "주몽 일행은 배가 없어서 강을 건널 수 없었습니다.",
+        "어머니, 저는 어디로 가야 합니까?",
+        "그러다가 해가 지면 아무 데서나 잠을 잤습니다.",
+        "흥부가 작은 목소리로 “나라의 곡식을 빌리려고 왔습니다” 하고 말했습니다.",
+        "형님이 돈과 쌀을 주셨는데 오다가 도둑을 만났어요.",
+        "구렁이는 갑자기 달려들어 새끼 제비를 잡아먹었습니다.",
+        "콩쥐는 걱정도 되고 슬프기도 해서 눈물이 났습니다.",
+        "배씨와 팥쥐는 열매를 모두 먹었고 콩쥐에게는 열매를 하나도 주지 않았습니다.",
+        "아침부터 점심까지 부은 물이 한 방울도 없었습니다.",
+        "콩쥐는 기가 막혀서 눈물이 났습니다.",
+        "콩쥐는 어깨도 아프고, 다리도 아프고, 배도 고팠습니다.",
+        "콩쥐는 두 사람이 나가자 베틀에 앉아서 울기 시작했습니다. ",
+        "하지만 배씨와 팥쥐와 함께 산 이후에는 외갓집에 가지 못했습니다. ",
+        "콩쥐는 신발을 본 순간 자기의 것이라고 말하려고 했는데 배씨가 콩쥐를 막으며 팥쥐에게 나가라고 했습니다.",
+        "곽씨 부인은 아들이 없어서 늘 마음이 무거웠습니다.",
+        "그렇게 걱정이 되면, 우리가 하늘에 정성껏 빌어 봅시다.",
+        "내가 가서 약을 지어 올 테니까 걱정하지 말아요.",
+        "눈도 안 보이는데 어떻게 아이를 안고 여기까지 오셨어요?",
+        "저는 어려서 어머니를 잃고 눈먼 아버지를 봉양해야 합니다.",
+        "그런데 심 봉사가 발을 삐끗해 개천에 빠졌습니다.",
+        "심 봉사는 속이 상해서 울기 시작했습니다.",
+        "아버지가 울기만 하고 말을 하지 않아서 심청도 속이 상했습니다.",
+        "제 아버지의 눈을 뜨게 해 주십시오.",
+        "그러나 시간이 갈수록 공양미 삼백 석을 마련할 일이 걱정되었습니다.",
+        "심청은 ‘내가 죽으면 아버지 옷은 누가 만들어 드리지' 하며 떠나기 전에 아버지 옷을 만들어 드려야겠다고 생각했습니다.",
+        "아버지께서 식사하시는 것을 보고 떠나게 해 주세요.",
+        "심 봉사가 불쌍하니 우리가 평생 굶지 않도록 도와줍시다.",
+        "배 좌수에게는 착한 아내 장씨가 있었는데 두 사람은 오랫동안 자식이 없었습니다.",
+        "장화가 한 짓이 알려지면, 창피해서 어떻게 살아요?"
+      ],
+      "part_no": 9,
+      "tokens_count": 369
+    },
+    "sentences": [
+      {
+        "id": "F-S2-B-021-0401",
+        "origin_text": "마도는 울음을 터뜨렸어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.4599609375,
+          "file_duration": 2.9599609375,
+          "filename": "F-S2-B-021-0401.wav",
+          "ptr": "마도는  /  울음을 터뜨렸어요.",
+          "tr": "마도는 울음을 터뜨렸어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0402",
+        "origin_text": "마도는 울음보를 엉엉하고 터뜨렸어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.0400390625,
+          "file_duration": 4.5400390625,
+          "filename": "F-S2-B-021-0402.wav",
+          "ptr": "마도는  /  울음보를  /  엉엉하고 터뜨렸어요.",
+          "tr": "마도는 울음보를 엉엉하고 터뜨렸어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0403",
+        "origin_text": "선생님이 드르륵 창문을 열며 한숨을 쉬셨어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.0599365234375,
+          "file_duration": 4.5599365234375,
+          "filename": "F-S2-B-021-0403.wav",
+          "ptr": "선생님이 드르륵 창문을 열며  /  한숨을 쉬셨어요.",
+          "tr": "선생님이 드르륵 창문을 열며 한숨을 쉬셨어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0404",
+        "origin_text": "빚쟁이에 쫓기고 훈이 엄마와 싸움을 하기에 바빠 아저씨는 훈이를 살피지 못했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.8599853515625,
+          "file_duration": 8.3599853515625,
+          "filename": "F-S2-B-021-0404.wav",
+          "ptr": "빚쟁이에 쫓기고  /  훈이 엄마와 싸움을 하기에 바빠  /  아저씨는  /  훈이를 살피지 못했습니다.",
+          "tr": "빚쟁이에 쫓기고 훈이 엄마와 싸움을 하기에 바빠 아저씨는 훈이를 살피지 못했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0405",
+        "origin_text": "할머니와 이야기를 하려 했지만 번번이 실패를 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5,
+          "file_duration": 5.5,
+          "filename": "F-S2-B-021-0405.wav",
+          "ptr": "할머니와 이야기를 하려 했지만  /  번번이  /  실패를 했습니다.",
+          "tr": "할머니와 이야기를 하려 했지만 번번이 실패를 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0406",
+        "origin_text": "갈빛은 목을 쏙 움츠렸습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.320068359375,
+          "file_duration": 3.860078125000001,
+          "filename": "F-S2-B-021-0406.wav",
+          "ptr": "갈빛은  /  목을 쏙 움츠렸습니다.",
+          "tr": "갈빛은 목을 쏙 움츠렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0407",
+        "origin_text": "외할머니가 며칠 병원에 입원해 있는 동안 엄마 아빠는 잠을 안 잤어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.8800048828125,
+          "file_duration": 6.420073242187499,
+          "filename": "F-S2-B-021-0407.wav",
+          "ptr": "외할머니가 며칠 병원에 입원해 있는 동안  /  엄마 아빠는  /  잠을 안 잤어요.",
+          "tr": "외할머니가 며칠 병원에 입원해 있는 동안 엄마 아빠는 잠을 안 잤어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0408",
+        "origin_text": "그런데 외할머니는 가슴이 아파서 숨쉬기가 불편하다고 했어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.679931640625,
+          "file_duration": 7.2100146484375,
+          "filename": "F-S2-B-021-0408.wav",
+          "ptr": "그런데  /  외할머니는  /  가슴이 아파서  /  숨쉬기가 불편하다고 했어요.",
+          "tr": "그런데 외할머니는 가슴이 아파서 숨쉬기가 불편하다고 했어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0409",
+        "origin_text": "용이의 눈에 고여 있던 눈물이 뚝뚝 떨어졌습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.97998046875,
+          "file_duration": 4.549999999999997,
+          "filename": "F-S2-B-021-0409.wav",
+          "ptr": "용이의 눈에 고여 있던 눈물이  /  뚝  / 뚝  /  떨어졌습니다.",
+          "tr": "용이의 눈에 고여 있던 눈물이 뚝뚝 떨어졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0410",
+        "origin_text": "많은 소나무 가지 중에 새가 앉았던 가지만 죽었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.679931640625,
+          "file_duration": 5.280000000000001,
+          "filename": "F-S2-B-021-0410.wav",
+          "ptr": "많은 소나무 가지 중에  /  새가 앉았던 가지만  /  죽었습니다.",
+          "tr": "많은 소나무 가지 중에 새가 앉았던 가지만 죽었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0411",
+        "origin_text": "용이는 점점 걱정이 커져 다시 울먹였습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.3599853515625,
+          "file_duration": 5.909999999999997,
+          "filename": "F-S2-B-021-0411.wav",
+          "ptr": "용이는  /  점점 걱정이 커져  /  다시  /  울먹였습니다.",
+          "tr": "용이는 점점 걱정이 커져 다시 울먹였습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0412",
+        "origin_text": "병구는 머리를 흔들었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.5599365234375,
+          "file_duration": 3.0599365234375,
+          "filename": "F-S2-B-021-0412.wav",
+          "ptr": "병구는  /  머리를 흔들었습니다.",
+          "tr": "병구는 머리를 흔들었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0413",
+        "origin_text": "그러나 검은 파도에 둥둥 떠다니던 죽은 갈매기들의 모습이 쉽게 떨어지지 않았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.0400390625,
+          "file_duration": 9.5400390625,
+          "filename": "F-S2-B-021-0413.wav",
+          "ptr": "그러나  /  검은 파도에 둥둥 떠다니던  /  죽은 갈매기들의 모습이  /  쉽게  /  떨어지지 않았습니다.",
+          "tr": "그러나 검은 파도에 둥둥 떠다니던 죽은 갈매기들의 모습이 쉽게 떨어지지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0414",
+        "origin_text": "환웅천왕님, 저도 사람이 되고 싶습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.6400146484375,
+          "file_duration": 5.1400146484375,
+          "filename": "F-S2-B-021-0414.wav",
+          "ptr": "환웅천왕님  /  저도  /  사람이 되고 싶습니다.",
+          "tr": "환웅천왕님, 저도 사람이 되고 싶습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0415",
+        "origin_text": "곰과 호랑이는 사람이 되게 해 달라고 빌었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.199951171875,
+          "file_duration": 4.699951171875,
+          "filename": "F-S2-B-021-0415.wav",
+          "ptr": "곰과 호랑이는  /  사람이 되게 해 달라고  /  빌었습니다.",
+          "tr": "곰과 호랑이는 사람이 되게 해 달라고 빌었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0416",
+        "origin_text": "고기도 먹고 싶고 햇빛도 보고 싶었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.52001953125,
+          "file_duration": 4.02001953125,
+          "filename": "F-S2-B-021-0416.wav",
+          "ptr": "고기도 먹고 싶고  /  햇빛도 보고 싶었습니다.",
+          "tr": "고기도 먹고 싶고 햇빛도 보고 싶었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0417",
+        "origin_text": "곰은 호랑이가 없어서 더 견디기 힘들었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.820068359375,
+          "file_duration": 5.360083007812506,
+          "filename": "F-S2-B-021-0417.wav",
+          "ptr": "곰은  /  호랑이가 없어서  /  더 견디기 힘들었습니다.",
+          "tr": "곰은 호랑이가 없어서 더 견디기 힘들었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0418",
+        "origin_text": "웅녀가 신단수 아래로 가서 환웅천왕에게 빌었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.9599609375,
+          "file_duration": 6.4599609375,
+          "filename": "F-S2-B-021-0418.wav",
+          "ptr": "웅녀가  /  신단수 아래로 가서  /  환웅천왕에게  /  빌었습니다.",
+          "tr": "웅녀가 신단수 아래로 가서 환웅천왕에게 빌었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0419",
+        "origin_text": "유화는 금와왕에게 울고 있는 이유를 이야기했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.179931640625,
+          "file_duration": 5.710024414062502,
+          "filename": "F-S2-B-021-0419.wav",
+          "ptr": "유화는  /  금와왕에게 울고 있는 이유를  /  이야기했습니다.",
+          "tr": "유화는 금와왕에게 울고 있는 이유를 이야기했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0420",
+        "origin_text": "지금 목숨을 구하려고 도망가는 중입니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.239990234375,
+          "file_duration": 4.779990234374992,
+          "filename": "F-S2-B-021-0420.wav",
+          "ptr": "지금  /  목숨을 구하려고  /  도망가는 중입니다.",
+          "tr": "지금 목숨을 구하려고 도망가는 중입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0421",
+        "origin_text": "큰 강이 앞을 가로막고 있었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.02001953125,
+          "file_duration": 3.5800927734375136,
+          "filename": "F-S2-B-021-0421.wav",
+          "ptr": "큰 강이  /  앞을 가로막고 있었습니다.",
+          "tr": "큰 강이 앞을 가로막고 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0422",
+        "origin_text": "주몽 일행은 배가 없어서 강을 건널 수 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.7598876953125,
+          "file_duration": 5.2598876953125,
+          "filename": "F-S2-B-021-0422.wav",
+          "ptr": "주몽 일행은  /  배가 없어서  /  강을 건널 수 없었습니다.",
+          "tr": "주몽 일행은 배가 없어서 강을 건널 수 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0423",
+        "origin_text": "어머니, 저는 어디로 가야 합니까?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.0599365234375,
+          "file_duration": 3.5599365234375,
+          "filename": "F-S2-B-021-0423.wav",
+          "ptr": "어머니  /  저는 어디로 가야 합니까?",
+          "tr": "어머니, 저는 어디로 가야 합니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0424",
+        "origin_text": "그러다가 해가 지면 아무 데서나 잠을 잤습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.9200439453125,
+          "file_duration": 5.480048828125007,
+          "filename": "F-S2-B-021-0424.wav",
+          "ptr": "그러다가  /  해가 지면  /  아무 데서나  /  잠을 잤습니다.",
+          "tr": "그러다가 해가 지면 아무 데서나 잠을 잤습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0425",
+        "origin_text": "흥부가 작은 목소리로 나라의 곡식을 빌리려고 왔습니다 하고 말했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.52001953125,
+          "file_duration": 7.009970703124992,
+          "filename": "F-S2-B-021-0425.wav",
+          "ptr": "흥부가 작은 목소리로  /  나라의 곡식을 빌리려고 왔습니다 하고  /  말했습니다.",
+          "tr": "흥부가 작은 목소리로 나라의 곡식을 빌리려고 왔습니다 하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0426",
+        "origin_text": "형님이 돈과 쌀을 주셨는데 오다가 도둑을 만났어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.5,
+          "file_duration": 6.060000000000002,
+          "filename": "F-S2-B-021-0426.wav",
+          "ptr": "형님이 돈과 쌀을 주셨는데  /  오다가  /  도둑을 만났어요.",
+          "tr": "형님이 돈과 쌀을 주셨는데 오다가 도둑을 만났어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0427",
+        "origin_text": "구렁이는 갑자기 달려들어 새끼 제비를 잡아먹었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.3199462890625,
+          "file_duration": 5.850039062500002,
+          "filename": "F-S2-B-021-0427.wav",
+          "ptr": "구렁이는  /  갑자기 달려들어  /  새끼 제비를  /  잡아먹었습니다.",
+          "tr": "구렁이는 갑자기 달려들어 새끼 제비를 잡아먹었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0428",
+        "origin_text": "콩쥐는 걱정도 되고 슬프기도 해서 눈물이 났습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.699951171875,
+          "file_duration": 6.2300244140625125,
+          "filename": "F-S2-B-021-0428.wav",
+          "ptr": "콩쥐는  /  걱정도 되고  /  슬프기도 해서  /  눈물이 났습니다.",
+          "tr": "콩쥐는 걱정도 되고 슬프기도 해서 눈물이 났습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0429",
+        "origin_text": "배씨와 팥쥐는 열매를 모두 먹었고 콩쥐에게는 열매를 하나도 주지 않았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.3800048828125,
+          "file_duration": 8.900029296875005,
+          "filename": "F-S2-B-021-0429.wav",
+          "ptr": "배씨와 팥쥐는  /  열매를 모두 먹었고  /  콩쥐에게는  /  열매를  /  하나도 주지 않았습니다.",
+          "tr": "배씨와 팥쥐는 열매를 모두 먹었고 콩쥐에게는 열매를 하나도 주지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0430",
+        "origin_text": "아침부터 점심까지 부은 물이 한 방울도 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.02001953125,
+          "file_duration": 5.579995117187508,
+          "filename": "F-S2-B-021-0430.wav",
+          "ptr": "아침부터 점심까지  /  부은 물이  /  한 방울도 없었습니다.",
+          "tr": "아침부터 점심까지 부은 물이 한 방울도 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0431",
+        "origin_text": "콩쥐는 기가 막혀서 눈물이 났습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.8800048828125,
+          "file_duration": 4.420004882812492,
+          "filename": "F-S2-B-021-0431.wav",
+          "ptr": "콩쥐는  /  기가 막혀서  /  눈물이 났습니다.",
+          "tr": "콩쥐는 기가 막혀서 눈물이 났습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0432",
+        "origin_text": "콩쥐는 어깨도 아프고, 다리도 아프고, 배도 고팠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.0799560546875,
+          "file_duration": 5.610043945312498,
+          "filename": "F-S2-B-021-0432.wav",
+          "ptr": "콩쥐는  /  어깨도 아프고 다리도 아프고  /  배도 고팠습니다.",
+          "tr": "콩쥐는 어깨도 아프고, 다리도 아프고, 배도 고팠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0433",
+        "origin_text": "콩쥐는 두 사람이 나가자 베틀에 앉아서 울기 시작했습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.3599853515625,
+          "file_duration": 6.8599853515625,
+          "filename": "F-S2-B-021-0433.wav",
+          "ptr": "콩쥐는  /  두 사람이 나가자  /  베틀에 앉아서  /  울기 시작했습니다.",
+          "tr": "콩쥐는 두 사람이 나가자 베틀에 앉아서 울기 시작했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0434",
+        "origin_text": "하지만 배씨와 팥쥐와 함께 산 이후에는 외갓집에 가지 못했습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.3599853515625,
+          "file_duration": 7.8599853515625,
+          "filename": "F-S2-B-021-0434.wav",
+          "ptr": "하지만  /  배씨와 팥쥐와 함께  /  산 이후에는  /  외갓집에 가지 못했습니다.",
+          "tr": "하지만 배씨와 팥쥐와 함께 산 이후에는 외갓집에 가지 못했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0435",
+        "origin_text": "콩쥐는 신발을 본 순간 자기의 것이라고 말하려고 했는데 배씨가 콩쥐를 막으며 팥쥐에게 나가라고 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 11.3800048828125,
+          "file_duration": 11.920014648437473,
+          "filename": "F-S2-B-021-0435.wav",
+          "ptr": "콩쥐는  /  신발을 본 순간  /  자기의 것이라고 말하려고 했는데  /  배씨가  /  콩쥐를 막으며  /  팥쥐에게  /  나가라고 했습니다.",
+          "tr": "콩쥐는 신발을 본 순간 자기의 것이라고 말하려고 했는데 배씨가 콩쥐를 막으며 팥쥐에게 나가라고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0436",
+        "origin_text": "곽씨 부인은 아들이 없어서 늘 마음이 무거웠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.3199462890625,
+          "file_duration": 5.8799999999999955,
+          "filename": "F-S2-B-021-0436.wav",
+          "ptr": "곽씨 부인은  /  아들이 없어서  /  늘  /  마음이 무거웠습니다.",
+          "tr": "곽씨 부인은 아들이 없어서 늘 마음이 무거웠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0437",
+        "origin_text": "그렇게 걱정이 되면, 우리가 하늘에 정성껏 빌어 봅시다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.780029296875,
+          "file_duration": 6.280029296875,
+          "filename": "F-S2-B-021-0437.wav",
+          "ptr": "그렇게 걱정이 되면  /  우리가 하늘에  /  정성껏  /  빌어 봅시다.",
+          "tr": "그렇게 걱정이 되면, 우리가 하늘에 정성껏 빌어 봅시다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0438",
+        "origin_text": "내가 가서 약을 지어 올 테니까 걱정하지 말아요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.419921875,
+          "file_duration": 4.919921875,
+          "filename": "F-S2-B-021-0438.wav",
+          "ptr": "내가 가서  /  약을 지어 올 테니까  /  걱정하지 말아요.",
+          "tr": "내가 가서 약을 지어 올 테니까 걱정하지 말아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0439",
+        "origin_text": "눈도 안 보이는데 어떻게 아이를 안고 여기까지 오셨어요?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.1600341796875,
+          "file_duration": 5.759999999999991,
+          "filename": "F-S2-B-021-0439.wav",
+          "ptr": "눈도 안 보이는데  /  어떻게  /  아이를 안고 여기까지 오셨어요?",
+          "tr": "눈도 안 보이는데 어떻게 아이를 안고 여기까지 오셨어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0440",
+        "origin_text": "저는 어려서 어머니를 잃고 눈먼 아버지를 봉양해야 합니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.5400390625,
+          "file_duration": 6.070034179687525,
+          "filename": "F-S2-B-021-0440.wav",
+          "ptr": "저는 어려서  /  어머니를 잃고  /  눈먼 아버지를 봉양해야 합니다.",
+          "tr": "저는 어려서 어머니를 잃고 눈먼 아버지를 봉양해야 합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0441",
+        "origin_text": "그런데 심 봉사가 발을 삐끗해 개천에 빠졌습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.6600341796875,
+          "file_duration": 6.1600341796875,
+          "filename": "F-S2-B-021-0441.wav",
+          "ptr": "그런데  /  심 봉사가  /  발을 삐끗해  /  개천에 빠졌습니다.",
+          "tr": "그런데 심 봉사가 발을 삐끗해 개천에 빠졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0442",
+        "origin_text": "심 봉사는 속이 상해서 울기 시작했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.919921875,
+          "file_duration": 4.419921875,
+          "filename": "F-S2-B-021-0442.wav",
+          "ptr": "심 봉사는  /  속이 상해서  /  울기 시작했습니다.",
+          "tr": "심 봉사는 속이 상해서 울기 시작했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0443",
+        "origin_text": "아버지가 울기만 하고 말을 하지 않아서 심청도 속이 상했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.760009765625,
+          "file_duration": 6.260009765625,
+          "filename": "F-S2-B-021-0443.wav",
+          "ptr": "아버지가 울기만 하고 말을 하지 않아서  /  심청도  /  속이 상했습니다.",
+          "tr": "아버지가 울기만 하고 말을 하지 않아서 심청도 속이 상했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0444",
+        "origin_text": "제 아버지의 눈을 뜨게 해 주십시오.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.9000244140625,
+          "file_duration": 3.4000244140625,
+          "filename": "F-S2-B-021-0444.wav",
+          "ptr": "제 아버지의 눈을  /  뜨게 해 주십시오.",
+          "tr": "제 아버지의 눈을 뜨게 해 주십시오."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0445",
+        "origin_text": "그러나 시간이 갈수록 공양미 삼백 석을 마련할 일이 걱정되었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.219970703125,
+          "file_duration": 6.719970703125,
+          "filename": "F-S2-B-021-0445.wav",
+          "ptr": "그러나  /  시간이 갈수록  /  공양미 삼백 석을 마련할 일이  /  걱정되었습니다.",
+          "tr": "그러나 시간이 갈수록 공양미 삼백 석을 마련할 일이 걱정되었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0446",
+        "origin_text": "심청은 ‘내가 죽으면 아버지 옷은 누가 만들어 드리지` 하며 떠나기 전에 아버지 옷을 만들어 드려야겠다고 생각했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 10.5599365234375,
+          "file_duration": 11.0599365234375,
+          "filename": "F-S2-B-021-0446.wav",
+          "ptr": "심청은  /  내가 죽으면  /  아버지 옷은 누가 만들어 드리지 하며  /  떠나기 전에  /  아버지 옷을 만들어 드려야겠다고  /  생각했습니다.",
+          "tr": "심청은 내가 죽으면 아버지 옷은 누가 만들어 드리지 하며 떠나기 전에 아버지 옷을 만들어 드려야겠다고 생각했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0447",
+        "origin_text": "아버지께서 식사하시는 것을 보고 떠나게 해 주세요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.780029296875,
+          "file_duration": 5.280029296875,
+          "filename": "F-S2-B-021-0447.wav",
+          "ptr": "아버지께서  /  식사하시는 것을  /  보고 떠나게 해 주세요.",
+          "tr": "아버지께서 식사하시는 것을 보고 떠나게 해 주세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0448",
+        "origin_text": "심 봉사가 불쌍하니 우리가 평생 굶지 않도록 도와줍시다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.4200439453125,
+          "file_duration": 5.9599609375,
+          "filename": "F-S2-B-021-0448.wav",
+          "ptr": "심 봉사가 불쌍하니  /  우리가  /  평생 굶지 않도록 도와줍시다.",
+          "tr": "심 봉사가 불쌍하니 우리가 평생 굶지 않도록 도와줍시다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0449",
+        "origin_text": "배 좌수에게는 착한 아내 장씨가 있었는데 두 사람은 오랫동안 자식이 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.5,
+          "file_duration": 8.969941406249973,
+          "filename": "F-S2-B-021-0449.wav",
+          "ptr": "배 좌수에게는  /  착한 아내 장씨가 있었는데  /  두 사람은  /  오랫동안 자식이 없었습니다.",
+          "tr": "배 좌수에게는 착한 아내 장씨가 있었는데 두 사람은 오랫동안 자식이 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0450",
+        "origin_text": "장화가 한 짓이 알려지면, 창피해서 어떻게 살아요?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.1600341796875,
+          "file_duration": 5.670000000000016,
+          "filename": "F-S2-B-021-0450.wav",
+          "ptr": "장화가 한 짓이 알려지면  /  창피해서  /  어떻게 살아요?",
+          "tr": "장화가 한 짓이 알려지면, 창피해서 어떻게 살아요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 405.88,
+      "filename": "/data2/gst-voice/splitted/F/021/F-S203-P09-B-021.wav",
+      "recorded_at": "2022-09-20 09:13:17",
+      "sample_rate": 44100
+    }
+  }
+]

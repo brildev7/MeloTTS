@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "F-S202-P04-B-021",
+    "import": {
+      "author": "한국어읽기연구회",
+      "book_title": "외국인을 위한 한국어 읽기 16",
+      "country": "한국",
+      "id": "F0047",
+      "publish_year": 2013,
+      "times_bg": "중세",
+      "title": "호랑이를 감동시킨 며느리",
+      "translator": ""
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 1048,
+      "id": "F-S202",
+      "normalized": [
+        "그러나 가족 모두 밥을 먹지 못했습니다.",
+        "하지만 땅이 없고 가난했습니다.",
+        "그런데 며느리는 시아버지가 걱정되었습니다.",
+        "시아버지가 혼자 지내는 것이 쓸쓸해 보였기 때문입니다.",
+        "할머니는 걱정하는 얼굴로 아가씨와 김현을 쳐다보았습니다.",
+        "김현은 아가씨가 불쌍해서 마음이 아팠습니다.",
+        "김현은 눈물을 흘리며 힘없이 고개를 끄덕였습니다.",
+        "하지만 계속 연락이 없자 안 좋은 생각이 들었습니다.",
+        "최항에게 나쁜 일이 일어났는지 걱정이 되었습니다.",
+        "아가씨는 청년에게 고맙다고 했습니다.",
+        "청년은 아가씨의 몸이 나아지는 것이 기쁘면서 슬프기도 했습니다.",
+        "청년은 안타깝게 아가씨를 보며 말했습니다.",
+        "청년과 아가씨는 서로 끌어안고 눈물을 흘렸습니다.",
+        "임금도 두 사람이 떠난 뒤에 마음이 아팠습니다.",
+        "집이 가난해서 삼 형제는 먹을 것이 항상 모자랐습니다.",
+        "형제는 오랫동안 그 자리에 있었지만 밤이 되어도 아무도 오지 않았습니다.",
+        "동생은 금덩어리 때문에 욕심을 낸 것이 후회스러웠습니다.",
+        "형 방이는 몹시 가난했습니다.",
+        "먹을 것도 없어서 구걸을 하며 살았습니다.",
+        "방이는 동생의 말에 눈물이 날 것 같았습니다.",
+        "어머니는 징옥을 걱정하며 또 눈물을 흘렸습니다.",
+        "동생은 몹시 지쳤지만 쉴 수가 없었습니다.",
+        "김 부자는 누구라도 딸을 고칠 수만 있으면 좋겠다고 생각했습니다.",
+        "원님의 딸은 눈물을 흘리며 조신에게 안겼습니다.",
+        "그것도 없으면 굶었습니다.",
+        "옷은 여기저기 구멍이 났고 너무 낡아서 꿰맬 수도 없었습니다.",
+        "문희는 울면서 용서를 빌었습니다.",
+        "문희는 울면서 살려 달라고 했습니다.",
+        "김춘추는 헐레벌떡 뛰어 들어가 김유신의 팔을 잡았습니다.",
+        "이산해의 아버지는 아내를 위로했습니다.",
+        "가족들은 이산해의 어머니에게 오해해서 미안하다고 했습니다.",
+        "아내는 일찍 죽고 아들만 하나 있었습니다.",
+        "그런데 아들도 결혼한 뒤에 병으로 죽었습니다.",
+        "그렇지만 둘이서 사는 게 서로 불편했습니다.",
+        "며느리는 시아버지가 걱정되었습니다.",
+        "며느리가 눈물을 흘리며 시아버지에게 말했습니다.",
+        "며느리가 우니까 시아버지도 눈물을 흘렸습니다.",
+        "며칠 뒤에 며느리가 집을 떠나기로 했습니다.",
+        "시아버지는 혼자 떠나는 며느리가 안쓰러웠습니다.",
+        "시아버지는 며느리를 보내면서도 마음이 아팠습니다.",
+        "며느리도 울면서 자꾸 시아버지를 돌아보았습니다.",
+        "며느리가 눈물을 흘리며 걸어갔습니다.",
+        "처녀는 아버지가 걱정되어 시집을 못 가고 있었습니다.",
+        "아버지는 나이 많은 딸이 시집을 못 가서 걱정했습니다.",
+        "그러나 김 진사는 벼슬을 하지 못해서 가난했습니다.",
+        "그러나 김 진사는 이 진사에게 신세를 지게 되어서 미안했습니다.",
+        "친구에게 신세를 지니까 사이가 조금 멀어진 것 같았습니다.",
+        "아내는 남편이 걱정되어 안절부절못했습니다.",
+        "그렇지만 아들도 무슨 일인지 걱정되었습니다.",
+        "그러다가 아들이 병이 나면 큰일이었습니다."
+      ],
+      "origin": [
+        "그러나 가족 모두 밥을 먹지 못했습니다.",
+        "하지만 땅이 없고 가난했습니다.",
+        "그런데 며느리는 시아버지가 걱정되었습니다.",
+        "시아버지가 혼자 지내는 것이 쓸쓸해 보였기 때문입니다.",
+        "할머니는 걱정하는 얼굴로 아가씨와 김현을 쳐다보았습니다.",
+        "김현은 아가씨가 불쌍해서 마음이 아팠습니다.",
+        "김현은 눈물을 흘리며 힘없이 고개를 끄덕였습니다.",
+        "하지만 계속 연락이 없자 안 좋은 생각이 들었습니다.",
+        "최항에게 나쁜 일이 일어났는지 걱정이 되었습니다.",
+        "아가씨는 청년에게 고맙다고 했습니다.",
+        "청년은 아가씨의 몸이 나아지는 것이 기쁘면서 슬프기도 했습니다.",
+        "청년은 안타깝게 아가씨를 보며 말했습니다.",
+        "청년과 아가씨는 서로 끌어안고 눈물을 흘렸습니다.",
+        "임금도 두 사람이 떠난 뒤에 마음이 아팠습니다.",
+        "집이 가난해서 삼 형제는 먹을 것이 항상 모자랐습니다.",
+        "형제는 오랫동안 그 자리에 있었지만 밤이 되어도 아무도 오지 않았습니다.",
+        "동생은 금덩어리 때문에 욕심을 낸 것이 후회스러웠습니다.",
+        "형 방이는 몹시 가난했습니다. ",
+        "먹을 것도 없어서 구걸을 하며 살았습니다. ",
+        "방이는 동생의 말에 눈물이 날 것 같았습니다.",
+        "어머니는 징옥을 걱정하며 또 눈물을 흘렸습니다.",
+        "동생은 몹시 지쳤지만 쉴 수가 없었습니다.",
+        "김 부자는 누구라도 딸을 고칠 수만 있으면 좋겠다고 생각했습니다.",
+        "원님의 딸은 눈물을 흘리며 조신에게 안겼습니다.",
+        "그것도 없으면 굶었습니다.",
+        "옷은 여기저기 구멍이 났고 너무 낡아서 꿰맬 수도 없었습니다.",
+        "문희는 울면서 용서를 빌었습니다.",
+        "문희는 울면서 살려 달라고 했습니다.",
+        "김춘추는 헐레벌떡 뛰어 들어가 김유신의 팔을 잡았습니다.",
+        "이산해의 아버지는 아내를 위로했습니다.",
+        "가족들은 이산해의 어머니에게 오해해서 미안하다고 했습니다.",
+        "아내는 일찍 죽고 아들만 하나 있었습니다.",
+        "그런데 아들도 결혼한 뒤에 병으로 죽었습니다.",
+        "그렇지만 둘이서 사는 게 서로 불편했습니다.",
+        "며느리는 시아버지가 걱정되었습니다.",
+        "며느리가 눈물을 흘리며 시아버지에게 말했습니다.",
+        "며느리가 우니까 시아버지도 눈물을 흘렸습니다.",
+        "며칠 뒤에 며느리가 집을 떠나기로 했습니다.",
+        "시아버지는 혼자 떠나는 며느리가 안쓰러웠습니다.",
+        "시아버지는 며느리를 보내면서도 마음이 아팠습니다.",
+        "며느리도 울면서 자꾸 시아버지를 돌아보았습니다.",
+        "며느리가 눈물을 흘리며 걸어갔습니다.",
+        "처녀는 아버지가 걱정되어 시집을 못 가고 있었습니다.",
+        "아버지는 나이 많은 딸이 시집을 못 가서 걱정했습니다.",
+        "그러나 김 진사는 벼슬을 하지 못해서 가난했습니다.",
+        "그러나 김 진사는 이 진사에게 신세를 지게 되어서 미안했습니다.",
+        "친구에게 신세를 지니까 사이가 조금 멀어진 것 같았습니다.",
+        "아내는 남편이 걱정되어 안절부절못했습니다.",
+        "그렇지만 아들도 무슨 일인지 걱정되었습니다.",
+        "그러다가 아들이 병이 나면 큰일이었습니다."
+      ],
+      "part_no": 4,
+      "tokens_count": 298
+    },
+    "sentences": [
+      {
+        "id": "F-S2-B-021-0151",
+        "origin_text": "그러나 가족 모두 밥을 먹지 못했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.260000228881836,
+          "file_duration": 4.630000228881836,
+          "filename": "F-S2-B-021-0151.wav",
+          "ptr": "그러나  /  가족 모두 밥을 먹지 못했습니다.",
+          "tr": "그러나 가족 모두 밥을 먹지 못했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0152",
+        "origin_text": "하지만 땅이 없고 가난했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.8199996948242188,
+          "file_duration": 4.319999694824219,
+          "filename": "F-S2-B-021-0152.wav",
+          "ptr": "하지만  /  땅이 없고  /  가난했습니다.",
+          "tr": "하지만 땅이 없고 가난했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0153",
+        "origin_text": "그런데 며느리는 시아버지가 걱정되었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.100000381469727,
+          "file_duration": 5.600000381469727,
+          "filename": "F-S2-B-021-0153.wav",
+          "ptr": "그런데  /  며느리는  /  시아버지가  /  걱정되었습니다.",
+          "tr": "그런데 며느리는 시아버지가 걱정되었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0154",
+        "origin_text": "시아버지가 혼자 지내는 것이 쓸쓸해 보였기 때문입니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.239999771118164,
+          "file_duration": 4.810000648498534,
+          "filename": "F-S2-B-021-0154.wav",
+          "ptr": "시아버지가 혼자 지내는 것이  /  쓸쓸해 보였기 때문입니다.",
+          "tr": "시아버지가 혼자 지내는 것이 쓸쓸해 보였기 때문입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0155",
+        "origin_text": "할머니는 걱정하는 얼굴로 아가씨와 김현을 쳐다보았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.8600006103515625,
+          "file_duration": 6.409999656677243,
+          "filename": "F-S2-B-021-0155.wav",
+          "ptr": "할머니는  /  걱정하는 얼굴로  /  아가씨와 김현을  /  쳐다보았습니다.",
+          "tr": "할머니는 걱정하는 얼굴로 아가씨와 김현을 쳐다보았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0156",
+        "origin_text": "김현은 아가씨가 불쌍해서 마음이 아팠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.380001068115234,
+          "file_duration": 4.880001068115234,
+          "filename": "F-S2-B-021-0156.wav",
+          "ptr": "김현은  /  아가씨가 불쌍해서  /  마음이 아팠습니다.",
+          "tr": "김현은 아가씨가 불쌍해서 마음이 아팠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0157",
+        "origin_text": "김현은 눈물을 흘리며 힘없이 고개를 끄덕였습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.779998779296875,
+          "file_duration": 6.279998779296875,
+          "filename": "F-S2-B-021-0157.wav",
+          "ptr": "김현은  /  눈물을 흘리며  /  힘없이  /  고개를 끄덕였습니다.",
+          "tr": "김현은 눈물을 흘리며 힘없이 고개를 끄덕였습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0158",
+        "origin_text": "하지만 계속 연락이 없자 안 좋은 생각이 들었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.119998931884766,
+          "file_duration": 5.619998931884766,
+          "filename": "F-S2-B-021-0158.wav",
+          "ptr": "하지만  /  계속 연락이 없자  /  안 좋은 생각이 들었습니다.",
+          "tr": "하지만 계속 연락이 없자 안 좋은 생각이 들었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0159",
+        "origin_text": "최항에게 나쁜 일이 일어났는지 걱정이 되었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.159999847412109,
+          "file_duration": 4.659999847412109,
+          "filename": "F-S2-B-021-0159.wav",
+          "ptr": "최항에게 나쁜 일이 일어났는지  /  걱정이 되었습니다.",
+          "tr": "최항에게 나쁜 일이 일어났는지 걱정이 되었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0160",
+        "origin_text": "아가씨는 청년에게 고맙다고 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.8800048828125,
+          "file_duration": 4.3800048828125,
+          "filename": "F-S2-B-021-0160.wav",
+          "ptr": "아가씨는  /  청년에게  /  고맙다고 했습니다.",
+          "tr": "아가씨는 청년에게 고맙다고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0161",
+        "origin_text": "청년은 아가씨의 몸이 나아지는 것이 기쁘면서 슬프기도 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.9199981689453125,
+          "file_duration": 6.4199981689453125,
+          "filename": "F-S2-B-021-0161.wav",
+          "ptr": "청년은  /  아가씨의 몸이 나아지는 것이 기쁘면서  /  슬프기도 했습니다.",
+          "tr": "청년은 아가씨의 몸이 나아지는 것이 기쁘면서 슬프기도 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0162",
+        "origin_text": "청년은 안타깝게 아가씨를 보며 말했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.5800018310546875,
+          "file_duration": 4.0800018310546875,
+          "filename": "F-S2-B-021-0162.wav",
+          "ptr": "청년은 안타깝게  /  아가씨를 보며 말했습니다.",
+          "tr": "청년은 안타깝게 아가씨를 보며 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0163",
+        "origin_text": "청년과 아가씨는 서로 끌어안고 눈물을 흘렸습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.1399993896484375,
+          "file_duration": 5.6399993896484375,
+          "filename": "F-S2-B-021-0163.wav",
+          "ptr": "청년과 아가씨는  /  서로 끌어안고  /  눈물을 흘렸습니다.",
+          "tr": "청년과 아가씨는 서로 끌어안고 눈물을 흘렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0164",
+        "origin_text": "임금도 두 사람이 떠난 뒤에 마음이 아팠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.099998474121094,
+          "file_duration": 4.599998474121094,
+          "filename": "F-S2-B-021-0164.wav",
+          "ptr": "임금도 두 사람이 떠난 뒤에  /  마음이 아팠습니다.",
+          "tr": "임금도 두 사람이 떠난 뒤에 마음이 아팠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0165",
+        "origin_text": "집이 가난해서 삼 형제는 먹을 것이 항상 모자랐습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.94000244140625,
+          "file_duration": 6.44000244140625,
+          "filename": "F-S2-B-021-0165.wav",
+          "ptr": "집이 가난해서  /  삼 형제는  /  먹을 것이  /  항상 모자랐습니다.",
+          "tr": "집이 가난해서 삼 형제는 먹을 것이 항상 모자랐습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0166",
+        "origin_text": "형제는 오랫동안 그 자리에 있었지만 밤이 되어도 아무도 오지 않았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.260002136230469,
+          "file_duration": 7.760002136230469,
+          "filename": "F-S2-B-021-0166.wav",
+          "ptr": "형제는  /  오랫동안 그 자리에 있었지만  /  밤이 되어도  /  아무도 오지 않았습니다.",
+          "tr": "형제는 오랫동안 그 자리에 있었지만 밤이 되어도 아무도 오지 않았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0167",
+        "origin_text": "동생은 금덩어리 때문에 욕심을 낸 것이 후회스러웠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.2599945068359375,
+          "file_duration": 5.7599945068359375,
+          "filename": "F-S2-B-021-0167.wav",
+          "ptr": "동생은  /  금덩어리 때문에 욕심을 낸 것이  /  후회스러웠습니다.",
+          "tr": "동생은 금덩어리 때문에 욕심을 낸 것이 후회스러웠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0168",
+        "origin_text": "형 방이는 몹시 가난했습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.279998779296875,
+          "file_duration": 3.779998779296875,
+          "filename": "F-S2-B-021-0168.wav",
+          "ptr": "형 방이는  /  몹시 가난했습니다.",
+          "tr": "형 방이는 몹시 가난했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0169",
+        "origin_text": "먹을 것도 없어서 구걸을 하며 살았습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.6999969482421875,
+          "file_duration": 4.1999969482421875,
+          "filename": "F-S2-B-021-0169.wav",
+          "ptr": "먹을 것도 없어서  /  구걸을 하며 살았습니다.",
+          "tr": "먹을 것도 없어서 구걸을 하며 살았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0170",
+        "origin_text": "방이는 동생의 말에 눈물이 날 것 같았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.1199951171875,
+          "file_duration": 4.6199951171875,
+          "filename": "F-S2-B-021-0170.wav",
+          "ptr": "방이는  /  동생의 말에  /  눈물이 날 것 같았습니다.",
+          "tr": "방이는 동생의 말에 눈물이 날 것 같았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0171",
+        "origin_text": "어머니는 징옥을 걱정하며 또 눈물을 흘렸습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.720001220703125,
+          "file_duration": 6.220001220703125,
+          "filename": "F-S2-B-021-0171.wav",
+          "ptr": "어머니는  /  징옥을 걱정하며  /  또  /  눈물을 흘렸습니다.",
+          "tr": "어머니는 징옥을 걱정하며 또 눈물을 흘렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0172",
+        "origin_text": "동생은 몹시 지쳤지만 쉴 수가 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.8199920654296875,
+          "file_duration": 5.3199920654296875,
+          "filename": "F-S2-B-021-0172.wav",
+          "ptr": "동생은  /  몹시 지쳤지만  /  쉴 수가 없었습니다.",
+          "tr": "동생은 몹시 지쳤지만 쉴 수가 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0173",
+        "origin_text": "김 부자는 누구라도 딸을 고칠 수만 있으면 좋겠다고 생각했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.17999267578125,
+          "file_duration": 5.67999267578125,
+          "filename": "F-S2-B-021-0173.wav",
+          "ptr": "김 부자는  /  누구라도 딸을 고칠 수만 있으면 좋겠다고 생각했습니다.",
+          "tr": "김 부자는 누구라도 딸을 고칠 수만 있으면 좋겠다고 생각했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0174",
+        "origin_text": "원님의 딸은 눈물을 흘리며 조신에게 안겼습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.05999755859375,
+          "file_duration": 5.620001411437983,
+          "filename": "F-S2-B-021-0174.wav",
+          "ptr": "원님의 딸은  /  눈물을 흘리며  /  조신에게  /  안겼습니다.",
+          "tr": "원님의 딸은 눈물을 흘리며 조신에게 안겼습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0175",
+        "origin_text": "그것도 없으면 굶었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.3000030517578125,
+          "file_duration": 2.8000030517578125,
+          "filename": "F-S2-B-021-0175.wav",
+          "ptr": "그것도 없으면  /  굶었습니다.",
+          "tr": "그것도 없으면 굶었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0176",
+        "origin_text": "옷은 여기저기 구멍이 났고 너무 낡아서 꿰맬 수도 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.3400115966796875,
+          "file_duration": 6.8400115966796875,
+          "filename": "F-S2-B-021-0176.wav",
+          "ptr": "옷은  /  여기저기 구멍이 났고  /  너무 낡아서  /  꿰맬 수도 없었습니다.",
+          "tr": "옷은 여기저기 구멍이 났고 너무 낡아서 꿰맬 수도 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0177",
+        "origin_text": "문희는 울면서 용서를 빌었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.1200103759765625,
+          "file_duration": 3.6200103759765625,
+          "filename": "F-S2-B-021-0177.wav",
+          "ptr": "문희는 울면서  /  용서를 빌었습니다.",
+          "tr": "문희는 울면서 용서를 빌었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0178",
+        "origin_text": "문희는 울면서 살려 달라고 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.279998779296875,
+          "file_duration": 3.779998779296875,
+          "filename": "F-S2-B-021-0178.wav",
+          "ptr": "문희는  /  울면서 살려 달라고 했습니다.",
+          "tr": "문희는 울면서 살려 달라고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0179",
+        "origin_text": "김춘추는 헐레벌떡 뛰어 들어가 김유신의 팔을 잡았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.4600067138671875,
+          "file_duration": 5.9600067138671875,
+          "filename": "F-S2-B-021-0179.wav",
+          "ptr": "김춘추는  /  헐레벌떡 뛰어 들어가  /  김유신의 팔을 잡았습니다.",
+          "tr": "김춘추는 헐레벌떡 뛰어 들어가 김유신의 팔을 잡았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0180",
+        "origin_text": "이산해의 아버지는 아내를 위로했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.44000244140625,
+          "file_duration": 3.94000244140625,
+          "filename": "F-S2-B-021-0180.wav",
+          "ptr": "이산해의 아버지는  /  아내를 위로했습니다.",
+          "tr": "이산해의 아버지는 아내를 위로했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0181",
+        "origin_text": "가족들은 이산해의 어머니에게 오해해서 미안하다고 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.4600067138671875,
+          "file_duration": 5.9600067138671875,
+          "filename": "F-S2-B-021-0181.wav",
+          "ptr": "가족들은  /  이산해의 어머니에게  /  오해해서 미안하다고 했습니다.",
+          "tr": "가족들은 이산해의 어머니에게 오해해서 미안하다고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0182",
+        "origin_text": "아내는 일찍 죽고 아들만 하나 있었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.5,
+          "file_duration": 5,
+          "filename": "F-S2-B-021-0182.wav",
+          "ptr": "아내는  /  일찍 죽고  /  아들만 하나 있었습니다.",
+          "tr": "아내는 일찍 죽고 아들만 하나 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0183",
+        "origin_text": "그런데 아들도 결혼한 뒤에 병으로 죽었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.239990234375,
+          "file_duration": 5.739990234375,
+          "filename": "F-S2-B-021-0183.wav",
+          "ptr": "그런데  /  아들도  /  결혼한 뒤에  /  병으로 죽었습니다.",
+          "tr": "그런데 아들도 결혼한 뒤에 병으로 죽었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0184",
+        "origin_text": "그렇지만 둘이서 사는 게 서로 불편했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.6599884033203125,
+          "file_duration": 5.1599884033203125,
+          "filename": "F-S2-B-021-0184.wav",
+          "ptr": "그렇지만  /  둘이서 사는 게  /  서로 불편했습니다.",
+          "tr": "그렇지만 둘이서 사는 게 서로 불편했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0185",
+        "origin_text": "며느리는 시아버지가 걱정되었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.779998779296875,
+          "file_duration": 3.279998779296875,
+          "filename": "F-S2-B-021-0185.wav",
+          "ptr": "며느리는 시아버지가 걱정되었습니다.",
+          "tr": "며느리는 시아버지가 걱정되었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0186",
+        "origin_text": "며느리가 눈물을 흘리며 시아버지에게 말했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.05999755859375,
+          "file_duration": 4.55999755859375,
+          "filename": "F-S2-B-021-0186.wav",
+          "ptr": "며느리가 눈물을 흘리며  /  시아버지에게 말했습니다.",
+          "tr": "며느리가 눈물을 흘리며 시아버지에게 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0187",
+        "origin_text": "며느리가 우니까 시아버지도 눈물을 흘렸습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.439971923828125,
+          "file_duration": 4.939971923828125,
+          "filename": "F-S2-B-021-0187.wav",
+          "ptr": "며느리가 우니까  /  시아버지도  /  눈물을 흘렸습니다.",
+          "tr": "며느리가 우니까 시아버지도 눈물을 흘렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0188",
+        "origin_text": "며칠 뒤에 며느리가 집을 떠나기로 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.779998779296875,
+          "file_duration": 4.279998779296875,
+          "filename": "F-S2-B-021-0188.wav",
+          "ptr": "며칠 뒤에  /  며느리가 집을 떠나기로 했습니다.",
+          "tr": "며칠 뒤에 며느리가 집을 떠나기로 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0189",
+        "origin_text": "시아버지는 혼자 떠나는 며느리가 안쓰러웠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.480010986328125,
+          "file_duration": 4.980010986328125,
+          "filename": "F-S2-B-021-0189.wav",
+          "ptr": "시아버지는  /  혼자 떠나는 며느리가  /  안쓰러웠습니다.",
+          "tr": "시아버지는 혼자 떠나는 며느리가 안쓰러웠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0190",
+        "origin_text": "시아버지는 며느리를 보내면서도 마음이 아팠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.260009765625,
+          "file_duration": 5.760009765625,
+          "filename": "F-S2-B-021-0190.wav",
+          "ptr": "시아버지는  /  며느리를 보내면서도  /  마음이 아팠습니다.",
+          "tr": "시아버지는 며느리를 보내면서도 마음이 아팠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0191",
+        "origin_text": "며느리도 울면서 자꾸 시아버지를 돌아보았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.8800048828125,
+          "file_duration": 5.3800048828125,
+          "filename": "F-S2-B-021-0191.wav",
+          "ptr": "며느리도 울면서  /  자꾸  /  시아버지를  /  돌아보았습니다.",
+          "tr": "며느리도 울면서 자꾸 시아버지를 돌아보았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0192",
+        "origin_text": "며느리가 눈물을 흘리며 걸어갔습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.040008544921875,
+          "file_duration": 3.540008544921875,
+          "filename": "F-S2-B-021-0192.wav",
+          "ptr": "며느리가 눈물을 흘리며  /  걸어갔습니다.",
+          "tr": "며느리가 눈물을 흘리며 걸어갔습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0193",
+        "origin_text": "처녀는 아버지가 걱정되어 시집을 못 가고 있었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.839996337890625,
+          "file_duration": 5.339996337890625,
+          "filename": "F-S2-B-021-0193.wav",
+          "ptr": "처녀는  /  아버지가 걱정되어  /  시집을 못 가고 있었습니다.",
+          "tr": "처녀는 아버지가 걱정되어 시집을 못 가고 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0194",
+        "origin_text": "아버지는 나이 많은 딸이 시집을 못 가서 걱정했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.180023193359375,
+          "file_duration": 5.680023193359375,
+          "filename": "F-S2-B-021-0194.wav",
+          "ptr": "아버지는  /  나이 많은 딸이 시집을 못 가서  /  걱정했습니다.",
+          "tr": "아버지는 나이 많은 딸이 시집을 못 가서 걱정했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0195",
+        "origin_text": "그러나 김 진사는 벼슬을 하지 못해서 가난했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.639984130859375,
+          "file_duration": 6.139984130859375,
+          "filename": "F-S2-B-021-0195.wav",
+          "ptr": "그러나  /  김 진사는  /  벼슬을 하지 못해서  /  가난했습니다.",
+          "tr": "그러나 김 진사는 벼슬을 하지 못해서 가난했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0196",
+        "origin_text": "그러나 김 진사는 이 진사에게 신세를 지게 되어서 미안했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.860015869140625,
+          "file_duration": 7.360015869140625,
+          "filename": "F-S2-B-021-0196.wav",
+          "ptr": "그러나  /  김 진사는  /  이 진사에게 신세를 지게 되어서  /  미안했습니다.",
+          "tr": "그러나 김 진사는 이 진사에게 신세를 지게 되어서 미안했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0197",
+        "origin_text": "친구에게 신세를 지니까 사이가 조금 멀어진 것 같았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.259979248046875,
+          "file_duration": 5.759979248046875,
+          "filename": "F-S2-B-021-0197.wav",
+          "ptr": "친구에게 신세를 지니까  /  사이가  /  조금 멀어진 것 같았습니다.",
+          "tr": "친구에게 신세를 지니까 사이가 조금 멀어진 것 같았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0198",
+        "origin_text": "아내는 남편이 걱정되어 안절부절못했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.759979248046875,
+          "file_duration": 5.259979248046875,
+          "filename": "F-S2-B-021-0198.wav",
+          "ptr": "아내는  /  남편이 걱정되어  /  안절부절못했습니다.",
+          "tr": "아내는 남편이 걱정되어 안절부절못했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0199",
+        "origin_text": "그렇지만 아들도 무슨 일인지 걱정되었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.660003662109375,
+          "file_duration": 5.160003662109375,
+          "filename": "F-S2-B-021-0199.wav",
+          "ptr": "그렇지만  /  아들도 무슨 일인지  /  걱정되었습니다.",
+          "tr": "그렇지만 아들도 무슨 일인지 걱정되었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0200",
+        "origin_text": "그러다가 아들이 병이 나면 큰일이었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.32000732421875,
+          "file_duration": 4.82000732421875,
+          "filename": "F-S2-B-021-0200.wav",
+          "ptr": "그러다가  /  아들이 병이 나면  /  큰일이었습니다.",
+          "tr": "그러다가 아들이 병이 나면 큰일이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 30,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 374.340022675737,
+      "filename": "/data2/gst-voice/splitted/F/021/F-S202-P04-B-021.wav",
+      "recorded_at": "2022-09-20 09:12:53",
+      "sample_rate": 44100
+    }
+  }
+]

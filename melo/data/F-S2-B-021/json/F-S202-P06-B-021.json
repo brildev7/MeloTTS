@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "F-S202-P06-B-021",
+    "import": {
+      "author": "이미애",
+      "book_title": "이미애 동화선집",
+      "country": "한국",
+      "id": "F0135",
+      "publish_year": 2013,
+      "times_bg": "현대",
+      "title": "많은 게 있다!",
+      "translator": ""
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 1557,
+      "id": "F-S202",
+      "normalized": [
+        "그곳에서는 수많은 사람들이 땡볕에 모여 앉아서 구호를 외치고 노래를 부르고 있었습니다.",
+        "엄마는 아빠와 살면 너무너무 불행하다고 했고, 나와 살 수도 없다고 했습니다.",
+        "난 입 꾹 다물고 고개만 끄덕였습니다.",
+        "입을 벌리면 울음이 터져 나올 것 같아서였습니다.",
+        "절대 눈물을 흘리고 싶지 않았는데 눈물이 뺨 위로 줄줄 흘러내렸습니다.",
+        "아빠 눈에도 눈물이 맺혀 있는 걸 봐 버렸습니다.",
+        "아빠가 울지 않아서 다행이라고, 나는 그런 생각을 했습니다.",
+        "아빠마저 나와 살지 않겠다고 했다면 나는 죽고 싶었을 것이니까요.",
+        "나는 돈 때문에, 엄마가 일하는 게 좋았고, 엄마가 힘들 거라는 생각은 하지 못했습니다.",
+        "엄마가 울고불고 소리치며 사는 게 힘들다고 할 때에야 알게 되었어요.",
+        "내가 사는 변두리 동네에서는 누구네 집이 망했다 하면 학원에서 먼저 알았어요.",
+        "학원을 끊고 나면 며칠 뒤 그 아이네 집은 어김없이 동네를 떠나 이사를 가 버렸지요.",
+        "나 역시 학원을 끊자마자 이렇게 시골로 온 것입니다.",
+        "아빠는 회사에서 잘렸고, 퇴직금은 얼마 안 된다고 하니 앞으로 돈이 없을 거예요.",
+        "서울에서나 시골에서나 나로서는 돈이 없다는 게 가장 큰 걱정거리였습니다.",
+        "사실 하영이는 아빠 얼굴도 알지 못하니까요.",
+        "앨범에도 집 안 그 어디에도 아빠 사진은 한 장도 없었습니다.",
+        "아빠의 흔적이 하나도 없다니 참 이상한 일이지요.",
+        "어릴 때는 엄마를 붙들고 아빠 어디 숨겼느냐고 징징거리며 떼를 쓰기도 했습니다.",
+        "어느 날, 아빠는 돌아가신 게 아니냐고 하영이가 캐묻자 엄마는 당황한 듯이 이렇게 말했습니다.",
+        "그 뒤로는 게으름이 나서 공부를 그만큼 열심히 하지 않게 되었고 당연히 성적은 떨어졌습니다.",
+        "화장을 지우고 난 엄마 눈자위가 발개져 있는 걸 하영이는 눈치채지 못했습니다.",
+        "일초 일초가 가시로 찌르듯이 아프게 따끔거리며 시간이 흘렀습니다.",
+        "아저씨는 아무 대답이 없었어요.",
+        "우두커니 선 채 보자기 위로 올라오는 하얀 김을 바라보기만 했지요.",
+        "두부 냄새만이라도 호주머니에 담아 가려는 사람처럼 말이에요.",
+        "그냥 돌아가기가 서운했던지, 두부 장수는 아저씨에게 김이 모락모락 나는 두부 한 모를 들려 주었어요.",
+        "아저씨는 두부를 손에 든 채 트럭 꽁무니가 보이지 않을 때까지 바라보고 있었어요.",
+        "다음 날도 아저씨는 하루 내내 의자에 앉아 있었어요.",
+        "잠시라도 눈을 돌리면 큰일 날 것처럼 줄곧 지나가는 사람들을 한 명 한 명 확인하는 것 같았지요.",
+        "아저씨는 추위에 부르르 떠는 것 같았고, 나는 침대 위에 누워 있는데 자꾸 아저씨 생각이 났어요.",
+        "이를 어째, 따끈따끈한 두부를 발견하고 말았어요.",
+        "집에 와서 맛있는 김치찌개를 먹는데, 자꾸 아저씨가 생각났어요.",
+        "그렇다고 엄마에게 김치찌개 좀 달라고, 아저씨 약 사 달라고 조를 수는 없는 일이었지요, 우리 엄마는 부녀회에서 결정된 것이라면 절대 어기는 일이 없거든요.",
+        "나는 고양이를 말리려고 손을 뻗었지만, 허우적거리기만 할 뿐 꼼짝할 수가 없는 거예요.",
+        "이번에는 울먹거리며 사정하는 목소리가 들렸는데, 나는 목소리 주인을 단번에 기억할 수 있었어요.",
+        "글쎄, 고양이만 탁자 밑에 앉아서는 여전히 등을 둥그렇게 말고 나를 빤히 쳐다보고 있었지요.",
+        "나는 안절부절못하며 거실을 왔다 갔다 했어요.",
+        "동재 사진을 보면서, 지금이라도 고모를 위로할 방법을 찾고 싶었어요.",
+        "액자를 발견한 고모부의 두 눈이 커다랗게 변했어요.",
+        "지난번 피씨방에서 잡혔을 때 반절이나 깎여 버린 용돈인데, 이제는 아예 없애 버린다고 다짐까지 받아 두었으니, 눈앞이 아찔했습니다.",
+        "갑자기 주눅이 들었어요, 그토록 당당하던 용기가 금세 사라져 버리는 거예요.",
+        "나는 빛나는 간판에서 두 눈을 뗄 수밖에 없었어요.",
+        "고개를 숙이고, 어깨도 축 늘어뜨린 채 어슬렁어슬렁 피씨방 앞을 왔다 갔다 하고, 또 한 번 왔다 갔다 했어요.",
+        "지나가는 사람들이 흘금흘금 바라보았지만, 용기가 나지 않았어요.",
+        "요즘 들어 엄마를 계속 화나게 했는데, 또다시 약속을 어길 수 없을 것 같았거든요.",
+        "휴, 큰 숨을 한 번 쉬고는 아파트 쪽으로 발길을 돌렸어요.",
+        "철민이의 말처럼 자전거가 형편없는 고물 같았어요.",
+        "영감의 말을 듣고 농부는 억울하다는 생각이 들었지만, 영감의 말도 맞는 것 같았습니다.",
+        "착한 농부는 신기한 항아리를 영감에게 줘야겠다고 마음먹었습니다."
+      ],
+      "origin": [
+        "그곳에서는 수많은 사람들이 땡볕에 모여 앉아서 구호를 외치고 노래를 부르고 있었습니다.",
+        "엄마는 아빠와 살면 너무너무 불행하다고 했고, 나와 살 수도 없다고 했습니다.",
+        "난 입 꾹 다물고 고개만 끄덕였습니다.",
+        "입을 벌리면 울음이 터져 나올 것 같아서였습니다.",
+        "절대 눈물을 흘리고 싶지 않았는데 눈물이 뺨 위로 줄줄 흘러내렸습니다.",
+        "아빠 눈에도 눈물이 맺혀 있는 걸 봐 버렸습니다.",
+        "아빠가 울지 않아서 다행이라고, 나는 그런 생각을 했습니다.",
+        "아빠마저 나와 살지 않겠다고 했다면 나는 죽고 싶었을 것이니까요.",
+        "나는 돈 때문에, 엄마가 일하는 게 좋았고, 엄마가 힘들 거라는 생각은 하지 못했습니다.",
+        "엄마가 울고불고 소리치며 사는 게 힘들다고 할 때에야 알게 되었어요.",
+        "내가 사는 변두리 동네에서는 누구네 집이 망했다 하면 학원에서 먼저 알았어요.",
+        "학원을 끊고 나면 며칠 뒤 그 아이네 집은 어김없이 동네를 떠나 이사를 가 버렸지요.",
+        "나 역시 학원을 끊자마자 이렇게 시골로 온 것입니다.",
+        "아빠는 회사에서 잘렸고, 퇴직금은 얼마 안 된다고 하니 앞으로 돈이 없을 거예요.",
+        "서울에서나 시골에서나 나로서는 돈이 없다는 게 가장 큰 걱정거리였습니다.",
+        "사실 하영이는 아빠 얼굴도 알지 못하니까요.",
+        "앨범에도 집 안 그 어디에도 아빠 사진은 한 장도 없었습니다.",
+        "아빠의 흔적이 하나도 없다니 참 이상한 일이지요.",
+        "어릴 때는 엄마를 붙들고 아빠 어디 숨겼느냐고 징징거리며 떼를 쓰기도 했습니다.",
+        "어느 날, 아빠는 돌아가신 게 아니냐고 하영이가 캐묻자 엄마는 당황한 듯이 이렇게 말했습니다.",
+        "그 뒤로는 게으름이 나서 공부를 그만큼 열심히 하지 않게 되었고 당연히 성적은 떨어졌습니다.",
+        "화장을 지우고 난 엄마 눈자위가 발개져 있는 걸 하영이는 눈치채지 못했습니다.",
+        "1초 1초가 가시로 찌르듯이 아프게 따끔거리며 시간이 흘렀습니다.",
+        "아저씨는 아무 대답이 없었어요.",
+        "우두커니 선 채 보자기 위로 올라오는 하얀 김을 바라보기만 했지요.",
+        "두부 냄새만이라도 호주머니에 담아 가려는 사람처럼 말이에요.",
+        "그냥 돌아가기가 서운했던지, 두부 장수는 아저씨에게 김이 모락모락 나는 두부 한 모를 들려 주었어요.",
+        "아저씨는 두부를 손에 든 채 트럭 꽁무니가 보이지 않을 때까지 바라보고 있었어요.",
+        "다음 날도 아저씨는 하루 내내 의자에 앉아 있었어요.",
+        "잠시라도 눈을 돌리면 큰일 날 것처럼 줄곧 지나가는 사람들을 한 명 한 명 확인하는 것 같았지요.",
+        "아저씨는 추위에 부르르 떠는 것 같았고, 나는 침대 위에 누워 있는데 자꾸 아저씨 생각이 났어요.",
+        "이를 어째, 따끈따끈한 두부를 발견하고 말았어요.",
+        "집에 와서 맛있는 김치찌개를 먹는데, 자꾸 아저씨가 생각났어요.",
+        "그렇다고 엄마에게 김치찌개 좀 달라고, 아저씨 약 사 달라고 조를 수는 없는 일이었지요, 우리 엄마는 부녀회에서 결정된 것이라면 절대 어기는 일이 없거든요.",
+        "나는 고양이를 말리려고 손을 뻗었지만, 허우적거리기만 할 뿐 꼼짝할 수가 없는 거예요.",
+        "이번에는 울먹거리며 사정하는 목소리가 들렸는데, 나는 목소리 주인을 단번에 기억할 수 있었어요.",
+        "글쎄, 고양이만 탁자 밑에 앉아서는 여전히 등을 둥그렇게 말고 나를 빤히 쳐다보고 있었지요.",
+        "나는 안절부절못하며 거실을 왔다 갔다 했어요.",
+        "동재 사진을 보면서, 지금이라도 고모를 위로할 방법을 찾고 싶었어요.",
+        "액자를 발견한 고모부의 두 눈이 커다랗게 변했어요.",
+        "지난번 PC방에서 잡혔을 때 반절이나 깎여 버린 용돈인데, 이제는 아예 없애 버린다고 다짐까지 받아 두었으니, 눈앞이 아찔했습니다.",
+        "갑자기 주눅이 들었어요, 그토록 당당하던 용기가 금세 사라져 버리는 거예요.",
+        "나는 빛나는 간판에서 두 눈을 뗄 수밖에 없었어요.",
+        "고개를 숙이고, 어깨도 축 늘어뜨린 채 어슬렁어슬렁 PC방 앞을 왔다 갔다 하고, 또 한 번 왔다 갔다 했어요.",
+        "지나가는 사람들이 흘금흘금 바라보았지만, 용기가 나지 않았어요.",
+        "요즘 들어 엄마를 계속 화나게 했는데, 또다시 약속을 어길 수 없을 것 같았거든요.",
+        "휴, 큰 숨을 한 번 쉬고는 아파트 쪽으로 발길을 돌렸어요.",
+        "철민이의 말처럼 자전거가 형편없는 고물 같았어요.",
+        "영감의 말을 듣고 농부는 억울하다는 생각이 들었지만, 영감의 말도 맞는 것 같았습니다.",
+        "착한 농부는 신기한 항아리를 영감에게 줘야겠다고 마음먹었습니다."
+      ],
+      "part_no": 6,
+      "tokens_count": 515
+    },
+    "sentences": [
+      {
+        "id": "F-S2-B-021-0251",
+        "origin_text": "그곳에서는 수많은 사람들이 땡볕에 모여 앉아서 구호를 외치고 노래를 부르고 있었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.46002197265625,
+          "file_duration": 9,
+          "filename": "F-S2-B-021-0251.wav",
+          "ptr": "그곳에서는  /  수많은 사람들이  /  땡볕에 모여 앉아서  /  구호를 외치고  /  노래를 부르고 있었습니다.",
+          "tr": "그곳에서는 수많은 사람들이 땡볕에 모여 앉아서 구호를 외치고 노래를 부르고 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0252",
+        "origin_text": "엄마는 아빠와 살면 너무너무 불행하다고 했고, 나와 살 수도 없다고 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.41998291015625,
+          "file_duration": 7.91998291015625,
+          "filename": "F-S2-B-021-0252.wav",
+          "ptr": "엄마는  /  아빠와 살면  /  너무너무 불행하다고 했고  /  나와 살 수도 없다고 했습니다.",
+          "tr": "엄마는 아빠와 살면 너무너무 불행하다고 했고, 나와 살 수도 없다고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0253",
+        "origin_text": "난 입 꾹 다물고 고개만 끄덕였습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.02001953125,
+          "file_duration": 5.52001953125,
+          "filename": "F-S2-B-021-0253.wav",
+          "ptr": "난  /  입  /  꾹 다물고  /  고개만  /  끄덕였습니다.",
+          "tr": "난 입 꾹 다물고 고개만 끄덕였습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0254",
+        "origin_text": "입을 벌리면 울음이 터져 나올 것 같아서였습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.32000732421875,
+          "file_duration": 3.82000732421875,
+          "filename": "F-S2-B-021-0254.wav",
+          "ptr": "입을 벌리면  /  울음이 터져 나올 것 같아서였습니다.",
+          "tr": "입을 벌리면 울음이 터져 나올 것 같아서였습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0255",
+        "origin_text": "절대 눈물을 흘리고 싶지 않았는데 눈물이 뺨 위로 줄줄 흘러내렸습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.67999267578125,
+          "file_duration": 8.220002441406251,
+          "filename": "F-S2-B-021-0255.wav",
+          "ptr": "절대  /  눈물을 흘리고 싶지 않았는데  /  눈물이 뺨 위로  /  줄줄 흘러내렸습니다.",
+          "tr": "절대 눈물을 흘리고 싶지 않았는데 눈물이 뺨 위로 줄줄 흘러내렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0256",
+        "origin_text": "아빠 눈에도 눈물이 맺혀 있는 걸 봐 버렸습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.4000244140625,
+          "file_duration": 4.9000244140625,
+          "filename": "F-S2-B-021-0256.wav",
+          "ptr": "아빠 눈에도  /  눈물이 맺혀 있는 걸  /  봐 버렸습니다.",
+          "tr": "아빠 눈에도 눈물이 맺혀 있는 걸 봐 버렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0257",
+        "origin_text": "아빠가 울지 않아서 다행이라고, 나는 그런 생각을 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.32000732421875,
+          "file_duration": 5.82000732421875,
+          "filename": "F-S2-B-021-0257.wav",
+          "ptr": "아빠가 울지 않아서 다행이라고  /  나는  /  그런 생각을 했습니다.",
+          "tr": "아빠가 울지 않아서 다행이라고, 나는 그런 생각을 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0258",
+        "origin_text": "아빠마저 나와 살지 않겠다고 했다면 나는 죽고 싶었을 것이니까요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.02001953125,
+          "file_duration": 6.52001953125,
+          "filename": "F-S2-B-021-0258.wav",
+          "ptr": "아빠마저 나와 살지 않겠다고 했다면  /  나는  /  죽고 싶었을 것이니까요.",
+          "tr": "아빠마저 나와 살지 않겠다고 했다면 나는 죽고 싶었을 것이니까요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0259",
+        "origin_text": "나는 돈 때문에, 엄마가 일하는 게 좋았고, 엄마가 힘들 거라는 생각은 하지 못했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.55999755859375,
+          "file_duration": 10.05999755859375,
+          "filename": "F-S2-B-021-0259.wav",
+          "ptr": "나는  /  돈 때문에  /  엄마가 일하는 게 좋았고  /  엄마가  /  힘들 거라는 생각은  /  하지 못했습니다.",
+          "tr": "나는 돈 때문에, 엄마가 일하는 게 좋았고, 엄마가 힘들 거라는 생각은 하지 못했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0260",
+        "origin_text": "엄마가 울고불고 소리치며 사는 게 힘들다고 할 때에야 알게 되었어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.4000244140625,
+          "file_duration": 6.9000244140625,
+          "filename": "F-S2-B-021-0260.wav",
+          "ptr": "엄마가 울고불고 소리치며  /  사는 게 힘들다고 할 때에야  /  알게 되었어요.",
+          "tr": "엄마가 울고불고 소리치며 사는 게 힘들다고 할 때에야 알게 되었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0261",
+        "origin_text": "내가 사는 변두리 동네에서는 누구네 집이 망했다 하면 학원에서 먼저 알았어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.02001953125,
+          "file_duration": 7.52001953125,
+          "filename": "F-S2-B-021-0261.wav",
+          "ptr": "내가 사는 변두리 동네에서는  /  누구네 집이 망했다 하면  /  학원에서 먼저 알았어요.",
+          "tr": "내가 사는 변두리 동네에서는 누구네 집이 망했다 하면 학원에서 먼저 알았어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0262",
+        "origin_text": "학원을 끊고 나면 며칠 뒤 그 아이네 집은 어김없이 동네를 떠나 이사를 가 버렸지요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.239990234375,
+          "file_duration": 9.739990234375,
+          "filename": "F-S2-B-021-0262.wav",
+          "ptr": "학원을 끊고 나면  /  며칠 뒤 그 아이네 집은  /  어김없이  /  동네를 떠나  /  이사를 가 버렸지요.",
+          "tr": "학원을 끊고 나면 며칠 뒤 그 아이네 집은 어김없이 동네를 떠나 이사를 가 버렸지요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0263",
+        "origin_text": "나 역시 학원을 끊자마자 이렇게 시골로 온 것입니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.6400146484375,
+          "file_duration": 6.1400146484375,
+          "filename": "F-S2-B-021-0263.wav",
+          "ptr": "나 역시  /  학원을 끊자마자  /  이렇게  /  시골로 온 것입니다.",
+          "tr": "나 역시 학원을 끊자마자 이렇게 시골로 온 것입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0264",
+        "origin_text": "아빠는 회사에서 잘렸고, 퇴직금은 얼마 안 된다고 하니 앞으로 돈이 없을 거예요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.699951171875,
+          "file_duration": 8.199951171875,
+          "filename": "F-S2-B-021-0264.wav",
+          "ptr": "아빠는 회사에서 잘렸고  /  퇴직금은  /  얼마 안 된다고 하니  /  앞으로 돈이 없을 거예요.",
+          "tr": "아빠는 회사에서 잘렸고, 퇴직금은 얼마 안 된다고 하니 앞으로 돈이 없을 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0265",
+        "origin_text": "서울에서나 시골에서나 나로서는 돈이 없다는 게 가장 큰 걱정거리였습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.419921875,
+          "file_duration": 7.919921875,
+          "filename": "F-S2-B-021-0265.wav",
+          "ptr": "서울에서나 시골에서나  /  나로서는  /  돈이 없다는 게  /  가장 큰 걱정거리였습니다.",
+          "tr": "서울에서나 시골에서나 나로서는 돈이 없다는 게 가장 큰 걱정거리였습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0266",
+        "origin_text": "사실 하영이는 아빠 얼굴도 알지 못하니까요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.5,
+          "file_duration": 6,
+          "filename": "F-S2-B-021-0266.wav",
+          "ptr": "사실  /  하영이는  /  아빠 얼굴도  /  알지 못하니까요.",
+          "tr": "사실 하영이는 아빠 얼굴도 알지 못하니까요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0267",
+        "origin_text": "앨범에도 집 안 그 어디에도 아빠 사진은 한 장도 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.2000732421875,
+          "file_duration": 6.7000732421875,
+          "filename": "F-S2-B-021-0267.wav",
+          "ptr": "앨범에도  /  집 안 그 어디에도  /  아빠 사진은  /  한 장도 없었습니다.",
+          "tr": "앨범에도 집 안 그 어디에도 아빠 사진은 한 장도 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0268",
+        "origin_text": "아빠의 흔적이 하나도 없다니 참 이상한 일이지요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.4400634765625,
+          "file_duration": 5.9400634765625,
+          "filename": "F-S2-B-021-0268.wav",
+          "ptr": "아빠의 흔적이  /  하나도 없다니  /  참  /  이상한 일이지요.",
+          "tr": "아빠의 흔적이 하나도 없다니 참 이상한 일이지요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0269",
+        "origin_text": "어릴 때는 엄마를 붙들고 아빠 어디 숨겼느냐고 징징거리며 떼를 쓰기도 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.9000244140625,
+          "file_duration": 8.4000244140625,
+          "filename": "F-S2-B-021-0269.wav",
+          "ptr": "어릴 때는  /  엄마를 붙들고  /  아빠 어디 숨겼느냐고  /  징징거리며 떼를 쓰기도 했습니다.",
+          "tr": "어릴 때는 엄마를 붙들고 아빠 어디 숨겼느냐고 징징거리며 떼를 쓰기도 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0270",
+        "origin_text": "어느 날, 아빠는 돌아가신 게 아니냐고 하영이가 캐묻자 엄마는 당황한 듯이 이렇게 말했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.10009765625,
+          "file_duration": 9.60009765625,
+          "filename": "F-S2-B-021-0270.wav",
+          "ptr": "어느 날  /  아빠는 돌아가신 게 아니냐고  /  하영이가 캐묻자  /  엄마는  /  당황한 듯이  /  이렇게 말했습니다.",
+          "tr": "어느 날, 아빠는 돌아가신 게 아니냐고 하영이가 캐묻자 엄마는 당황한 듯이 이렇게 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0271",
+        "origin_text": "그 뒤로는 게으름이 나서 공부를 그만큼 열심히 하지 않게 되었고 당연히 성적은 떨어졌습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.9599609375,
+          "file_duration": 9.4599609375,
+          "filename": "F-S2-B-021-0271.wav",
+          "ptr": "그 뒤로는  /  게으름이 나서  /  공부를 그만큼 열심히 하지 않게 되었고  /  당연히  /  성적은 떨어졌습니다.",
+          "tr": "그 뒤로는 게으름이 나서 공부를 그만큼 열심히 하지 않게 되었고 당연히 성적은 떨어졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0272",
+        "origin_text": "화장을 지우고 난 엄마 눈자위가 발개져 있는 걸 하영이는 눈치채지 못했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.9400634765625,
+          "file_duration": 8.4400634765625,
+          "filename": "F-S2-B-021-0272.wav",
+          "ptr": "화장을 지우고  /  난 엄마 눈자위가  /  발개져 있는 걸  /  하영이는  /  눈치채지 못했습니다.",
+          "tr": "화장을 지우고 난 엄마 눈자위가 발개져 있는 걸 하영이는 눈치채지 못했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0273",
+        "origin_text": "1초 1초가 가시로 찌르듯이 아프게 따끔거리며 시간이 흘렀습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.159912109375,
+          "file_duration": 7.659912109375,
+          "filename": "F-S2-B-021-0273.wav",
+          "ptr": "일 초 일 초가  /  가시로 찌르듯이  /  아프게 따끔거리며  /  시간이 흘렀습니다.",
+          "tr": "일 초 일 초가 가시로 찌르듯이 아프게 따끔거리며 시간이 흘렀습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0274",
+        "origin_text": "아저씨는 아무 대답이 없었어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.760009765625,
+          "file_duration": 3.260009765625,
+          "filename": "F-S2-B-021-0274.wav",
+          "ptr": "아저씨는  /  아무 대답이 없었어요.",
+          "tr": "아저씨는 아무 대답이 없었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0275",
+        "origin_text": "우두커니 선 채 보자기 위로 올라오는 하얀 김을 바라보기만 했지요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.47998046875,
+          "file_duration": 7.009956054687507,
+          "filename": "F-S2-B-021-0275.wav",
+          "ptr": "우두커니 선 채  /  보자기 위로 올라오는  /  하얀 김을  /  바라보기만 했지요.",
+          "tr": "우두커니 선 채 보자기 위로 올라오는 하얀 김을 바라보기만 했지요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0276",
+        "origin_text": "두부 냄새만이라도 호주머니에 담아 가려는 사람처럼 말이에요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.4599609375,
+          "file_duration": 4.93994140625,
+          "filename": "F-S2-B-021-0276.wav",
+          "ptr": "두부 냄새만이라도  /  호주머니에 담아 가려는 사람처럼 말이에요.",
+          "tr": "두부 냄새만이라도 호주머니에 담아 가려는 사람처럼 말이에요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0277",
+        "origin_text": "그냥 돌아가기가 서운했던지, 두부 장수는 아저씨에게 김이 모락모락 나는 두부 한 모를 들려 주었어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.9400634765625,
+          "file_duration": 9.4400634765625,
+          "filename": "F-S2-B-021-0277.wav",
+          "ptr": "그냥 돌아가기가 서운했던지  /  두부 장수는  /  아저씨에게  /  김이 모락모락 나는 두부 한 모를  /  들려 주었어요.",
+          "tr": "그냥 돌아가기가 서운했던지, 두부 장수는 아저씨에게 김이 모락모락 나는 두부 한 모를 들려 주었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0278",
+        "origin_text": "아저씨는 두부를 손에 든 채 트럭 꽁무니가 보이지 않을 때까지 바라보고 있었어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.4000244140625,
+          "file_duration": 7.9000244140625,
+          "filename": "F-S2-B-021-0278.wav",
+          "ptr": "아저씨는  /  두부를 손에 든 채  /  트럭 꽁무니가 보이지 않을 때까지  /  바라보고 있었어요.",
+          "tr": "아저씨는 두부를 손에 든 채 트럭 꽁무니가 보이지 않을 때까지 바라보고 있었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0279",
+        "origin_text": "다음 날도 아저씨는 하루 내내 의자에 앉아 있었어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.02001953125,
+          "file_duration": 6.52001953125,
+          "filename": "F-S2-B-021-0279.wav",
+          "ptr": "다음 날도  /  아저씨는  /  하루 내내  /  의자에 앉아 있었어요.",
+          "tr": "다음 날도 아저씨는 하루 내내 의자에 앉아 있었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0280",
+        "origin_text": "잠시라도 눈을 돌리면 큰일 날 것처럼 줄곧 지나가는 사람들을 한 명 한 명 확인하는 것 같았지요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.280029296875,
+          "file_duration": 9.810000000000002,
+          "filename": "F-S2-B-021-0280.wav",
+          "ptr": "잠시라도 눈을 돌리면  /  큰일 날 것처럼  /  줄곧 지나가는 사람들을  /  한 명 한 명  /  확인하는 것 같았지요.",
+          "tr": "잠시라도 눈을 돌리면 큰일 날 것처럼 줄곧 지나가는 사람들을 한 명 한 명 확인하는 것 같았지요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0281",
+        "origin_text": "아저씨는 추위에 부르르 떠는 것 같았고, 나는 침대 위에 누워 있는데 자꾸 아저씨 생각이 났어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 10.300048828125,
+          "file_duration": 10.800048828125,
+          "filename": "F-S2-B-021-0281.wav",
+          "ptr": "아저씨는  /  추위에 부르르 떠는 것 같았고  /  나는  /  침대 위에 누워 있는데  /  자꾸  /  아저씨 생각이 났어요.",
+          "tr": "아저씨는 추위에 부르르 떠는 것 같았고, 나는 침대 위에 누워 있는데 자꾸 아저씨 생각이 났어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0282",
+        "origin_text": "이를 어째, 따끈따끈한 두부를 발견하고 말았어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.419921875,
+          "file_duration": 4.919921875,
+          "filename": "F-S2-B-021-0282.wav",
+          "ptr": "이를 어째  /  따끈따끈한 두부를 발견하고 말았어요.",
+          "tr": "이를 어째, 따끈따끈한 두부를 발견하고 말았어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0283",
+        "origin_text": "집에 와서 맛있는 김치찌개를 먹는데, 자꾸 아저씨가 생각났어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.7799072265625,
+          "file_duration": 7.299941406250014,
+          "filename": "F-S2-B-021-0283.wav",
+          "ptr": "집에 와서  /  맛있는 김치찌개를 먹는데  /  자꾸  /  아저씨가 생각났어요.",
+          "tr": "집에 와서 맛있는 김치찌개를 먹는데, 자꾸 아저씨가 생각났어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0284",
+        "origin_text": "그렇다고 엄마에게 김치찌개 좀 달라고, 아저씨 약 사 달라고 조를 수는 없는 일이었지요, 우리 엄마는 부녀회에서 결정된 것이라면 절대 어기는 일이 없거든요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 14.89990234375,
+          "file_duration": 15.39990234375,
+          "filename": "F-S2-B-021-0284.wav",
+          "ptr": "그렇다고  /  엄마에게 김치찌개 좀 달라고  /  아저씨 약 사 달라고 조를 수는  /  없는 일이었지요  /  우리 엄마는  /  부녀회에서 결정된 것이라면  /  절대 어기는 일이 없거든요.",
+          "tr": "그렇다고 엄마에게 김치찌개 좀 달라고, 아저씨 약 사 달라고 조를 수는 없는 일이었지요, 우리 엄마는 부녀회에서 결정된 것이라면 절대 어기는 일이 없거든요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0285",
+        "origin_text": "나는 고양이를 말리려고 손을 뻗었지만, 허우적거리기만 할 뿐 꼼짝할 수가 없는 거예요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.199951171875,
+          "file_duration": 9.699951171875,
+          "filename": "F-S2-B-021-0285.wav",
+          "ptr": "나는  /  고양이를 말리려고  /  손을 뻗었지만  /  허우적거리기만 할 뿐  /  꼼짝할 수가 없는 거예요.",
+          "tr": "나는 고양이를 말리려고 손을 뻗었지만, 허우적거리기만 할 뿐 꼼짝할 수가 없는 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0286",
+        "origin_text": "이번에는 울먹거리며 사정하는 목소리가 들렸는데, 나는 목소리 주인을 단번에 기억할 수 있었어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.760009765625,
+          "file_duration": 9.260009765625,
+          "filename": "F-S2-B-021-0286.wav",
+          "ptr": "이번에는  /  울먹거리며 사정하는 목소리가 들렸는데  /  나는  /  목소리 주인을  /  단번에 기억할 수 있었어요.",
+          "tr": "이번에는 울먹거리며 사정하는 목소리가 들렸는데, 나는 목소리 주인을 단번에 기억할 수 있었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0287",
+        "origin_text": "글쎄, 고양이만 탁자 밑에 앉아서는 여전히 등을 둥그렇게 말고 나를 빤히 쳐다보고 있었지요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.5,
+          "file_duration": 10,
+          "filename": "F-S2-B-021-0287.wav",
+          "ptr": "글쎄  /  고양이만 탁자 밑에 앉아서는  /  여전히 등을 둥그렇게 말고  /  나를  /  빤히 쳐다보고 있었지요.",
+          "tr": "글쎄, 고양이만 탁자 밑에 앉아서는 여전히 등을 둥그렇게 말고 나를 빤히 쳐다보고 있었지요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0288",
+        "origin_text": "나는 안절부절못하며 거실을 왔다 갔다 했어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.219970703125,
+          "file_duration": 5.719970703125,
+          "filename": "F-S2-B-021-0288.wav",
+          "ptr": "나는  /  안절부절못하며  /  거실을 왔다 갔다 했어요.",
+          "tr": "나는 안절부절못하며 거실을 왔다 갔다 했어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0289",
+        "origin_text": "동재 사진을 보면서, 지금이라도 고모를 위로할 방법을 찾고 싶었어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.8199462890625,
+          "file_duration": 7.3199462890625,
+          "filename": "F-S2-B-021-0289.wav",
+          "ptr": "동재 사진을 보면서  /  지금이라도  /  고모를 위로할 방법을  /  찾고 싶었어요.",
+          "tr": "동재 사진을 보면서, 지금이라도 고모를 위로할 방법을 찾고 싶었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0290",
+        "origin_text": "액자를 발견한 고모부의 두 눈이 커다랗게 변했어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.3599853515625,
+          "file_duration": 4.8599853515625,
+          "filename": "F-S2-B-021-0290.wav",
+          "ptr": "액자를 발견한 고모부의 두 눈이  /  커다랗게 변했어요.",
+          "tr": "액자를 발견한 고모부의 두 눈이 커다랗게 변했어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0291",
+        "origin_text": "지난번 PC방에서 잡혔을 때 반절이나 깎여 버린 용돈인데, 이제는 아예 없애 버린다고 다짐까지 받아 두었으니, 눈앞이 아찔했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 13.0400390625,
+          "file_duration": 13.5400390625,
+          "filename": "F-S2-B-021-0291.wav",
+          "ptr": "지난번 피씨방에서 잡혔을 때  /  반절이나 깎여 버린 용돈인데  /  이제는  /  아예 없애 버린다고  /  다짐까지 받아 두었으니  /  눈앞이  /  아찔했습니다.",
+          "tr": "지난번 피씨방에서 잡혔을 때 반절이나 깎여 버린 용돈인데, 이제는 아예 없애 버린다고 다짐까지 받아 두었으니, 눈앞이 아찔했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0292",
+        "origin_text": "갑자기 주눅이 들었어요, 그토록 당당하던 용기가 금세 사라져 버리는 거예요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.4400634765625,
+          "file_duration": 7.9400634765625,
+          "filename": "F-S2-B-021-0292.wav",
+          "ptr": "갑자기 주눅이 들었어요  /  그토록  /  당당하던 용기가  /  금세  /  사라져 버리는 거예요.",
+          "tr": "갑자기 주눅이 들었어요, 그토록 당당하던 용기가 금세 사라져 버리는 거예요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0293",
+        "origin_text": "나는 빛나는 간판에서 두 눈을 뗄 수밖에 없었어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.4801025390625,
+          "file_duration": 5.9801025390625,
+          "filename": "F-S2-B-021-0293.wav",
+          "ptr": "나는  /  빛나는 간판에서  /  두 눈을 뗄 수밖에 없었어요.",
+          "tr": "나는 빛나는 간판에서 두 눈을 뗄 수밖에 없었어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0294",
+        "origin_text": "고개를 숙이고, 어깨도 축 늘어뜨린 채 어슬렁어슬렁 PC방 앞을 왔다 갔다 하고, 또 한 번 왔다 갔다 했어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.9200439453125,
+          "file_duration": 10.4200439453125,
+          "filename": "F-S2-B-021-0294.wav",
+          "ptr": "고개를 숙이고  /  어깨도 축 늘어뜨린 채  /  어슬렁어슬렁 피씨방 앞을 왔다 갔다 하고  /  또 한 번  /  왔다 갔다 했어요.",
+          "tr": "고개를 숙이고, 어깨도 축 늘어뜨린 채 어슬렁어슬렁 피씨방 앞을 왔다 갔다 하고, 또 한 번 왔다 갔다 했어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0295",
+        "origin_text": "지나가는 사람들이 흘금흘금 바라보았지만, 용기가 나지 않았어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.9000244140625,
+          "file_duration": 6.4000244140625,
+          "filename": "F-S2-B-021-0295.wav",
+          "ptr": "지나가는 사람들이  /  흘금흘금 바라보았지만  /  용기가 나지 않았어요.",
+          "tr": "지나가는 사람들이 흘금흘금 바라보았지만, 용기가 나지 않았어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0296",
+        "origin_text": "요즘 들어 엄마를 계속 화나게 했는데, 또다시 약속을 어길 수 없을 것 같았거든요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.4200439453125,
+          "file_duration": 6.9200439453125,
+          "filename": "F-S2-B-021-0296.wav",
+          "ptr": "요즘 들어  /  엄마를 계속 화나게 했는데  /  또다시 약속을 어길 수 없을 것 같았거든요.",
+          "tr": "요즘 들어 엄마를 계속 화나게 했는데, 또다시 약속을 어길 수 없을 것 같았거든요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0297",
+        "origin_text": "휴, 큰 한숨 한 번 쉬고는 아파트 쪽으로 발길을 돌렸어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.0599365234375,
+          "file_duration": 6.5599365234375,
+          "filename": "F-S2-B-021-0297.wav",
+          "ptr": "휴  /  큰 한숨 한 번 쉬고는  /  아파트 쪽으로 발길을 돌렸어요.",
+          "tr": "휴, 큰 한숨 한 번 쉬고는 아파트 쪽으로 발길을 돌렸어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0298",
+        "origin_text": "철민이의 말처럼 자전거가 형편없는 고물 같았어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.300048828125,
+          "file_duration": 5.800048828125,
+          "filename": "F-S2-B-021-0298.wav",
+          "ptr": "철민이의 말처럼  /  자전거가  /  형편없는 고물 같았어요.",
+          "tr": "철민이의 말처럼 자전거가 형편없는 고물 같았어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0299",
+        "origin_text": "영감의 말을 듣고 농부는 억울하다는 생각이 들었지만, 영감의 말도 맞는 것 같았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.93994140625,
+          "file_duration": 8.43994140625,
+          "filename": "F-S2-B-021-0299.wav",
+          "ptr": "영감의 말을 듣고  /  농부는  /  억울하다는 생각이 들었지만  /  영감의 말도  /  맞는 것 같았습니다.",
+          "tr": "영감의 말을 듣고 농부는 억울하다는 생각이 들었지만, 영감의 말도 맞는 것 같았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0300",
+        "origin_text": "착한 농부는 신기한 항아리를 영감에게 줘야겠다고 마음먹었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.6900634765625,
+          "file_duration": 7.1900634765625,
+          "filename": "F-S2-B-021-0300.wav",
+          "ptr": "착한 농부는  /  신기한 항아리를  /  영감에게 줘야겠다고  /  마음먹었습니다.",
+          "tr": "착한 농부는 신기한 항아리를 영감에게 줘야겠다고 마음먹었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 50,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 506.3100680272109,
+      "filename": "/data2/gst-voice/splitted/F/021/F-S202-P06-B-021.wav",
+      "recorded_at": "2022-09-20 09:12:53",
+      "sample_rate": 44100
+    }
+  }
+]

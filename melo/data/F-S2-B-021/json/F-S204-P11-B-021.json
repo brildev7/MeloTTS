@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "F-S204-P11-B-021",
+    "import": {
+      "author": "한국어읽기연구회",
+      "book_title": "외국인을 위한 한국어 읽기 33",
+      "country": "한국",
+      "id": "F0084",
+      "publish_year": 2013,
+      "times_bg": "근대",
+      "title": "홍길동전",
+      "translator": ""
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 1322,
+      "id": "F-S204",
+      "normalized": [
+        "군사들은 어느새 손과 발이 묶여 있었습니다.",
+        "저를 묶어서 한양으로 보내십시오.",
+        "제가 못난 자식을 두어 임금께 죄를 지었습니다.",
+        "그런데 크게 꾸짖으시니 제가 목숨을 끊겠습니다.",
+        "길동이 지금 가도 살아 계신 아버지를 만날 수 없었습니다.",
+        "율도국 장수가 먼저 나와서 열심히 싸웠지만, 홍길동의 장수와 병사를 이길 수 없었습니다.",
+        "먹을 것이 없어 굶어 죽는 사람도 많아졌습니다.",
+        "노인이 아들의 친구는 조씨라는 청년과 싸우다 죽었습니다라고 말했습니다.",
+        "아들은 옆에서 싸움을 말렸을 뿐인데 관리들이 제 아들이 친구를 죽였다고 합니다.",
+        "제 아들을 살인범이라며 잡아가서 감옥에 가두었습니다.",
+        "왜냐하면 조씨가 원님의 친척이기 때문이니 억울하기 짝이 없습니다.",
+        "나는 조씨와 싸우다 죽은 사람입니다.",
+        "잡혀온 조씨는 원님에게 억울하다고 했습니다.",
+        "전우치가 내려가서 울고 있는 이유를 물었더니 남자가 눈물을 흘리며 대답했습니다.",
+        "아버지께서 돌아가셨는데 장례를 치를 돈이 없습니다.",
+        "남자는 너무 놀라서 그 자리에 주저앉았습니다.",
+        "남자는 눈물을 흘리며 용서를 빌었습니다.",
+        "하인들이 울면서 부인께서 돌아가셨는데 이유를 모르겠습니다하는 것이었습니다.",
+        "도둑들은 전우치에게 무릎을 꿇고 살려 달라고 했습니다.",
+        "임금님께서 저를 죽이신다면 저는 죽을 수밖에 없겠지요.",
+        "괴물이 아내를 죽였고 저는 살았지만 동해까지 갈 힘이 없습니다.",
+        "장원 부부는 해룡이 있던 곳을 살폈지만 아무리 찾아도 해룡은 없었습니다.",
+        "그런데 그날 밤 묵손의 집에 갑자기 불이 나서 모두 타 버렸습니다.",
+        "매일 해룡을 그리워하다가 몸이 안 좋아졌기 때문이었습니다.",
+        "자식을 잃었는데 어떻게 오래 살겠습니까?",
+        "장삼이 죽자 해룡을 도와줄 사람은 아무도 없었습니다.",
+        "해룡을 때릴 때마다 아들이 아프다며 쓰러졌습니다.",
+        "나라가 어려운데 어떻게 편하게 있겠습니까?",
+        "해룡이 말을 돌려 달아나려고 했지만 떨어진 바위 때문에 움직일 수가 없었습니다.",
+        "박씨는 슬퍼서 아무 일도 하지 않고 방 안에서 밥만 먹고 잠만 잤습니다.",
+        "시백은 큰 병에 걸린 사람처럼 먹지도 못하고 몸이 말랐습니다.",
+        "부모와 집안 식구들은 시백이 병이 났다고 걱정했습니다.",
+        "공주는 죽여 달라며 눈물을 흘렸습니다.",
+        "청나라 장군이 제발 살려 주십시오하며 손이 발이 되도록 빌었습니다.",
+        "청나라 장군은 할 수 없이 피화당에서 멀리 물러나며 괜히 여자들을 공격하다가 병사들만 죽였구나하며 크게 후회했습니다.",
+        "임경업은 편지를 보고 통곡하며 홀연히 사라졌습니다.",
+        "궁궐로 돌아온 임금은 박씨의 말을 듣지 않은 것을 후회했습니다.",
+        "온 나라 사람들이 박씨 부인의 죽음을 슬퍼했습니다.",
+        "여인이 먼저 부처님에게 세 번 절을 하고 나서 슬픈 얼굴로 글을 적은 종이를 부처님에게 바쳤습니다.",
+        "저는 지난번 적군이 쳐들어왔을 때 가족들과 헤어져 삼 년 동안이나 산골짜기에서 외롭게 지냈습니다.",
+        "하지만 이제 저승으로 가야 하고 지금 헤어지면 다시는 만날 수 없어요.",
+        "여인이 눈물을 흘리며 이별하게 되어서 너무 가슴이 아파요하고 말했습니다.",
+        "여인을 저승으로 보내는 제사가 시작되자 법당 안에서 여인의 부모와 친척들이 슬프게 울었습니다.",
+        "양생은 여인이 불쌍하고 그리워서 통곡을 했습니다.",
+        "최씨는 여종의 말을 듣고 병이 났습니다.",
+        "최씨는 이생이 왜 시골에 가서 오지 않는지 알 수가 없었고 병은 점점 심해졌습니다.",
+        "최씨는 일어나 앉기는커녕 음식을 먹지 못하고 물도 마시지 못했습니다.",
+        "저는 모든 게 두려워서 아무에게도 말하지 못하고 병이 났어요.",
+        "최씨의 부모는 딸이 죽을까 봐 걱정이 되었습니다.",
+        "사람들은 적이 무서워서 집을 버리고 떠났습니다."
+      ],
+      "origin": [
+        "군사들은 어느새 손과 발이 묶여 있었습니다.",
+        "저를 묶어서 한양으로 보내십시오.",
+        "제가 못난 자식을 두어 임금께 죄를 지었습니다.",
+        "그런데 크게 꾸짖으시니 제가 목숨을 끊겠습니다.",
+        "길동이 지금 가도 살아 계신 아버지를 만날 수 없었습니다.",
+        "율도국 장수가 먼저 나와서 열심히 싸웠지만, 홍길동의 장수와 병사를 이길 수 없었습니다.",
+        "먹을 것이 없어 굶어 죽는 사람도 많아졌습니다.",
+        "노인이 \"아들의 친구는 조씨라는 청년과 싸우다 죽었습니다\"라고 말했습니다.",
+        "아들은 옆에서 싸움을 말렸을 뿐인데 관리들이 제 아들이 친구를 죽였다고 합니다.",
+        "제 아들을 살인범이라며 잡아가서 감옥에 가두었습니다.",
+        "왜냐하면 조씨가 원님의 친척이기 때문이니 억울하기 짝이 없습니다.",
+        "나는 조씨와 싸우다 죽은 사람입니다.",
+        "잡혀온 조씨는 원님에게 억울하다고 했습니다. ",
+        "전우치가 내려가서 울고 있는 이유를 물었더니 남자가 눈물을 흘리며 대답했습니다.",
+        "아버지께서 돌아가셨는데 장례를 치를 돈이 없습니다.",
+        "남자는 너무 놀라서 그 자리에 주저앉았습니다. ",
+        "남자는 눈물을 흘리며 용서를 빌었습니다. ",
+        "하인들이 울면서 \"부인께서 돌아가셨는데 이유를 모르겠습니다\"하는 것이었습니다.",
+        "도둑들은 전우치에게 무릎을 꿇고 살려 달라고 했습니다.",
+        "임금님께서 저를 죽이신다면 저는 죽을 수밖에 없겠지요.",
+        "괴물이 아내를 죽였고 저는 살았지만 동해까지 갈 힘이 없습니다.",
+        "장원 부부는 해룡이 있던 곳을 살폈지만 아무리 찾아도 해룡은 없었습니다.",
+        "그런데 그날 밤 묵손의 집에 갑자기 불이 나서 모두 타 버렸습니다.",
+        "매일 해룡을 그리워하다가 몸이 안 좋아졌기 때문이었습니다. ",
+        "자식을 잃었는데 어떻게 오래 살겠습니까? ",
+        "장삼이 죽자 해룡을 도와줄 사람은 아무도 없었습니다. ",
+        "해룡을 때릴 때마다 아들이 아프다며 쓰러졌습니다.",
+        "나라가 어려운데 어떻게 편하게 있겠습니까?",
+        "해룡이 말을 돌려 달아나려고 했지만 떨어진 바위 때문에 움직일 수가 없었습니다.",
+        "박씨는 슬퍼서 아무 일도 하지 않고 방 안에서 밥만 먹고 잠만 잤습니다.",
+        "시백은 큰 병에 걸린 사람처럼 먹지도 못하고 몸이 말랐습니다.",
+        "부모와 집안 식구들은 시백이 병이 났다고 걱정했습니다.",
+        "공주는 죽여 달라며 눈물을 흘렸습니다.",
+        "청나라 장군이 “제발 살려 주십시오”하며 손이 발이 되도록 빌었습니다.",
+        "청나라 장군은 할 수 없이 피화당에서 멀리 물러나며 ‘괜히 여자들을 공격하다가 병사들만 죽였구나'하며 크게 후회했습니다.",
+        "임경업은 편지를 보고 통곡하며 홀연히 사라졌습니다.",
+        "궁궐로 돌아온 임금은 박씨의 말을 듣지 않은 것을 후회했습니다. ",
+        "온 나라 사람들이 박씨 부인의 죽음을 슬퍼했습니다.",
+        "여인이 먼저 부처님에게 세 번 절을 하고 나서 슬픈 얼굴로 글을 적은 종이를 부처님에게 바쳤습니다.",
+        "저는 지난번 적군이 쳐들어왔을 때 가족들과 헤어져 삼 년 동안이나 산골짜기에서 외롭게 지냈습니다.",
+        "하지만 이제 저승으로 가야 하고 지금 헤어지면 다시는 만날 수 없어요.",
+        "여인이 눈물을 흘리며 \"이별하게 되어서 너무 가슴이 아파요\"하고 말했습니다. ",
+        "여인을 저승으로 보내는 제사가 시작되자 법당 안에서 여인의 부모와 친척들이 슬프게 울었습니다.",
+        "양생은 여인이 불쌍하고 그리워서 통곡을 했습니다.",
+        "최씨는 여종의 말을 듣고 병이 났습니다.",
+        "최씨는 이생이 왜 시골에 가서 오지 않는지 알 수가 없었고 병은 점점 심해졌습니다.",
+        "최씨는 일어나 앉기는커녕 음식을 먹지 못하고 물도 마시지 못했습니다.",
+        "저는 모든 게 두려워서 아무에게도 말하지 못하고 병이 났어요.",
+        "최씨의 부모는 딸이 죽을까 봐 걱정이 되었습니다.",
+        "사람들은 적이 무서워서 집을 버리고 떠났습니다."
+      ],
+      "part_no": 11,
+      "tokens_count": 408
+    },
+    "sentences": [
+      {
+        "id": "F-S2-B-021-0501",
+        "origin_text": "군사들은 어느새 손과 발이 묶여 있었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.459991455078125,
+          "file_duration": 3.959991455078125,
+          "filename": "F-S2-B-021-0501.wav",
+          "ptr": "군사들은  /  어느새 손과 발이 묶여 있었습니다.",
+          "tr": "군사들은 어느새 손과 발이 묶여 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0502",
+        "origin_text": "저를 묶어서 한양으로 보내십시오.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.220001220703125,
+          "file_duration": 3.720001220703125,
+          "filename": "F-S2-B-021-0502.wav",
+          "ptr": "저를 묶어서  /  한양으로 보내십시오.",
+          "tr": "저를 묶어서 한양으로 보내십시오."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0503",
+        "origin_text": "제가 못난 자식을 두어 임금께 죄를 지었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.91998291015625,
+          "file_duration": 5.41998291015625,
+          "filename": "F-S2-B-021-0503.wav",
+          "ptr": "제가 못난 자식을 두어  /  임금께  /  죄를 지었습니다.",
+          "tr": "제가 못난 자식을 두어 임금께 죄를 지었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0504",
+        "origin_text": "그런데 크게 꾸짖으시니 제가 목숨을 끊겠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.180023193359375,
+          "file_duration": 6.680023193359375,
+          "filename": "F-S2-B-021-0504.wav",
+          "ptr": "그런데  /  크게  /  꾸짖으시니  /  제가  /  목숨을 끊겠습니다.",
+          "tr": "그런데 크게 꾸짖으시니 제가 목숨을 끊겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0505",
+        "origin_text": "길동이 지금 가도 살아 계신 아버지를 만날 수 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.160003662109375,
+          "file_duration": 4.660003662109375,
+          "filename": "F-S2-B-021-0505.wav",
+          "ptr": "길동이 지금 가도 살아 계신 아버지를  /  만날 수 없었습니다.",
+          "tr": "길동이 지금 가도 살아 계신 아버지를 만날 수 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0506",
+        "origin_text": "율도국 장수가 먼저 나와서 열심히 싸웠지만, 홍길동의 장수와 병사를 이길 수 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.15997314453125,
+          "file_duration": 9.65997314453125,
+          "filename": "F-S2-B-021-0506.wav",
+          "ptr": "율도국 장수가  /  먼저 나와서  /  열심히 싸웠지만  /  홍길동의 장수와 병사를  /  이길 수 없었습니다.",
+          "tr": "율도국 장수가 먼저 나와서 열심히 싸웠지만, 홍길동의 장수와 병사를 이길 수 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0507",
+        "origin_text": "먹을 것이 없어 굶어 죽는 사람도 많아졌습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.8800048828125,
+          "file_duration": 4.420000000000002,
+          "filename": "F-S2-B-021-0507.wav",
+          "ptr": "먹을 것이 없어 굶어 죽는 사람도  /  많아졌습니다.",
+          "tr": "먹을 것이 없어 굶어 죽는 사람도 많아졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0508",
+        "origin_text": "노인이 \"아들의 친구는 조씨라는 청년과 싸우다가 죽었습니다\"라고 말했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.399993896484375,
+          "file_duration": 6.939999999999998,
+          "filename": "F-S2-B-021-0508.wav",
+          "ptr": "노인이 아들의 친구는  /  조씨라는 청년과  /  싸우다가 죽었습니다라고  /  말했습니다.",
+          "tr": "노인이 아들의 친구는 조씨라는 청년과 싸우다가 죽었습니다라고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0509",
+        "origin_text": "아들은 옆에서 싸움을 말렸을 뿐인데 관리들이 제 아들이 친구를 죽였다고 합니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8,
+          "file_duration": 8.540009765625001,
+          "filename": "F-S2-B-021-0509.wav",
+          "ptr": "아들은  /  옆에서 싸움을 말렸을 뿐인데  /  관리들이  /  제 아들이  /  친구를 죽였다고 합니다.",
+          "tr": "아들은 옆에서 싸움을 말렸을 뿐인데 관리들이 제 아들이 친구를 죽였다고 합니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0510",
+        "origin_text": "제 아들을 살인범이라며 잡아가서 감옥에 가두었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.47998046875,
+          "file_duration": 5.97998046875,
+          "filename": "F-S2-B-021-0510.wav",
+          "ptr": "제 아들을  /  살인범이라며  /  잡아가서  /  감옥에 가두었습니다.",
+          "tr": "제 아들을 살인범이라며 잡아가서 감옥에 가두었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0511",
+        "origin_text": "왜냐하면 조씨가 원님의 친척이기 때문이니 억울하기 짝이 없습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.82000732421875,
+          "file_duration": 7.32000732421875,
+          "filename": "F-S2-B-021-0511.wav",
+          "ptr": "왜냐하면  /  조씨가 원님의 친척이기 때문이니  /  억울하기 짝이 없습니다.",
+          "tr": "왜냐하면 조씨가 원님의 친척이기 때문이니 억울하기 짝이 없습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0512",
+        "origin_text": "나는 조씨와 싸우다 죽은 사람입니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.5,
+          "file_duration": 4.050004882812502,
+          "filename": "F-S2-B-021-0512.wav",
+          "ptr": "나는  /  조씨와 싸우다 죽은 사람입니다.",
+          "tr": "나는 조씨와 싸우다 죽은 사람입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0513",
+        "origin_text": "잡혀온 조씨는 원님에게 억울하다고 했습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.760009765625,
+          "file_duration": 4.340000000000003,
+          "filename": "F-S2-B-021-0513.wav",
+          "ptr": "잡혀온 조씨는  /  원님에게 억울하다고 했습니다.",
+          "tr": "잡혀온 조씨는 원님에게 억울하다고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0514",
+        "origin_text": "전우치가 내려가서 울고 있는 이유를 물었더니 남자가 눈물을 흘리며 대답했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.97998046875,
+          "file_duration": 8.499991455078131,
+          "filename": "F-S2-B-021-0514.wav",
+          "ptr": "전우치가 내려가서 울고 있는 이유를 물었더니  /  남자가  /  눈물을 흘리며  /  대답했습니다.",
+          "tr": "전우치가 내려가서 울고 있는 이유를 물었더니 남자가 눈물을 흘리며 대답했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0515",
+        "origin_text": "아버지께서 돌아가셨는데 장례를 치를 돈이 없습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.55999755859375,
+          "file_duration": 5.05999755859375,
+          "filename": "F-S2-B-021-0515.wav",
+          "ptr": "아버지께서 돌아가셨는데  /  장례를 치를 돈이 없습니다.",
+          "tr": "아버지께서 돌아가셨는데 장례를 치를 돈이 없습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0516",
+        "origin_text": "남자는 너무 놀라서 그 자리에 주저앉았습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.94000244140625,
+          "file_duration": 5.459971923828121,
+          "filename": "F-S2-B-021-0516.wav",
+          "ptr": "남자는  /  너무 놀라서  /  그 자리에  /  주저앉았습니다.",
+          "tr": "남자는 너무 놀라서 그 자리에 주저앉았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0517",
+        "origin_text": "남자는 눈물을 흘리며 용서를 빌었습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.719970703125,
+          "file_duration": 5.259993896484389,
+          "filename": "F-S2-B-021-0517.wav",
+          "ptr": "남자는  /  눈물을 흘리며  /  용서를 빌었습니다.",
+          "tr": "남자는 눈물을 흘리며 용서를 빌었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0518",
+        "origin_text": "하인들이 울면서 \"부인께서 돌아가셨는데 이유를 모르겠습니다\"하는 것이었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.8800048828125,
+          "file_duration": 8.3800048828125,
+          "filename": "F-S2-B-021-0518.wav",
+          "ptr": "하인들이 울면서  /  부인께서 돌아가셨는데  /  이유를 모르겠습니다하는  /  것이었습니다.",
+          "tr": "하인들이 울면서 부인께서 돌아가셨는데 이유를 모르겠습니다하는 것이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0519",
+        "origin_text": "도둑들은 전우치에게 무릎을 꿇고 살려 달라고 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.239990234375,
+          "file_duration": 5.739990234375,
+          "filename": "F-S2-B-021-0519.wav",
+          "ptr": "도둑들은  /  전우치에게 무릎을 꿇고  /  살려 달라고 했습니다.",
+          "tr": "도둑들은 전우치에게 무릎을 꿇고 살려 달라고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0520",
+        "origin_text": "임금님께서 저를 죽이신다면 저는 죽을 수밖에 없겠지요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.8599853515625,
+          "file_duration": 7.3599853515625,
+          "filename": "F-S2-B-021-0520.wav",
+          "ptr": "임금님께서  /  저를 죽이신다면  /  저는  /  죽을 수밖에 없겠지요.",
+          "tr": "임금님께서 저를 죽이신다면 저는 죽을 수밖에 없겠지요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0521",
+        "origin_text": "괴물이 아내를 죽였고 저는 살았지만 동해까지 갈 힘이 없습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.47998046875,
+          "file_duration": 7.989974365234389,
+          "filename": "F-S2-B-021-0521.wav",
+          "ptr": "괴물이 아내를 죽였고  /  저는  /  살았지만  /  동해까지 갈 힘이 없습니다.",
+          "tr": "괴물이 아내를 죽였고 저는 살았지만 동해까지 갈 힘이 없습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0522",
+        "origin_text": "장원 부부는 해룡이 있던 곳을 살폈지만 아무리 찾아도 해룡은 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.44000244140625,
+          "file_duration": 7.959989013671873,
+          "filename": "F-S2-B-021-0522.wav",
+          "ptr": "장원 부부는  /  해룡이 있던 곳을 살폈지만  /  아무리 찾아도  /  해룡은 없었습니다.",
+          "tr": "장원 부부는 해룡이 있던 곳을 살폈지만 아무리 찾아도 해룡은 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0523",
+        "origin_text": "그런데 그날 밤 묵손의 집에 갑자기 불이 나서 모두 타 버렸습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.97998046875,
+          "file_duration": 7.459989013671873,
+          "filename": "F-S2-B-021-0523.wav",
+          "ptr": "그런데  /  그날 밤 묵손의 집에 갑자기 불이 나서  /  모두  /  타 버렸습니다.",
+          "tr": "그런데 그날 밤 묵손의 집에 갑자기 불이 나서 모두 타 버렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0524",
+        "origin_text": "매일 해룡을 그리워하다가 몸이 안 좋아졌기 때문이었습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.82000732421875,
+          "file_duration": 5.330025634765633,
+          "filename": "F-S2-B-021-0524.wav",
+          "ptr": "매일 해룡을 그리워하다가  /  몸이 안 좋아졌기 때문이었습니다.",
+          "tr": "매일 해룡을 그리워하다가 몸이 안 좋아졌기 때문이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0525",
+        "origin_text": "자식을 잃었는데 어떻게 오래 살겠습니까? ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.46002197265625,
+          "file_duration": 5,
+          "filename": "F-S2-B-021-0525.wav",
+          "ptr": "자식을 잃었는데  /  어떻게  /  오래 살겠습니까?",
+          "tr": "자식을 잃었는데 어떻게 오래 살겠습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0526",
+        "origin_text": "장삼이 죽자 해룡을 도와줄 사람은 아무도 없었습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.56005859375,
+          "file_duration": 6.100028076171867,
+          "filename": "F-S2-B-021-0526.wav",
+          "ptr": "장삼이 죽자  /  해룡을 도와줄 사람은  /  아무도 없었습니다.",
+          "tr": "장삼이 죽자 해룡을 도와줄 사람은 아무도 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0527",
+        "origin_text": "해룡을 때릴 때마다 아들이 아프다며 쓰러졌습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.08001708984375,
+          "file_duration": 5.58001708984375,
+          "filename": "F-S2-B-021-0527.wav",
+          "ptr": "해룡을 때릴 때마다  /  아들이 아프다며  /  쓰러졌습니다.",
+          "tr": "해룡을 때릴 때마다 아들이 아프다며 쓰러졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0528",
+        "origin_text": "나라가 어려운데 어떻게 편하게 있겠습니까?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.55999755859375,
+          "file_duration": 5.1200000000000045,
+          "filename": "F-S2-B-021-0528.wav",
+          "ptr": "나라가 어려운데  /  어떻게  /  편하게 있겠습니까?",
+          "tr": "나라가 어려운데 어떻게 편하게 있겠습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0529",
+        "origin_text": "해룡이 말을 돌려 달아나려고 했지만 떨어진 바위 때문에 움직일 수가 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.699951171875,
+          "file_duration": 8.15997924804688,
+          "filename": "F-S2-B-021-0529.wav",
+          "ptr": "해룡이 말을 돌려  /  달아나려고 했지만  /  떨어진 바위 때문에  /  움직일 수가 없었습니다.",
+          "tr": "해룡이 말을 돌려 달아나려고 했지만 떨어진 바위 때문에 움직일 수가 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0530",
+        "origin_text": "박씨는 슬퍼서 아무 일도 하지 않고 방 안에서 밥만 먹고 잠만 잤습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.03997802734375,
+          "file_duration": 8.53997802734375,
+          "filename": "F-S2-B-021-0530.wav",
+          "ptr": "박씨는  /  슬퍼서 아무 일도 하지 않고  /  방 안에서  /  밥만 먹고  /  잠만 잤습니다.",
+          "tr": "박씨는 슬퍼서 아무 일도 하지 않고 방 안에서 밥만 먹고 잠만 잤습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0531",
+        "origin_text": "시백은 큰 병에 걸린 사람처럼 먹지도 못하고 몸이 말랐습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.22003173828125,
+          "file_duration": 7.869999999999948,
+          "filename": "F-S2-B-021-0531.wav",
+          "ptr": "시백은  /  큰 병에 걸린 사람처럼  /  먹지도 못하고  /  몸이 말랐습니다.",
+          "tr": "시백은 큰 병에 걸린 사람처럼 먹지도 못하고 몸이 말랐습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0532",
+        "origin_text": "부모와 집안 식구들은 시백이 병이 났다고 걱정했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.46002197265625,
+          "file_duration": 5.96002197265625,
+          "filename": "F-S2-B-021-0532.wav",
+          "ptr": "부모와 집안 식구들은  /  시백이 병이 났다고  /  걱정했습니다.",
+          "tr": "부모와 집안 식구들은 시백이 병이 났다고 걱정했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0533",
+        "origin_text": "공주는 죽여 달라며 눈물을 흘렸습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.3399658203125,
+          "file_duration": 4.8399658203125,
+          "filename": "F-S2-B-021-0533.wav",
+          "ptr": "공주는  /  죽여 달라며  /  눈물을 흘렸습니다.",
+          "tr": "공주는 죽여 달라며 눈물을 흘렸습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0534",
+        "origin_text": "청나라 장군이 “제발 살려 주십시오”하며 손이 발이 되도록 빌었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.5,
+          "file_duration": 6.990000000000009,
+          "filename": "F-S2-B-021-0534.wav",
+          "ptr": "청나라 장군이  /  제발 살려 주십시오하며  /  손이 발이 되도록  /  빌었습니다.",
+          "tr": "청나라 장군이 제발 살려 주십시오하며 손이 발이 되도록 빌었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0535",
+        "origin_text": "청나라 장군은 할 수 없이 피화당에서 멀리 물러나며 ‘괜히 여자들을 공격하다가 병사들만 죽였구나`하며 크게 후회했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 13.75994873046875,
+          "file_duration": 14.350000000000023,
+          "filename": "F-S2-B-021-0535.wav",
+          "ptr": "청나라 장군은  /  할 수 없이  /  피화당에서 멀리 물러나며  /  괜히  /  여자들을 공격하다가  /  병사들만 죽였구나하며  /  크게  /  후회했습니다.",
+          "tr": "청나라 장군은 할 수 없이 피화당에서 멀리 물러나며 괜히 여자들을 공격하다가 병사들만 죽였구나하며 크게 후회했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0536",
+        "origin_text": "임경업은 편지를 보고 통곡하며 홀연히 사라졌습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.53997802734375,
+          "file_duration": 6.050006103515614,
+          "filename": "F-S2-B-021-0536.wav",
+          "ptr": "임경업은  /  편지를 보고  /  통곡하며  /  홀연히 사라졌습니다.",
+          "tr": "임경업은 편지를 보고 통곡하며 홀연히 사라졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0537",
+        "origin_text": "궁궐로 돌아온 임금은 박씨의 말을 듣지 않은 것을 후회했습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.1199951171875,
+          "file_duration": 5.670003662109366,
+          "filename": "F-S2-B-021-0537.wav",
+          "ptr": "궁궐로 돌아온 임금은  /  박씨의 말을 듣지 않은 것을  /  후회했습니다.",
+          "tr": "궁궐로 돌아온 임금은 박씨의 말을 듣지 않은 것을 후회했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0538",
+        "origin_text": "온 나라 사람들이 박씨 부인의 죽음을 슬퍼했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.77996826171875,
+          "file_duration": 5.27996826171875,
+          "filename": "F-S2-B-021-0538.wav",
+          "ptr": "온 나라 사람들이  /  박씨 부인의 죽음을  /  슬퍼했습니다.",
+          "tr": "온 나라 사람들이 박씨 부인의 죽음을 슬퍼했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0539",
+        "origin_text": "여인이 먼저 부처님에게 세 번 절을 하고 나서 슬픈 얼굴로 글을 적은 종이를 부처님에게 바쳤습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 10.02001953125,
+          "file_duration": 10.529999999999973,
+          "filename": "F-S2-B-021-0539.wav",
+          "ptr": "여인이 먼저  /  부처님에게 세 번 절을 하고 나서  /  슬픈 얼굴로  /  글을 적은 종이를  /  부처님에게 바쳤습니다.",
+          "tr": "여인이 먼저 부처님에게 세 번 절을 하고 나서 슬픈 얼굴로 글을 적은 종이를 부처님에게 바쳤습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0540",
+        "origin_text": "저는 지난번 적군이 쳐들어왔을 때 가족들과 헤어져 삼 년 동안이나 산골짜기에서 외롭게 지냈습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 10.760009765625,
+          "file_duration": 11.270025634765602,
+          "filename": "F-S2-B-021-0540.wav",
+          "ptr": "저는  /  지난번 적군이 쳐들어왔을 때  /  가족들과 헤어져  /  삼 년 동안이나  /  산골짜기에서  /  외롭게 지냈습니다.",
+          "tr": "저는 지난번 적군이 쳐들어왔을 때 가족들과 헤어져 삼 년 동안이나 산골짜기에서 외롭게 지냈습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0541",
+        "origin_text": "하지만 이제 저승으로 가야 하고 지금 헤어지면 다시는 만날 수 없어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.8800048828125,
+          "file_duration": 8.3800048828125,
+          "filename": "F-S2-B-021-0541.wav",
+          "ptr": "하지만  /  이제 저승으로 가야 하고  /  지금 헤어지면  /  다시는 만날 수 없어요.",
+          "tr": "하지만 이제 저승으로 가야 하고 지금 헤어지면 다시는 만날 수 없어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0542",
+        "origin_text": "여인이 눈물을 흘리며 \"이별하게 되어서 너무 가슴이 아파요\"하고 말했습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.05999755859375,
+          "file_duration": 7.610000000000014,
+          "filename": "F-S2-B-021-0542.wav",
+          "ptr": "여인이 눈물을 흘리며  /  이별하게 되어서  /  너무 가슴이 아파요하고  /  말했습니다.",
+          "tr": "여인이 눈물을 흘리며 이별하게 되어서 너무 가슴이 아파요하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0543",
+        "origin_text": "여인을 저승으로 보내는 제사가 시작되자 법당 안에서 여인의 부모와 친척들이 슬프게 울었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 10.32000732421875,
+          "file_duration": 10.930000000000007,
+          "filename": "F-S2-B-021-0543.wav",
+          "ptr": "여인을 저승으로 보내는 제사가  /  시작되자  /  법당 안에서  /  여인의 부모와 친척들이  /  슬프게  /  울었습니다.",
+          "tr": "여인을 저승으로 보내는 제사가 시작되자 법당 안에서 여인의 부모와 친척들이 슬프게 울었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0544",
+        "origin_text": "양생은 여인이 불쌍하고 그리워서 통곡을 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.1199951171875,
+          "file_duration": 5.6699865722656,
+          "filename": "F-S2-B-021-0544.wav",
+          "ptr": "양생은  /  여인이 불쌍하고 그리워서  /  통곡을 했습니다.",
+          "tr": "양생은 여인이 불쌍하고 그리워서 통곡을 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0545",
+        "origin_text": "최씨는 여종의 말을 듣고 병이 났습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.17999267578125,
+          "file_duration": 4.71999999999997,
+          "filename": "F-S2-B-021-0545.wav",
+          "ptr": "최씨는  /  여종의 말을 듣고  /  병이 났습니다.",
+          "tr": "최씨는 여종의 말을 듣고 병이 났습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0546",
+        "origin_text": "최씨는 이생이 왜 시골에 가서 오지 않는지 알 수가 없었고 병은 점점 심해졌습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 10.20001220703125,
+          "file_duration": 10.720000000000027,
+          "filename": "F-S2-B-021-0546.wav",
+          "ptr": "최씨는  /  이생이 왜 시골에 가서 오지 않는지  /  알 수가 없었고  /  병은  /  점점  /  심해졌습니다.",
+          "tr": "최씨는 이생이 왜 시골에 가서 오지 않는지 알 수가 없었고 병은 점점 심해졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0547",
+        "origin_text": "최씨는 일어나 앉기는커녕 음식을 먹지 못하고 물도 마시지 못했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.82000732421875,
+          "file_duration": 8.349993896484364,
+          "filename": "F-S2-B-021-0547.wav",
+          "ptr": "최씨는  /  일어나 앉기는커녕  /  음식을 먹지 못하고  /  물도 마시지 못했습니다.",
+          "tr": "최씨는 일어나 앉기는커녕 음식을 먹지 못하고 물도 마시지 못했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0548",
+        "origin_text": "저는 모든 게 두려워서 아무에게도 말하지 못하고 병이 났어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.719970703125,
+          "file_duration": 7.219970703125,
+          "filename": "F-S2-B-021-0548.wav",
+          "ptr": "저는  /  모든 게 두려워서  /  아무에게도 말하지 못하고  /  병이 났어요.",
+          "tr": "저는 모든 게 두려워서 아무에게도 말하지 못하고 병이 났어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0549",
+        "origin_text": "최씨의 부모는 딸이 죽을까 봐 걱정이 되었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.84002685546875,
+          "file_duration": 5.370010986328111,
+          "filename": "F-S2-B-021-0549.wav",
+          "ptr": "최씨의 부모는  /  딸이 죽을까 봐  /  걱정이 되었습니다.",
+          "tr": "최씨의 부모는 딸이 죽을까 봐 걱정이 되었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0550",
+        "origin_text": "사람들은 적이 무서워서 집을 버리고 떠났습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.199951171875,
+          "file_duration": 5.769974365234361,
+          "filename": "F-S2-B-021-0550.wav",
+          "ptr": "사람들은  /  적이 무서워서  /  집을 버리고  /  떠났습니다.",
+          "tr": "사람들은 적이 무서워서 집을 버리고 떠났습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 461.87995464852605,
+      "filename": "/data2/gst-voice/splitted/F/021/F-S204-P11-B-021.wav",
+      "recorded_at": "2022-09-20 09:13:15",
+      "sample_rate": 44100
+    }
+  }
+]

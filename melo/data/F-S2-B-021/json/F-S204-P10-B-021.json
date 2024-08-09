@@ -1,0 +1,2145 @@
+[
+  {
+    "id": "F-S204-P10-B-021",
+    "import": {
+      "author": "한국어읽기연구회",
+      "book_title": "외국인을 위한 한국어 읽기 38",
+      "country": "한국",
+      "id": "F0089",
+      "publish_year": 2013,
+      "times_bg": "중세",
+      "title": "장화홍련전",
+      "translator": ""
+    },
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 1117,
+      "id": "F-S204",
+      "normalized": [
+        "홍련이 걱정스러운 얼굴로 언니, 무슨 일이야라고 물었습니다.",
+        "여기가 누나의 무덤이에요.",
+        "장화가 다시 살아서 효도하고, 행복해야 해하는 목소리가 들려왔습니다.",
+        "저와 언니의 억울함을 풀기 위해서입니다.",
+        "홍련이 안타까운 듯 사또들께서 저를 보고 놀라 숨을 거두신 것입니다하고 말했습니다.",
+        "용왕의 병은 시간이 지날수록 점점 심해졌습니다.",
+        "신하들이 바닷속의 여러 약을 가져왔습니다.",
+        "신하들은 용왕이 오랫동안 먹지도 자지도 못한다고 했습니다.",
+        "이 병은 제 힘으로 낫게 할 수 없습니다.",
+        "잉어가 떠나자 용왕은 누가, 어떻게 토끼의 간을 찾아올지 의논하기 위해서 신하들을 불렀습니다.",
+        "하지만 며칠이 지나도 토끼의 모습은 볼 수가 없었습니다.",
+        "산속은 살기 어렵고 무서운 곳입니다.",
+        "당신은 용궁에서 멋지고 편하게 살고 있으니 부럽군요.",
+        "토끼는 자라의 이야기를 들으니까 자기가 불쌍해졌습니다.",
+        "욕심을 부리지 않고 여기에서 살겠습니다.",
+        "하지만 땅에서는 매일 죽을 고생을 하며 살고 있지요.",
+        "그런데 어젯밤에 나쁜 꿈을 꾸었습니다.",
+        "우리 주인어른이 어떤 사람인지 모르십니까?",
+        "염불 소리를 들으시면 스님을 내쫓을 겁니다.",
+        "진짜 옹고집이 울부짖자 며느리는 다시 마음이 혼란스러웠습니다.",
+        "두 분이 똑같으니 제가 어떻게 해야 합니까?",
+        "옹고집의 생각에 늙은 스님은 자기를 용서해 줄 힘이 있을 것 같았습니다.",
+        "신분 때문에 결혼을 할 수 없으니 안 만나는 것이 좋겠습니다.",
+        "춘향은 너무 놀라 주저앉았습니다.",
+        "몽룡은 부모님 몰래 춘향을 데려가겠다고 했습니다.",
+        "벼슬을 얻으면 부모님의 마음도 바꿀 수 있을 것 같았습니다.",
+        "안 데려가면 우리가 벌을 받아요.",
+        "춘향의 집은 전과 다르게 매우 낡아 보였습니다.",
+        "월매는 많이 늙은 것 같았습니다.",
+        "하늘의 해님, 달님, 별님, 저희를 도와주세요.",
+        "사람들은 항상 꿩을 잡아먹고 싶어 했기 때문에 꿩은 위험할 때가 많았습니다.",
+        "숲으로 가면 사냥개가 꿩을 잡으려고 쫓아왔습니다.",
+        "이 세상은 꿩들이 살아가기에 너무 힘든 곳이었습니다.",
+        "눈이 많이 내린 겨울은 풍경이 매우 아름다웠지만 꿩들은 살기가 힘들었습니다.",
+        "꿩들은 사람들이 땅에 떨어뜨린 곡식을 주워 먹어야 했습니다.",
+        "남자는 집안을 생각해서 늘 조심해야 돼요.",
+        "당신이 죽으면 우리는 어떻게 해요?",
+        "모든 일은 잘못된 뒤에야 알 수 있어요.",
+        "장끼와 까투리는 결혼한 지 삼 년밖에 안 되었습니다.",
+        "따오기는 제사상 앞에서 명복을 비는 글을 읽었습니다.",
+        "매는 얼른 꿩 새끼를 포기했습니다.",
+        "홍문은 아이가 하녀의 몸에서 태어나서 안타까웠습니다.",
+        "부인이 그때 내 말을 들었으면 아이는 부인에게서 태어났을 것이오.",
+        "그러나 천한 신분으로 태어나서 그럴 수 없습니다.",
+        "제가 갈 곳이 어디 있겠습니까?",
+        "홍문은 길동이 집을 떠나게 할 수 없었습니다.",
+        "춘섬은 길동을 붙잡을 수가 없었습니다.",
+        "춘섬이 길동에게 잠깐 집을 나갔다가 곧 돌아와라하면서 눈물을 흘렸습니다.",
+        "길현은 더 이상 아버지를 속일 수가 없었습니다.",
+        "홍문은 하인들에게 시체를 옮기라고 했고 이 일을 아무에게도 말하지 말라고 했습니다."
+      ],
+      "origin": [
+        "홍련이 걱정스러운 얼굴로 “언니, 무슨 일이야”라고 물었습니다.",
+        "여기가 누나의 무덤이에요.",
+        "장화가 다시 \"살아서 효도하고, 행복해야 해”하는 목소리가 들려왔습니다.",
+        "“저와 언니의 억울함을 풀기 위해서입니다.”",
+        "홍련이 안타까운 듯 “사또들께서 저를 보고 놀라 숨을 거두신 것입니다\"하고 말했습니다.",
+        "용왕의 병은 시간이 지날수록 점점 심해졌습니다. ",
+        "신하들이 바닷속의 여러 약을 가져왔습니다.",
+        "신하들은 용왕이 오랫동안 먹지도 자지도 못한다고 했습니다.",
+        "이 병은 제 힘으로 낫게 할 수 없습니다.",
+        "잉어가 떠나자 용왕은 누가, 어떻게 토끼의 간을 찾아올지 의논하기 위해서 신하들을 불렀습니다.",
+        "하지만 며칠이 지나도 토끼의 모습은 볼 수가 없었습니다.",
+        "산속은 살기 어렵고 무서운 곳입니다.",
+        "당신은 용궁에서 멋지고 편하게 살고 있으니 부럽군요.",
+        "토끼는 자라의 이야기를 들으니까 자기가 불쌍해졌습니다.",
+        "욕심을 부리지 않고 여기에서 살겠습니다.",
+        "하지만 땅에서는 매일 죽을 고생을 하며 살고 있지요.",
+        "그런데 어젯밤에 나쁜 꿈을 꾸었습니다.",
+        "우리 주인어른이 어떤 사람인지 모르십니까? ",
+        "염불 소리를 들으시면 스님을 내쫓을 겁니다.",
+        "진짜 옹고집이 울부짖자 며느리는 다시 마음이 혼란스러웠습니다. ",
+        "두 분이 똑같으니 제가 어떻게 해야 합니까? ",
+        "옹고집의 생각에 늙은 스님은 자기를 용서해 줄 힘이 있을 것 같았습니다.",
+        "신분 때문에 결혼을 할 수 없으니 안 만나는 것이 좋겠습니다.",
+        "춘향은 너무 놀라 주저앉았습니다. ",
+        "몽룡은 부모님 몰래 춘향을 데려가겠다고 했습니다. ",
+        "벼슬을 얻으면 부모님의 마음도 바꿀 수 있을 것 같았습니다.",
+        "안 데려가면 우리가 벌을 받아요.",
+        "춘향의 집은 전과 다르게 매우 낡아 보였습니다.",
+        "월매는 많이 늙은 것 같았습니다.",
+        "하늘의 해님, 달님, 별님, 저희를 도와주세요.",
+        "사람들은 항상 꿩을 잡아먹고 싶어 했기 때문에 꿩은 위험할 때가 많았습니다.",
+        "숲으로 가면 사냥개가 꿩을 잡으려고 쫓아왔습니다.",
+        "이 세상은 꿩들이 살아가기에 너무 힘든 곳이었습니다.",
+        "눈이 많이 내린 겨울은 풍경이 매우 아름다웠지만 꿩들은 살기가 힘들었습니다.",
+        "꿩들은 사람들이 땅에 떨어뜨린 곡식을 주워 먹어야 했습니다.",
+        "남자는 집안을 생각해서 늘 조심해야 돼요.",
+        "당신이 죽으면 우리는 어떻게 해요?",
+        "모든 일은 잘못된 뒤에야 알 수 있어요. ",
+        "장끼와 까투리는 결혼한 지 삼 년밖에 안 되었습니다.",
+        "따오기는 제사상 앞에서 명복을 비는 글을 읽었습니다. ",
+        "매는 얼른 꿩 새끼를 포기했습니다.",
+        "홍문은 아이가 하녀의 몸에서 태어나서 안타까웠습니다.",
+        "부인이 그때 내 말을 들었으면 아이는 부인에게서 태어났을 것이오.",
+        "그러나 천한 신분으로 태어나서 그럴 수 없습니다. ",
+        "제가 갈 곳이 어디 있겠습니까?",
+        "홍문은 길동이 집을 떠나게 할 수 없었습니다.",
+        "춘섬은 길동을 붙잡을 수가 없었습니다.",
+        "춘섬이 길동에게 “잠깐 집을 나갔다가 곧 돌아와라\"하면서 눈물을 흘렸습니다. ",
+        "길현은 더 이상 아버지를 속일 수가 없었습니다.",
+        "홍문은 하인들에게 시체를 옮기라고 했고 이 일을 아무에게도 말하지 말라고 했습니다."
+      ],
+      "part_no": 10,
+      "tokens_count": 350
+    },
+    "sentences": [
+      {
+        "id": "F-S2-B-021-0451",
+        "origin_text": "홍련이 걱정스러운 얼굴로 언니 무슨 일이야 라고 물었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.029999732971191,
+          "file_duration": 6.53,
+          "filename": "F-S2-B-021-0451.wav",
+          "ptr": "홍련이 걱정스러운 얼굴로  /  언니  /  무슨 일이야 라고  /  물었습니다.",
+          "tr": "홍련이 걱정스러운 얼굴로 언니 무슨 일이야 라고 물었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0452",
+        "origin_text": "여기가 누나의 무덤이에요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.939999580383301,
+          "file_duration": 3.439999580383301,
+          "filename": "F-S2-B-021-0452.wav",
+          "ptr": "여기가  /  누나의 무덤이에요.",
+          "tr": "여기가 누나의 무덤이에요."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0453",
+        "origin_text": "장화가 다시 살아서 효도하고, 행복해야 해하는 목소리가 들려왔습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.959999084472656,
+          "file_duration": 7.47999900817871,
+          "filename": "F-S2-B-021-0453.wav",
+          "ptr": "장화가 다시 살아서  /  효도하고  /  행복해야 해하는  /  목소리가 들려왔습니다.",
+          "tr": "장화가 다시 살아서 효도하고 행복해야 해하는 목소리가 들려왔습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0454",
+        "origin_text": "저와 언니의 억울함을 풀기 위해서입니다",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.060001373291016,
+          "file_duration": 4.579999618530273,
+          "filename": "F-S2-B-021-0454.wav",
+          "ptr": "저와  /  언니의 억울함을  /  풀기 위해서입니다",
+          "tr": "저와 언니의 억울함을 풀기 위해서입니다"
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0455",
+        "origin_text": "홍련이 안타까운 듯 사또들께서 저를 보고 놀라 숨을 거두신 것입니다 하고 말했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 8.240001678466797,
+          "file_duration": 8.780000076293945,
+          "filename": "F-S2-B-021-0455.wav",
+          "ptr": "홍련이  /  안타까운 듯  /  사또들께서  /  저를 보고 놀라  /  숨을 거두신 것입니다 하고  /  말했습니다.",
+          "tr": "홍련이 안타까운 듯 사또들께서 저를 보고 놀라 숨을 거두신 것입니다 하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0456",
+        "origin_text": "용왕의 병은 시간이 지날수록 점점 심해졌습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.680000305175781,
+          "file_duration": 5.240000000000002,
+          "filename": "F-S2-B-021-0456.wav",
+          "ptr": "용왕의 병은  /  시간이 지날수록  /  점점 심해졌습니다.",
+          "tr": "용왕의 병은 시간이 지날수록 점점 심해졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0457",
+        "origin_text": "신하들이 바닷속의 여러 약을 가져왔습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.2399978637695312,
+          "file_duration": 3.769998397827152,
+          "filename": "F-S2-B-021-0457.wav",
+          "ptr": "신하들이 바닷속의  /  여러 약을 가져왔습니다.",
+          "tr": "신하들이 바닷속의 여러 약을 가져왔습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0458",
+        "origin_text": "신하들은 용왕이 오랫동안 먹지도 자지도 못한다고 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.840000152587891,
+          "file_duration": 5.340000152587891,
+          "filename": "F-S2-B-021-0458.wav",
+          "ptr": "신하들은  /  용왕이 오랫동안 먹지도 자지도 못한다고 했습니다.",
+          "tr": "신하들은 용왕이 오랫동안 먹지도 자지도 못한다고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0459",
+        "origin_text": "이 병은 제 힘으로 낫게 할 수 없습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.7399978637695312,
+          "file_duration": 4.239997863769531,
+          "filename": "F-S2-B-021-0459.wav",
+          "ptr": "이 병은  /  제 힘으로 낫게 할 수 없습니다.",
+          "tr": "이 병은 제 힘으로 낫게 할 수 없습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0460",
+        "origin_text": "잉어가 떠나자 용왕은 누가, 어떻게 토끼의 간을 찾아올지 의논하기 위해서 신하들을 불렀습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 10.040000915527344,
+          "file_duration": 10.540000915527344,
+          "filename": "F-S2-B-021-0460.wav",
+          "ptr": "잉어가 떠나자  /  용왕은  /  누가 어떻게  /  토끼의 간을 찾아올지  /  의논하기 위해서  /  신하들을 불렀습니다.",
+          "tr": "잉어가 떠나자 용왕은 누가, 어떻게 토끼의 간을 찾아올지 의논하기 위해서 신하들을 불렀습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0461",
+        "origin_text": "하지만 며칠이 지나도 토끼의 모습은 볼 수가 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.459999084472656,
+          "file_duration": 5.959999084472656,
+          "filename": "F-S2-B-021-0461.wav",
+          "ptr": "하지만  /  며칠이 지나도  /  토끼의 모습은 볼 수가 없었습니다.",
+          "tr": "하지만 며칠이 지나도 토끼의 모습은 볼 수가 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0462",
+        "origin_text": "산속은 살기 어렵고 무서운 곳입니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.9600067138671875,
+          "file_duration": 4.500003128051759,
+          "filename": "F-S2-B-021-0462.wav",
+          "ptr": "산속은  /  살기 어렵고  /  무서운 곳입니다.",
+          "tr": "산속은 살기 어렵고 무서운 곳입니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0463",
+        "origin_text": "당신은 용궁에서 멋지고 편하게 살고 있으니 부럽군요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.3600006103515625,
+          "file_duration": 5.859999999999999,
+          "filename": "F-S2-B-021-0463.wav",
+          "ptr": "당신은  /  용궁에서 멋지고 편하게 살고 있으니  /  부럽군요.",
+          "tr": "당신은 용궁에서 멋지고 편하게 살고 있으니 부럽군요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0464",
+        "origin_text": "토끼는 자라의 이야기를 들으니까 자기가 불쌍해졌습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.779998779296875,
+          "file_duration": 6.319999618530275,
+          "filename": "F-S2-B-021-0464.wav",
+          "ptr": "토끼는  /  자라의 이야기를 들으니까  /  자기가  /  불쌍해졌습니다.",
+          "tr": "토끼는 자라의 이야기를 들으니까 자기가 불쌍해졌습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0465",
+        "origin_text": "욕심을 부리지 않고 여기에서 살겠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.5399932861328125,
+          "file_duration": 4.1299999999999955,
+          "filename": "F-S2-B-021-0465.wav",
+          "ptr": "욕심을 부리지 않고  /  여기에서 살겠습니다.",
+          "tr": "욕심을 부리지 않고 여기에서 살겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0466",
+        "origin_text": "하지만 땅에서는 매일 죽을 고생을 하며 살고 있지요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.040000915527344,
+          "file_duration": 5.540000915527344,
+          "filename": "F-S2-B-021-0466.wav",
+          "ptr": "하지만  /  땅에서는  /  매일 죽을 고생을 하며 살고 있지요.",
+          "tr": "하지만 땅에서는 매일 죽을 고생을 하며 살고 있지요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0467",
+        "origin_text": "그런데 어젯밤에 나쁜 꿈을 꾸었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.9799957275390625,
+          "file_duration": 4.519997787475575,
+          "filename": "F-S2-B-021-0467.wav",
+          "ptr": "그런데  /  어젯밤에 나쁜 꿈을 꾸었습니다.",
+          "tr": "그런데 어젯밤에 나쁜 꿈을 꾸었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0468",
+        "origin_text": "우리 주인어른이 어떤 사람인지 모르십니까? ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.5399932861328125,
+          "file_duration": 4.059997940063482,
+          "filename": "F-S2-B-021-0468.wav",
+          "ptr": "우리 주인어른이  /  어떤 사람인지 모르십니까?",
+          "tr": "우리 주인어른이 어떤 사람인지 모르십니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0469",
+        "origin_text": "염불 소리를 들으시면 스님을 내쫓을 겁니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.260009765625,
+          "file_duration": 4.849999999999994,
+          "filename": "F-S2-B-021-0469.wav",
+          "ptr": "염불 소리를 들으시면  /  스님을  /  내쫓을 겁니다.",
+          "tr": "염불 소리를 들으시면 스님을 내쫓을 겁니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0470",
+        "origin_text": "진짜 옹고집이 울부짖자 며느리는 다시 마음이 혼란스러웠습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.7599945068359375,
+          "file_duration": 7.340000000000003,
+          "filename": "F-S2-B-021-0470.wav",
+          "ptr": "진짜 옹고집이  /  울부짖자  /  며느리는  /  다시 마음이  /  혼란스러웠습니다.",
+          "tr": "진짜 옹고집이 울부짖자 며느리는 다시 마음이 혼란스러웠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0471",
+        "origin_text": "두 분이 똑같으니 제가 어떻게 해야 합니까? ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.9600067138671875,
+          "file_duration": 4.510004501342763,
+          "filename": "F-S2-B-021-0471.wav",
+          "ptr": "두 분이 똑같으니  /  제가  /  어떻게 해야 합니까?",
+          "tr": "두 분이 똑같으니 제가 어떻게 해야 합니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0472",
+        "origin_text": "옹고집의 생각에 늙은 스님은 자기를 용서해 줄 힘이 있을 것 같았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.1800079345703125,
+          "file_duration": 6.6800079345703125,
+          "filename": "F-S2-B-021-0472.wav",
+          "ptr": "옹고집의 생각에  /  늙은 스님은  /  자기를 용서해 줄 힘이 있을 것 같았습니다.",
+          "tr": "옹고집의 생각에 늙은 스님은 자기를 용서해 줄 힘이 있을 것 같았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0473",
+        "origin_text": "신분 때문에 결혼을 할 수 없으니 안 만나는 것이 좋겠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.9199981689453125,
+          "file_duration": 5.52000000000001,
+          "filename": "F-S2-B-021-0473.wav",
+          "ptr": "신분 때문에  /  결혼을 할 수 없으니  /  안 만나는 것이 좋겠습니다.",
+          "tr": "신분 때문에 결혼을 할 수 없으니 안 만나는 것이 좋겠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0474",
+        "origin_text": "춘향은 너무 놀라 주저앉았습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.4799957275390625,
+          "file_duration": 3.9799957275390625,
+          "filename": "F-S2-B-021-0474.wav",
+          "ptr": "춘향은  /  너무 놀라  /  주저앉았습니다.",
+          "tr": "춘향은 너무 놀라 주저앉았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0475",
+        "origin_text": "몽룡은 부모님 몰래 춘향을 데려가겠다고 했습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.959991455078125,
+          "file_duration": 5.459991455078125,
+          "filename": "F-S2-B-021-0475.wav",
+          "ptr": "몽룡은  /  부모님 몰래  /  춘향을 데려가겠다고 했습니다.",
+          "tr": "몽룡은 부모님 몰래 춘향을 데려가겠다고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0476",
+        "origin_text": "벼슬을 얻으면 부모님의 마음도 바꿀 수 있을 것 같았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5,
+          "file_duration": 5.5,
+          "filename": "F-S2-B-021-0476.wav",
+          "ptr": "벼슬을 얻으면  /  부모님의 마음도  /  바꿀 수 있을 것 같았습니다.",
+          "tr": "벼슬을 얻으면 부모님의 마음도 바꿀 수 있을 것 같았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0477",
+        "origin_text": "안 데려가면 우리가 벌을 받아요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.5999908447265625,
+          "file_duration": 3.0999908447265625,
+          "filename": "F-S2-B-021-0477.wav",
+          "ptr": "안 데려가면  /  우리가 벌을 받아요.",
+          "tr": "안 데려가면 우리가 벌을 받아요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0478",
+        "origin_text": "춘향의 집은 전과 다르게 매우 낡아 보였습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.1200103759765625,
+          "file_duration": 4.660003280639643,
+          "filename": "F-S2-B-021-0478.wav",
+          "ptr": "춘향의 집은  /  전과 다르게  /  매우 낡아 보였습니다.",
+          "tr": "춘향의 집은 전과 다르게 매우 낡아 보였습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0479",
+        "origin_text": "월매는 많이 늙은 것 같았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.05999755859375,
+          "file_duration": 3.600004043579105,
+          "filename": "F-S2-B-021-0479.wav",
+          "ptr": "월매는  /  많이 늙은 것 같았습니다.",
+          "tr": "월매는 많이 늙은 것 같았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0480",
+        "origin_text": "하늘의 해님, 달님, 별님, 저희를 도와주세요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.9199981689453125,
+          "file_duration": 6.490000000000009,
+          "filename": "F-S2-B-021-0480.wav",
+          "ptr": "하늘의 해님  /  달님  /  별님  /  저희를  /  도와주세요.",
+          "tr": "하늘의 해님, 달님, 별님, 저희를 도와주세요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0481",
+        "origin_text": "사람들은 항상 꿩을 잡아먹고 싶어 했기 때문에 꿩은 위험할 때가 많았습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.239990234375,
+          "file_duration": 7.8300000000000125,
+          "filename": "F-S2-B-021-0481.wav",
+          "ptr": "사람들은  /  항상 꿩을 잡아먹고 싶어 했기 때문에  /  꿩은  /  위험할 때가 많았습니다.",
+          "tr": "사람들은 항상 꿩을 잡아먹고 싶어 했기 때문에 꿩은 위험할 때가 많았습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0482",
+        "origin_text": "숲으로 가면 사냥개가 꿩을 잡으려고 쫓아왔습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.5,
+          "file_duration": 5.059996109008779,
+          "filename": "F-S2-B-021-0482.wav",
+          "ptr": "숲으로 가면  /  사냥개가 꿩을 잡으려고  /  쫓아왔습니다.",
+          "tr": "숲으로 가면 사냥개가 꿩을 잡으려고 쫓아왔습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0483",
+        "origin_text": "이 세상은 꿩들이 살아가기에 너무 힘든 곳이었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.9600067138671875,
+          "file_duration": 5.4600067138671875,
+          "filename": "F-S2-B-021-0483.wav",
+          "ptr": "이 세상은  /  꿩들이 살아가기에  /  너무 힘든 곳이었습니다.",
+          "tr": "이 세상은 꿩들이 살아가기에 너무 힘든 곳이었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0484",
+        "origin_text": "눈이 많이 내린 겨울은 풍경이 매우 아름다웠지만 꿩들은 살기가 힘들었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.339996337890625,
+          "file_duration": 7.8899851226806845,
+          "filename": "F-S2-B-021-0484.wav",
+          "ptr": "눈이 많이 내린 겨울은  /  풍경이 매우 아름다웠지만  /  꿩들은  /  살기가 힘들었습니다.",
+          "tr": "눈이 많이 내린 겨울은 풍경이 매우 아름다웠지만 꿩들은 살기가 힘들었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0485",
+        "origin_text": "꿩들은 사람들이 땅에 떨어뜨린 곡식을 주워 먹어야 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.839996337890625,
+          "file_duration": 5.339996337890625,
+          "filename": "F-S2-B-021-0485.wav",
+          "ptr": "꿩들은  /  사람들이 땅에 떨어뜨린 곡식을 주워 먹어야 했습니다.",
+          "tr": "꿩들은 사람들이 땅에 떨어뜨린 곡식을 주워 먹어야 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0486",
+        "origin_text": "남자는 집안을 생각해서 늘 조심해야 돼요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.920013427734375,
+          "file_duration": 5.450003890991184,
+          "filename": "F-S2-B-021-0486.wav",
+          "ptr": "남자는  /  집안을 생각해서  /  늘  /  조심해야 돼요.",
+          "tr": "남자는 집안을 생각해서 늘 조심해야 돼요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0487",
+        "origin_text": "당신이 죽으면 우리는 어떻게 해요?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.899993896484375,
+          "file_duration": 3.459999008178727,
+          "filename": "F-S2-B-021-0487.wav",
+          "ptr": "당신이 죽으면  /  우리는 어떻게 해요?",
+          "tr": "당신이 죽으면 우리는 어떻게 해요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0488",
+        "origin_text": "모든 일은 잘못된 뒤에야 알 수 있어요. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.05999755859375,
+          "file_duration": 4.55999755859375,
+          "filename": "F-S2-B-021-0488.wav",
+          "ptr": "모든 일은  /  잘못된 뒤에야  /  알 수 있어요.",
+          "tr": "모든 일은 잘못된 뒤에야 알 수 있어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0489",
+        "origin_text": "장끼와 까투리는 결혼한 지 삼 년밖에 안 되었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.8800048828125,
+          "file_duration": 5.460000000000036,
+          "filename": "F-S2-B-021-0489.wav",
+          "ptr": "장끼와 까투리는  /  결혼한 지 삼 년 밖에  /  안 되었습니다.",
+          "tr": "장끼와 까투리는 결혼한 지 삼 년 밖에 안 되었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 3,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0490",
+        "origin_text": "따오기는 제사장 앞에서 명복을 비는 글을 읽었습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.4000244140625,
+          "file_duration": 5.930011215209959,
+          "filename": "F-S2-B-021-0490.wav",
+          "ptr": "따오기는  /  제사장 앞에서  /  명복을 비는 글을  /  읽었습니다.",
+          "tr": "따오기는 제사장 앞에서 명복을 비는 글을 읽었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0491",
+        "origin_text": "매는 얼른 꿩 새끼를 포기했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.5,
+          "file_duration": 4.080000000000041,
+          "filename": "F-S2-B-021-0491.wav",
+          "ptr": "매는  /  얼른 꿩 새끼를  /  포기했습니다.",
+          "tr": "매는 얼른 꿩 새끼를 포기했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0492",
+        "origin_text": "홍문은 아이가 하녀의 몸에서 태어나서 안타까웠습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.15997314453125,
+          "file_duration": 5.65997314453125,
+          "filename": "F-S2-B-021-0492.wav",
+          "ptr": "홍문은  /  아이가 하녀의 몸에서 태어나서  /  안타까웠습니다.",
+          "tr": "홍문은 아이가 하녀의 몸에서 태어나서 안타까웠습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0493",
+        "origin_text": "부인이 그때 내 말을 들었으면 아이는 부인에게서 태어났을 것이오.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.94000244140625,
+          "file_duration": 7.430000000000007,
+          "filename": "F-S2-B-021-0493.wav",
+          "ptr": "부인이  /  그때 내 말을 들었으면  /  아이는  /  부인에게서 태어났을 것이오.",
+          "tr": "부인이 그때 내 말을 들었으면 아이는 부인에게서 태어났을 것이오."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0494",
+        "origin_text": "그러나 천한 신분으로 태어나서 그럴 수 없습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.100006103515625,
+          "file_duration": 5.600006103515625,
+          "filename": "F-S2-B-021-0494.wav",
+          "ptr": "그러나  /  천한 신분으로 태어나서  /  그럴 수 없습니다.",
+          "tr": "그러나 천한 신분으로 태어나서 그럴 수 없습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0495",
+        "origin_text": "제가 갈 곳이 어디 있겠습니까?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.699981689453125,
+          "file_duration": 3.199981689453125,
+          "filename": "F-S2-B-021-0495.wav",
+          "ptr": "제가 갈 곳이  /  어디 있겠습니까?",
+          "tr": "제가 갈 곳이 어디 있겠습니까?"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0496",
+        "origin_text": "홍문은 길동이 집을 떠나게 할 수 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.5,
+          "file_duration": 5,
+          "filename": "F-S2-B-021-0496.wav",
+          "ptr": "홍문은  /  길동이 집을 떠나게 할 수  /  없었습니다.",
+          "tr": "홍문은 길동이 집을 떠나게 할 수 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0497",
+        "origin_text": "춘섬은 길동을 붙잡을 수가 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.1400146484375,
+          "file_duration": 4.720000000000027,
+          "filename": "F-S2-B-021-0497.wav",
+          "ptr": "춘섬은  /  길동을 붙잡을 수가  /  없었습니다.",
+          "tr": "춘섬은 길동을 붙잡을 수가 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0498",
+        "origin_text": "춘섬이 길동에게 잠깐 집을 나갔다가 곧 돌아와라 하면서 눈물을 흘렸습니다",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 7.839996337890625,
+          "file_duration": 8.430000000000007,
+          "filename": "F-S2-B-021-0498.wav",
+          "ptr": "춘섬이  /  길동에게 잠깐 집을 나갔다가  /  곧  /  돌아와라하면서  /  눈물을 흘렸습니다",
+          "tr": "춘섬이 길동에게 잠깐 집을 나갔다가 곧 돌아와라 하면서 눈물을 흘렸습니다"
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0499",
+        "origin_text": "길현은 더 이상 아버지를 속일 수가 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 4.600006103515625,
+          "file_duration": 5.170009994506813,
+          "filename": "F-S2-B-021-0499.wav",
+          "ptr": "길현은  /  더 이상 아버지를  /  속일 수가 없었습니다.",
+          "tr": "길현은 더 이상 아버지를 속일 수가 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0500",
+        "origin_text": "홍문은 하인들에게 시체를 옮기라고 했고 이 일을 아무에게도 말하지 말라고 했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.240020751953125,
+          "file_duration": 9.740020751953125,
+          "filename": "F-S2-B-021-0500.wav",
+          "ptr": "홍문은  /  하인들에게  /  시체를 옮기라고 했고  /  이 일을  /  아무에게도 말하지 말라고  /  했습니다.",
+          "tr": "홍문은 하인들에게 시체를 옮기라고 했고 이 일을 아무에게도 말하지 말라고 했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 4,
+            "voter": {
+              "age": 20,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 391.63,
+      "filename": "/data2/gst-voice/splitted/F/021/F-S204-P10-B-021.wav",
+      "recorded_at": "2022-09-20 09:13:15",
+      "sample_rate": 44100
+    }
+  }
+]

@@ -1,0 +1,288 @@
+[
+  {
+    "id": "F-S204-P12-B-021",
+    "import": null,
+    "reciter": {
+      "age": 40,
+      "gender": "MALE",
+      "id": 21
+    },
+    "script": {
+      "chars_count": 135,
+      "id": "F-S204",
+      "normalized": [
+        "가족과 친척들이 모두 헤어졌고 마을에는 아무도 없었습니다.",
+        "이생은 슬픔을 참을 수가 없었습니다.",
+        "이생은 눈물을 흘리면서 계속 누각에 앉아 있었습니다.",
+        "이제 집도 없어지고 부모님도 돌아가셨어요.",
+        "부모님의 유해는 어디에 있어요?",
+        "최씨가 울면서 그러나 운명은 피할 수가 없으니 이제 저승으로 가야 해요하고 말했습니다."
+      ],
+      "origin": [
+        "가족과 친척들이 모두 헤어졌고 마을에는 아무도 없었습니다.",
+        "이생은 슬픔을 참을 수가 없었습니다. ",
+        "이생은 눈물을 흘리면서 계속 누각에 앉아 있었습니다.",
+        "이제 집도 없어지고 부모님도 돌아가셨어요.",
+        "부모님의 유해는 어디에 있어요?",
+        "최씨가 울면서 \"그러나 운명은 피할 수가 없으니 이제 저승으로 가야 해요\"하고 말했습니다."
+      ],
+      "part_no": 12,
+      "tokens_count": 40
+    },
+    "sentences": [
+      {
+        "id": "F-S2-B-021-0551",
+        "origin_text": "가족과 친척들이 모두 헤어졌고 마을에는 아무도 없었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.67999267578125,
+          "file_duration": 7.17999267578125,
+          "filename": "F-S2-B-021-0551.wav",
+          "ptr": "가족과 친척들이  /  모두 헤어졌고  /  마을에는  /  아무도 없었습니다.",
+          "tr": "가족과 친척들이 모두 헤어졌고 마을에는 아무도 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0552",
+        "origin_text": "이생은 슬픔을 참을 수가 없었습니다. ",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 3.20001220703125,
+          "file_duration": 3.70001220703125,
+          "filename": "F-S2-B-021-0552.wav",
+          "ptr": "이생은  /  슬픔을 참을 수가 없었습니다.",
+          "tr": "이생은 슬픔을 참을 수가 없었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0553",
+        "origin_text": "이생은 눈물을 흘리면서 계속 누각에 앉아 있었습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 6.58001708984375,
+          "file_duration": 7.08001708984375,
+          "filename": "F-S2-B-021-0553.wav",
+          "ptr": "이생은  /  눈물을 흘리면서  /  계속  /  누각에 앉아 있었습니다.",
+          "tr": "이생은 눈물을 흘리면서 계속 누각에 앉아 있었습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0554",
+        "origin_text": "이제 집도 없어지고 부모님도 돌아가셨어요.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 5.239990234375,
+          "file_duration": 5.739990234375,
+          "filename": "F-S2-B-021-0554.wav",
+          "ptr": "이제  /  집도 없어지고  /  부모님도  /  돌아가셨어요.",
+          "tr": "이제 집도 없어지고 부모님도 돌아가셨어요."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0555",
+        "origin_text": "부모님의 유해는 어디에 있어요?",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 2.70001220703125,
+          "file_duration": 3.20001220703125,
+          "filename": "F-S2-B-021-0555.wav",
+          "ptr": "부모님의 유해는  /  어디에 있어요?",
+          "tr": "부모님의 유해는 어디에 있어요?"
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      },
+      {
+        "id": "F-S2-B-021-0556",
+        "origin_text": "최씨가 울면서 \"그러나 운명은 피할 수가 없으니 이제 저승으로 가야 해요\"하고 말했습니다.",
+        "style": {
+          "emotion": "슬픔",
+          "intensity": 1,
+          "style": "구연체",
+          "sub_style": ""
+        },
+        "voice_piece": {
+          "duration": 9.8900146484375,
+          "file_duration": 10.3900146484375,
+          "filename": "F-S2-B-021-0556.wav",
+          "ptr": "최씨가 울면서  /  그러나  /  운명은 피할 수가 없으니  /  이제 저승으로 가야 해요하고  /  말했습니다.",
+          "tr": "최씨가 울면서 그러나 운명은 피할 수가 없으니 이제 저승으로 가야 해요하고 말했습니다."
+        },
+        "votes": [
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 40,
+              "gender": "FEMALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 20,
+              "gender": "MALE"
+            }
+          },
+          {
+            "likert_scale": 5,
+            "voter": {
+              "age": 60,
+              "gender": "MALE"
+            }
+          }
+        ]
+      }
+    ],
+    "src_type": "작품",
+    "studio": {
+      "id": "B",
+      "mic": "AKG C-414 XL ll, XLS",
+      "micpre": "Discrete 8 Synergy Core",
+      "name": "스튜디오2"
+    },
+    "voice": {
+      "duration": 52.98997732426304,
+      "filename": "/data2/gst-voice/splitted/F/021/F-S204-P12-B-021.wav",
+      "recorded_at": "2022-09-20 09:13:15",
+      "sample_rate": 44100
+    }
+  }
+]

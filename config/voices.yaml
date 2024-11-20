@@ -58,22 +58,4 @@ voices:
         dataset: ai-hub
         dataset_detail: 133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TL_친절체_064
         train_info:
-            train_steps:             
-  - voice:
-        id: f6da370d-2f03-4a06-8c2c-4e185f78036e
-        name: F-S2-B-021
-        model_id: 6c8d49f3-50b4-4025-bf5b-16e813a2686d
-        model_desc: m_tts_ko_pretrained_model
-        language: kr
-        gender: MAIL
-        type: CHIN-JEUL-CHE
-        dataset: ai-hub
-        dataset_detail: 133.감성 및 발화 스타일 동시 고려 음성합성 데이터 - TS_구연체_021
-        train_info:
-            train_steps:             
-
-
-
-            
-
-    
+            train_steps: 111
